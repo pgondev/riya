@@ -3551,8 +3551,8 @@ export const PERFORMANCE_INDICATOR_DETAILS: Record<string, PerformanceIndicatorD
       "Value Delivery: All seven marketing functions work together to support value delivery to customers."
     ],
     roleplayTips: [
-      "\"Understanding all seven marketing functions helps me see how decisions in one area—like pricing—ripple across promotion, distribution, and sales.\\"",
-      "\"The marketing functions are like gears in a system—each one must work properly and in coordination with the others for the whole machine to run.\\"",
+      "\"Understanding all seven marketing functions helps me see how decisions in one area—like pricing—ripple across promotion, distribution, and sales.\"",
+      "\"The marketing functions are like gears in a system—each one must work properly and in coordination with the others for the whole machine to run.\"",
       "\"Every marketing activity I perform connects to one of the seven core functions, which helps me understand how my work contributes to the bigger picture.\""
     ]
   },
@@ -3609,7 +3609,7 @@ export const PERFORMANCE_INDICATOR_DETAILS: Record<string, PerformanceIndicatorD
     ],
     roleplayTips: [
       "\"When I understand how my actions connect to business results, I make better decisions because I can see the downstream impact.\"",
-      "\"Consistent branding in everything from our packaging to our customer service creates the trust that translates into long-term sales.\\"",
+      "\"Consistent branding in everything from our packaging to our customer service creates the trust that translates into long-term sales.\"",
       "\"I think in cause-and-effect terms—every decision I make either moves us toward or away from our business goals.\""
     ]
   },
@@ -3766,772 +3766,814 @@ export const PERFORMANCE_INDICATOR_DETAILS: Record<string, PerformanceIndicatorD
     name: "Explain forms of financial exchange",
     definition: "Describe methods used to complete financial transactions.",
     keyPoints: [
-      "Cash: Cash, credit, debit, EFT.",
-      "Convenience and: Convenience and security vary.",
-      "Widely used: Widely used in modern commerce.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Payment Methods: Cash, credit, debit, and EFT are the primary forms of financial exchange in modern commerce.",
+      "Convenience vs. Security: Convenience and security vary across different methods of financial exchange.",
+      "Modern Commerce: Multiple forms of financial exchange are widely used in modern commerce.",
+      "Digital Growth: Digital payments are growing rapidly as technology enables new transaction methods.",
+      "Costs and Benefits: Each method of financial exchange has its own costs and benefits to consider."
     ],
     roleplayTips: [
-      "\"The form of financial exchange we accept affects our cash flow, fraud risk, and processing costs—each payment method involves trade-offs.\"",
-      "\"Credit transactions create accounts receivable and collection risk; we assess customer creditworthiness before extending terms.\"",
-      "\"Digital payment platforms are transforming financial exchange—reducing friction, expanding access, and creating new data about transaction behavior.\"",
+      "I understand that different payment methods involve different trade-offs between convenience, security, and cost.",
+      "When managing transactions, I consider which form of financial exchange best meets the customer's needs and the business's requirements.",
+      "I stay current on digital payment trends because the forms of financial exchange are evolving rapidly in the modern economy."
     ]
   },
+
   "FI059": {
     id: "FI059",
     code: "FI:059",
     name: "Identify types of currency",
     definition: "Recognize different forms of money used in economies.",
     keyPoints: [
-      "Coins and: Coins and paper money.",
-      "Banknotes and: Banknotes and government-backed instruments.",
-      "Accepted as: Accepted as legal tender.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Coins and Notes: Coins and paper money are the most traditional forms of currency in use.",
+      "Banknotes: Banknotes and government-backed instruments represent official legal tender.",
+      "Legal Tender: Currency is accepted as legal tender for all debts and transactions.",
+      "Trade Enablement: Currency enables trade by providing a commonly accepted medium of exchange.",
+      "Digital Currency: Digital currency is an emerging form that is changing how transactions occur."
     ],
     roleplayTips: [
-      "\"Money's power comes from collective trust—its value rests on the confidence that others will accept it in exchange for goods and services.\"",
-      "\"Inflation erodes money's store-of-value function—when prices rise, the same amount of money buys less, reducing real purchasing power.\"",
-      "\"Understanding the three functions of money clarifies why cryptocurrency debates are about more than technology—they're about trust, stability, and the nature of value.\"",
+      "Understanding the different types of currency helps me manage financial transactions accurately and professionally.",
+      "As digital currencies emerge, I stay informed because they represent a significant change in how money functions in the economy.",
+      "Recognizing different forms of currency is foundational financial knowledge that applies in both personal and business contexts."
     ]
   },
+
   "FI060": {
     id: "FI060",
     code: "FI:060",
     name: "Describe functions of money",
     definition: "Explain how money is used in economic systems.",
     keyPoints: [
-      "Medium of: Medium of exchange.",
-      "Unit of: Unit of measure.",
-      "Store of: Store of value.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Medium of Exchange: Money serves as a medium of exchange, eliminating the inefficiency of barter.",
+      "Unit of Measure: Money functions as a unit of measure, providing a common standard for pricing.",
+      "Store of Value: Money serves as a store of value, allowing wealth to be saved and transferred over time.",
+      "Specialization: Money facilitates economic specialization by enabling trade of diverse goods and services.",
+      "Barter Alternative: Without money, barter would be required for every economic transaction."
     ],
     roleplayTips: [
-      "\"Diversifying income sources—combining earned income with investment income—creates financial resilience against any single income disruption.\"",
-      "\"Investment income is the foundation of long-term wealth building—it's income that works even when you're not.\"",
-      "\"Understanding income tax treatment differences by income type is essential for financial planning—not all income is taxed equally.\"",
+      "Understanding the three functions of money helps me explain why financial systems are structured the way they are.",
+      "Money as a store of value is particularly important in personal finance—it's what makes saving and investing possible.",
+      "When I think about money's functions, I better understand the economic consequences of inflation and monetary policy."
     ]
   },
+
   "FI061": {
     id: "FI061",
     code: "FI:061",
     name: "Describe sources of income",
     definition: "Identify ways individuals earn money.",
     keyPoints: [
-      "Wages and: Wages and salaries.",
-      "Interest: Interest, rent, dividends.",
-      "Transfer payments: Transfer payments.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Wages and Salaries: Wages and salaries are the primary income source for most working individuals.",
+      "Investment Income: Interest, rent, and dividends provide income from financial and physical assets.",
+      "Transfer Payments: Transfer payments such as Social Security provide income outside of employment.",
+      "Income Stability: Diversified income sources increase financial stability and security.",
+      "Passive Income: Passive income from investments grows over time and reduces dependence on employment."
     ],
     roleplayTips: [
-      "\"The time value of money is why we invest—a dollar that sits idle doesn't grow, but a dollar invested compounds into significantly more over time.\"",
-      "\"All present and future value calculations rest on the time value of money principle—it's the foundation of finance.\"",
-      "\"When comparing a lump sum to an annuity, time value of money analysis converts both to present value for an apples-to-apples comparison.\"",
+      "I understand that diversifying income sources reduces financial vulnerability and builds long-term security.",
+      "Knowing the different sources of income helps me develop a complete financial plan that accounts for all earnings.",
+      "Understanding investment income motivates me to save and invest because passive income grows wealth over time."
     ]
   },
+
   "FI062": {
     id: "FI062",
     code: "FI:062",
     name: "Explain the time value of money",
     definition: "Explain why money today is worth more than money in the future.",
     keyPoints: [
-      "Inflation reduces: Inflation reduces purchasing power.",
-      "Opportunity cost: Opportunity cost of waiting.",
-      "Encourages saving: Encourages saving and investing.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Inflation Effect: Inflation reduces purchasing power over time, making present money more valuable.",
+      "Opportunity Cost: There is an opportunity cost to waiting—money today can be invested and grow.",
+      "Saving Incentive: The time value of money encourages saving and investing for the future.",
+      "Financial Calculations: The time value of money is the basis of all financial calculations and planning.",
+      "Present vs. Future: Present value and future value differ in ways that must be understood for financial decisions."
     ],
     roleplayTips: [
-      "\"Capital in all its forms—financial, physical, and human—is what enables a business to produce value beyond what labor alone could create.\"",
-      "\"Capital structure decisions—how much debt versus equity to use—directly affect financial risk, cost of capital, and return on equity.\"",
-      "\"Human capital investment through training and development often produces the highest returns of any capital allocation a business makes.\"",
+      "The time value of money is the most important concept in personal finance—it explains why starting to save early makes such a dramatic difference.",
+      "When evaluating financial decisions, I always consider the time value of money because a dollar today is not equal to a dollar tomorrow.",
+      "Understanding present and future value calculations helps me make informed decisions about loans, investments, and savings."
     ]
   },
+
   "FI002": {
     id: "FI002",
     code: "FI:002",
     name: "Explain the purposes and importance of credit",
     definition: "Describe how credit allows future payment for current purchases.",
     keyPoints: [
-      "Enables large: Enables large purchases.",
-      "Builds credit: Builds credit history.",
-      "Must be: Must be used responsibly.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Large Purchases: Credit enables large purchases that would otherwise require years of saving.",
+      "Credit History: Using credit responsibly builds a credit history that supports future borrowing.",
+      "Responsible Use: Credit must be used responsibly to avoid debt problems and financial damage.",
+      "Economic Access: Access to credit enables economic participation and opportunity.",
+      "Debt Risk: Misuse of credit leads to debt problems that can take years to resolve."
     ],
     roleplayTips: [
-      "\"Credit is a tool—like any tool, its value depends entirely on how you use it. Used strategically, it accelerates wealth building; misused, it destroys it.\"",
-      "\"The true cost of credit is the total interest paid over the life of the debt—comparing this to the benefit received determines whether credit made financial sense.\"",
-      "\"Building a strong credit history early creates access to better credit terms when you need them most—it's an investment in future financial flexibility.\"",
+      "Credit is a powerful financial tool—when used wisely, it opens opportunities; when misused, it creates serious financial problems.",
+      "I treat credit as a financial tool, not as extra income, because every borrowed dollar must be repaid with interest.",
+      "Building a strong credit history through responsible use gives me access to better rates and opportunities when I need them."
     ]
   },
+
   "FI063": {
     id: "FI063",
     code: "FI:063",
     name: "Explain legal responsibilities associated with financial exchanges",
     definition: "Describe legal obligations in financial transactions.",
     keyPoints: [
-      "Contracts must: Contracts must be honored.",
-      "Fraud is: Fraud is illegal.",
-      "Accurate recordkeeping: Accurate recordkeeping required.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Contract Honoring: Contracts and financial agreements must be honored as a legal obligation.",
+      "Fraud Prevention: Financial fraud is illegal and carries serious criminal and civil penalties.",
+      "Accurate Records: Accurate recordkeeping is required by law in most financial transactions.",
+      "Consumer Protection: Consumer protection laws apply to financial exchanges and transactions.",
+      "Violation Penalties: Violations of financial exchange laws carry financial and legal penalties."
     ],
     roleplayTips: [
-      "\"Every financial agreement is a legal contract—understanding your rights and obligations before signing is a fundamental financial responsibility.\"",
-      "\"Consumer protection laws like the Truth in Lending Act exist because information asymmetry between lenders and borrowers requires legal balancing.\"",
-      "\"Financial compliance isn't optional—tax reporting obligations, disclosure requirements, and anti-fraud laws carry serious legal consequences for violations.\"",
+      "Understanding the legal responsibilities associated with financial exchanges protects me and my organization from costly violations.",
+      "I maintain accurate financial records because they are both a legal requirement and essential for sound decision-making.",
+      "Consumer protection laws in financial exchanges exist to prevent fraud and ensure fair dealing—I take them seriously in everything I do."
     ]
   },
+
   "FI270": {
     id: "FI270",
     code: "FI:270",
     name: "Explain the need to save and invest",
     definition: "Describe why setting aside money is important for future needs.",
     keyPoints: [
-      "Builds financial: Builds financial security.",
-      "Prepares for: Prepares for emergencies.",
-      "Supports long-term: Supports long-term goals.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Financial Security: Saving and investing build financial security and independence over time.",
+      "Emergency Preparation: Savings prepare individuals for unexpected emergencies and expenses.",
+      "Long-Term Goals: Saving supports long-term financial goals like home ownership and retirement.",
+      "Options Creation: Saving creates financial options and reduces the need to rely on debt.",
+      "Wealth Growth: Investment grows wealth over time through the power of compounding returns."
     ],
     roleplayTips: [
-      "\"Choosing the right financial institution requires understanding the trade-offs—commercial banks offer convenience and breadth; credit unions often offer better rates and community focus.\"",
-      "\"Deposit insurance through the FDIC protects bank deposits up to the insured limit—understanding this protection is part of responsible financial consumer behavior.\"",
-      "\"Financial institution regulation exists because systemic failures in banking ripple through the entire economy—the 2008 crisis demonstrated the stakes.\"",
+      "I prioritize saving because financial security gives me options and reduces the stress of unexpected expenses.",
+      "Investing early is one of the most powerful financial decisions I can make because compound growth works best over long time horizons.",
+      "The need to save and invest isn't just about retirement—it's about maintaining financial control throughout every stage of life."
     ]
   },
+
   "FI065": {
     id: "FI065",
     code: "FI:065",
     name: "Set financial goals",
     definition: "Establish short- and long-term money objectives.",
     keyPoints: [
-      "Specific and: Specific and realistic goals.",
-      "Time-bound planning: Time-bound planning.",
-      "Guides spending: Guides spending decisions.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Specific Goals: Specific and realistic financial goals are more achievable than vague aspirations.",
+      "Time-Bound Planning: Time-bound financial planning creates urgency and accountability.",
+      "Spending Guidance: Clear financial goals guide spending decisions and reduce impulsive purchases.",
+      "Motivational Power: Goals provide motivation to save and make disciplined financial choices.",
+      "Short and Long Term: Both short-term and long-term financial goals are needed for a complete financial plan."
     ],
     roleplayTips: [
-      "\"Property insurance transfers financial risk from individuals to an insurer—the premium is the cost of that risk transfer, which is worthwhile when potential losses are catastrophic.\"",
-      "\"A higher deductible lowers premiums but means more out-of-pocket expense at claim time—I calibrate my deductibles to the emergency fund I maintain.\"",
-      "\"Underinsurance is a common mistake—I review coverage annually to ensure my policy reflects current replacement values.\"",
+      "I set SMART financial goals because specific, measurable targets keep me accountable and motivated to follow through.",
+      "Having both short-term and long-term financial goals helps me balance immediate needs with future security.",
+      "Financial goals give my money a purpose—without them, spending decisions become reactive rather than intentional."
     ]
   },
+
   "FI066": {
     id: "FI066",
     code: "FI:066",
     name: "Develop personal budget",
     definition: "Plan income and expenses to manage money effectively.",
     keyPoints: [
-      "Tracks spending: Tracks spending.",
-      "Prevents overspending: Prevents overspending.",
-      "Supports savings: Supports savings.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Spending Tracking: A budget tracks spending and identifies areas where money can be better allocated.",
+      "Overspending Prevention: Budgeting prevents overspending by creating clear limits for each category.",
+      "Savings Support: A budget supports savings goals by allocating money to savings before discretionary spending.",
+      "Priority Alignment: A budget aligns spending with personal priorities and values.",
+      "Regular Review: Regular review keeps the budget relevant as income and expenses change."
     ],
     roleplayTips: [
-      "\"Insurance is a financial tool that converts unpredictable large losses into predictable small premiums—it's rational to pay for peace of mind against catastrophic risk.\"",
-      "\"The principle of indemnification means insurance restores, not enriches—you can't collect more than your actual financial loss.\"",
-      "\"Risk management strategy includes identifying which risks to insure, which to self-insure through savings, and which to mitigate through behavior change.\"",
+      "I develop and follow a personal budget because it is the most effective tool I have for aligning my spending with my goals.",
+      "Budgeting isn't about restriction—it's about making intentional choices about how to use limited resources.",
+      "I review my budget regularly because circumstances change, and an outdated budget is no more useful than no budget at all."
     ]
   },
+
   "FI562": {
     id: "FI562",
     code: "FI:562",
     name: "Determine personal net worth",
     definition: "Calculate financial position by comparing assets and liabilities.",
     keyPoints: [
-      "Assets minus: Assets minus liabilities.",
-      "Measures financial: Measures financial health.",
-      "Helps track: Helps track progress.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Assets Minus Liabilities: Net worth is calculated by subtracting total liabilities from total assets.",
+      "Financial Health Measure: Net worth measures overall financial health at a given point in time.",
+      "Progress Tracking: Tracking net worth over time reveals whether financial decisions are improving the situation.",
+      "Snapshot: Net worth is a snapshot in time that should be recalculated regularly.",
+      "Improvement Signal: Growing net worth signals that financial decisions are moving in the right direction."
     ],
     roleplayTips: [
-      "\"Health insurance plan selection requires comparing total cost of ownership—not just premium but expected deductible, copay, and out-of-pocket exposure based on anticipated usage.\"",
-      "\"An HDHP paired with an HSA is worth considering for healthy individuals—lower premiums and tax-advantaged savings can offset higher deductibles.\"",
-      "\"Understanding your benefits during open enrollment is one of the highest-value financial decisions of the year—most people leave significant value on the table.\"",
+      "I calculate my net worth regularly because it gives me an objective picture of my financial health and progress.",
+      "Tracking net worth over time is more meaningful than any single financial metric—it reflects the cumulative impact of all my financial decisions.",
+      "Understanding net worth helps me set realistic financial goals and measure whether I am actually making progress toward them."
     ]
   },
+
   "FI067": {
     id: "FI067",
     code: "FI:067",
     name: "Explain the nature of tax liabilities",
     definition: "Describe required payments to the government based on income.",
     keyPoints: [
-      "Funds public: Funds public services.",
-      "Required by: Required by law.",
-      "Varies by: Varies by income.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Public Funding: Taxes fund public services and infrastructure that benefit individuals and businesses.",
+      "Legal Requirement: Paying taxes is required by law and non-compliance carries serious penalties.",
+      "Income-Based: Tax liability varies based on income level, filing status, and applicable deductions.",
+      "Deadlines and Penalties: Tax deadlines are strict and penalties for late payment can be significant.",
+      "Deduction Reduction: Legitimate deductions can reduce tax liability and should be understood and utilized."
     ],
     roleplayTips: [
-      "\"Life insurance is income replacement insurance—the question is how much income your dependents would need for how many years if you weren't here to earn it.\"",
-      "\"Term insurance provides the most death benefit per premium dollar for most people—the permanent insurance cash value feature is rarely the most efficient savings vehicle.\"",
-      "\"Naming and updating beneficiaries is as important as choosing coverage—the death benefit goes to the named beneficiary regardless of what a will says.\"",
+      "Understanding tax liabilities helps me plan my finances proactively rather than being surprised at tax time.",
+      "I take advantage of legitimate deductions to reduce my tax liability, which is responsible financial management.",
+      "Taxes are a legal obligation I take seriously—accurate reporting and timely payment protect me from penalties and legal issues."
     ]
   },
+
   "FI068": {
     id: "FI068",
     code: "FI:068",
     name: "Interpret a pay stub",
     definition: "Explain information shown on an earnings statement.",
     keyPoints: [
-      "Gross vs.: Gross vs. net pay.",
-      "Deductions and: Deductions and taxes.",
-      "Pay period: Pay period details.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Gross vs. Net Pay: A pay stub shows both gross pay before deductions and net take-home pay.",
+      "Deductions Itemized: Deductions for taxes, insurance, and benefits are itemized on the pay stub.",
+      "Pay Period Details: Pay period dates and hours worked are recorded on the pay stub.",
+      "Error Prevention: Understanding pay stubs enables employees to identify and correct payroll errors.",
+      "Withholding Impact: Tax withholding amounts directly affect take-home pay and annual tax returns."
     ],
     roleplayTips: [
-      "\"Disability insurance is often overlooked, but the statistics are stark—a 30-year-old has a greater probability of disability before retirement than premature death.\"",
-      "\"'Own occupation' disability coverage is more valuable—it pays if you can't perform your specific professional role, not just if you can't work at all.\"",
-      "\"The elimination period is a key cost lever—I maintain an emergency fund sized to cover the gap, which allows me to accept a longer elimination period and lower premiums.\"",
+      "I review my pay stub every pay period to make sure deductions are correct and my take-home pay is what I expected.",
+      "Understanding the difference between gross and net pay helps me budget accurately based on what I actually take home.",
+      "Knowing how to interpret a pay stub allows me to verify my benefits contributions and tax withholdings are applied correctly."
     ]
   },
+
   "FI560": {
     id: "FI560",
     code: "FI:560",
     name: "Prepare bank account documents",
     definition: "Complete forms used in banking transactions.",
     keyPoints: [
-      "Checks and: Checks and deposit slips.",
-      "Endorsements: Endorsements.",
-      "Accuracy is: Accuracy is critical.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Transaction Forms: Checks and deposit slips are the primary bank account documents used in transactions.",
+      "Proper Endorsement: Endorsing checks correctly is required for secure and valid banking transactions.",
+      "Accuracy Requirement: Accuracy in completing bank documents is critical to prevent errors and delays.",
+      "Error Consequences: Errors in bank documents cause delays and can result in fees or rejected transactions.",
+      "Fraud Prevention: Properly completed documentation protects against fraud and unauthorized transactions."
     ],
     roleplayTips: [
-      "\"Long-term care is one of the largest financial risks in retirement planning—the average nursing home stay costs tens of thousands per year, entirely out of pocket.\"",
-      "\"The optimal window to purchase LTC insurance is in your 50s—old enough to think about it seriously, young enough that premiums are still manageable.\"",
-      "\"Hybrid life insurance products with LTC riders offer an alternative to traditional LTC insurance—the death benefit is available if care isn't needed.\"",
+      "I complete bank documents carefully and accurately because errors can cause delays, fees, or rejected transactions.",
+      "Understanding how to properly endorse checks and complete deposit slips is a fundamental banking skill that protects my money.",
+      "Accurate bank documentation is a professional responsibility—mistakes reflect poorly and can create financial problems."
     ]
   },
+
   "FI069": {
     id: "FI069",
     code: "FI:069",
     name: "Maintain financial records",
     definition: "Keep organized documentation of financial activity.",
     keyPoints: [
-      "Supports budgeting: Supports budgeting.",
-      "Helps with: Helps with taxes.",
-      "Prevents errors: Prevents errors.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Budget Support: Maintaining financial records supports budgeting and spending analysis.",
+      "Tax Preparation: Organized records simplify tax preparation and ensure deductions are captured.",
+      "Error Prevention: Complete records help identify and prevent financial errors.",
+      "Decision Support: Accurate records support informed financial decisions.",
+      "Compliance Requirement: Record maintenance is required for tax compliance and potential audits."
     ],
     roleplayTips: [
-      "\"Credit is an economic multiplier—it allows productive investment to occur before the full savings exist, accelerating individual and collective wealth creation.\"",
-      "\"Access to affordable credit is a significant financial advantage—building and protecting your credit score is one of the highest-impact financial management activities.\"",
-      "\"Credit used to purchase depreciating assets or fund consumption—without a clear repayment plan—destroys wealth rather than building it.\"",
+      "I maintain organized financial records throughout the year so that tax season is a review process, not a scramble.",
+      "Good financial records give me the information I need to evaluate my financial decisions and make improvements.",
+      "Organized documentation of financial activity protects me in case of errors, disputes, or audits."
     ]
   },
+
   "FI070": {
     id: "FI070",
     code: "FI:070",
     name: "Read and reconcile bank statements",
     definition: "Compare bank records with personal records for accuracy.",
     keyPoints: [
-      "Identify errors: Identify errors.",
-      "Track spending: Track spending.",
-      "Prevent fraud: Prevent fraud.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Error Identification: Reconciling bank statements helps identify discrepancies and errors promptly.",
+      "Spending Tracking: Bank statement review tracks actual spending against budget categories.",
+      "Fraud Prevention: Regular reconciliation helps detect unauthorized transactions and potential fraud.",
+      "Catch Unauthorized: Reconciliation catches unauthorized transactions before they become larger problems.",
+      "Accuracy Maintenance: Regular reconciliation maintains the accuracy of personal financial records."
     ],
     roleplayTips: [
-      "\"Matching the type of credit to the purpose is a key credit management skill—revolving credit for short-term needs, installment for major purchases.\"",
-      "\"Secured credit costs less because the lender has collateral protection—when I can provide collateral, it's usually worth doing to reduce the interest rate.\"",
-      "\"Understanding the difference between credit types helps me make better borrowing decisions and manage my overall debt portfolio strategically.\"",
+      "I reconcile my bank statements monthly to make sure my records match the bank's and to catch any unauthorized transactions.",
+      "Regular bank statement review is one of the simplest and most effective ways to protect against financial fraud.",
+      "Reconciling accounts teaches me where my money is actually going, which is often different from what I thought."
     ]
   },
+
   "FI782": {
     id: "FI782",
     code: "FI:782",
     name: "Calculate the cost of credit",
     definition: "Determine total interest and fees on borrowed money.",
     keyPoints: [
-      "Interest rates: Interest rates matter.",
-      "Longer terms: Longer terms cost more.",
-      "Impacts affordability: Impacts affordability.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Interest Rate Impact: Interest rates dramatically affect the total cost of borrowed money over time.",
+      "Term Length Cost: Longer loan terms result in more total interest paid even at the same rate.",
+      "Affordability Impact: The cost of credit directly impacts the affordability of large purchases.",
+      "APR Transparency: The Annual Percentage Rate reveals the true cost of credit including fees.",
+      "Comparison Value: Comparing credit costs across lenders can save significant money over the loan term."
     ],
     roleplayTips: [
-      "\"Payment history is the single most important credit score factor—even one missed payment can cause a significant score drop that takes months to repair.\"",
-      "\"I keep my credit utilization below 30% of my total available credit—utilization is the fastest-moving factor I can directly control.\"",
-      "\"Understanding credit score components helps me make strategic decisions—like keeping old accounts open even if I don't use them, to protect my average account age.\"",
+      "I always calculate the total cost of credit—not just the monthly payment—before committing to any loan or credit agreement.",
+      "Understanding APR gives me a true comparison across different credit offers so I can make the most informed choice.",
+      "Calculating the cost of credit has saved me money by motivating me to pay down high-interest debt faster."
     ]
   },
+
   "FI071": {
     id: "FI071",
     code: "FI:071",
     name: "Demonstrate the wise use of credit",
     definition: "Use credit responsibly to avoid financial problems.",
     keyPoints: [
-      "Pay on: Pay on time.",
-      "Avoid overuse: Avoid overuse.",
-      "Maintain good: Maintain good credit score.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "On-Time Payment: Paying on time is the most important habit for maintaining good credit standing.",
+      "Avoid Overuse: Avoiding overuse of credit prevents debt accumulation that is difficult to repay.",
+      "Credit Score Maintenance: Responsible credit use maintains and improves credit score over time.",
+      "Not Extra Income: Credit is a financial tool, not extra income, and must be repaid with interest.",
+      "Financial Opportunities: Responsible credit use opens financial opportunities with better rates and terms."
     ],
     roleplayTips: [
-      "\"Building credit requires having credit—starting with a secured card or becoming an authorized user creates the history needed to access better products.\"",
-      "\"The fastest path to creditworthiness is simple: pay everything on time, keep balances low, and avoid unnecessary new accounts.\"",
-      "\"I review my credit report annually through AnnualCreditReport.com to verify accuracy—errors are common and can significantly suppress scores.\"",
+      "I treat credit as a financial tool—I use it strategically for planned purchases, not impulsively for wants I can't afford.",
+      "Paying my balance on time every month is the foundation of wise credit use and the most important factor in my credit score.",
+      "Wise use of credit means I never borrow more than I can comfortably repay, even when lenders offer more than I need."
     ]
   },
+
   "FI072": {
     id: "FI072",
     code: "FI:072",
     name: "Validate credit history",
     definition: "Review credit reports for accuracy.",
     keyPoints: [
-      "Detect errors: Detect errors.",
-      "Prevent identity: Prevent identity theft.",
-      "Maintain financial: Maintain financial reputation.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Error Detection: Reviewing credit reports helps detect errors that can lower credit scores unfairly.",
+      "Identity Theft Prevention: Regular review helps catch identity theft and unauthorized credit activity.",
+      "Financial Reputation: A clean credit history supports financial reputation and access to credit.",
+      "Free Annual Reports: Free annual credit reports are available from all three major bureaus.",
+      "Dispute Process: Errors on credit reports can be disputed and corrected through established processes."
     ],
     roleplayTips: [
-      "\"A loan agreement is a legal contract—understanding your obligations before signing protects you from surprises and ensures you can fulfill your commitments.\"",
-      "\"The Fair Debt Collection Practices Act protects consumers from abusive collection tactics—knowing your rights is important if you're ever in debt difficulty.\"",
-      "\"When debt becomes unmanageable, proactive communication with creditors often produces better outcomes than avoidance—most creditors prefer modified payment plans to default.\"",
+      "I review my credit report annually to make sure all information is accurate and there are no signs of identity theft.",
+      "Knowing how to dispute credit report errors is important because inaccuracies can affect my ability to borrow or get a job.",
+      "Validating my credit history ensures that my credit score accurately reflects my financial behavior, not someone else's mistakes."
     ]
   },
+
   "FI783": {
     id: "FI783",
     code: "FI:783",
     name: "Make responsible financial decisions",
     definition: "Choose financial actions that support long-term stability.",
     keyPoints: [
-      "Consider consequences: Consider consequences.",
-      "Balance wants: Balance wants and needs.",
-      "Plan ahead: Plan ahead.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Consequence Consideration: Responsible financial decisions require considering short- and long-term consequences.",
+      "Needs vs. Wants: Balancing wants and needs is essential to responsible financial decision-making.",
+      "Forward Planning: Planning ahead rather than reacting to financial situations improves outcomes.",
+      "Compounding Impact: Small financial decisions compound over time and have significant long-term effects.",
+      "Wealth Building: Consistently responsible financial choices build wealth and financial security."
     ],
     roleplayTips: [
-      "\"Understanding the difference between a tax deduction and a tax credit is fundamental—a $1,000 deduction saves you your marginal rate times $1,000; a $1,000 credit saves you exactly $1,000.\"",
-      "\"A large refund means you gave the government an interest-free loan—optimizing withholding to break even at filing time is the smarter approach.\"",
-      "\"Tax compliance isn't just a legal obligation—it's a financial management activity where informed decisions about deductions and timing produce real savings.\"",
+      "I evaluate financial decisions based on their long-term impact, not just immediate gratification or convenience.",
+      "Balancing wants and needs is central to financial responsibility—I ask whether a purchase aligns with my goals before acting.",
+      "Responsible financial decisions don't require perfection—they require consistent thoughtfulness about how money choices affect my future."
     ]
   },
+
   "FI073": {
     id: "FI073",
     code: "FI:073",
     name: "Protect against identity theft",
     definition: "Safeguard personal financial information.",
     keyPoints: [
-      "Secure documents: Secure documents.",
-      "Monitor accounts: Monitor accounts.",
-      "Use strong: Use strong passwords.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Document Security: Securing physical documents prevents unauthorized access to personal financial information.",
+      "Account Monitoring: Monitoring accounts regularly helps detect unauthorized activity quickly.",
+      "Strong Passwords: Using strong, unique passwords protects online financial accounts from unauthorized access.",
+      "Credit Freeze: Freezing credit prevents new accounts from being opened in one's name without permission.",
+      "Immediate Reporting: Reporting suspected identity theft immediately minimizes financial damage."
     ],
     roleplayTips: [
-      "\"Your pay stub tells the complete story of your compensation—I review mine every pay period to verify accuracy and confirm deductions are correct.\"",
-      "\"Pre-tax deductions like 401(k) contributions and health insurance reduce your taxable income—understanding this helps you optimize your benefit elections.\"",
-      "\"The difference between gross and net pay is often surprising—understanding every line on your pay stub is foundational financial literacy.\"",
+      "I protect my financial information proactively because recovering from identity theft is far more difficult than preventing it.",
+      "I monitor my accounts regularly and investigate any unfamiliar transactions immediately to catch fraud early.",
+      "Using strong passwords and enabling two-factor authentication on financial accounts is basic protection I maintain consistently."
     ]
   },
+
   "FI565": {
     id: "FI565",
     code: "FI:565",
     name: "Pay bills",
     definition: "Manage payments to meet financial obligations.",
     keyPoints: [
-      "Avoid late: Avoid late fees.",
-      "Maintain credit: Maintain credit.",
-      "Budget effectively: Budget effectively.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Late Fee Avoidance: Paying bills on time avoids late fees and penalties that add unnecessary cost.",
+      "Credit Maintenance: Timely bill payment maintains a positive credit history and credit score.",
+      "Budget Effectiveness: Effective budgeting ensures funds are available to pay bills when due.",
+      "Automatic Payments: Automatic payments prevent missed deadlines for recurring bills.",
+      "Essential Prioritization: Prioritizing essential bills like housing and utilities protects basic needs."
     ],
     roleplayTips: [
-      "\"The three financial statements tell a complete story: the income statement shows performance, the balance sheet shows position, and the cash flow statement shows liquidity.\"",
-      "\"A business can be profitable on paper and still fail from cash flow problems—that's why the cash flow statement is arguably the most important of the three.\"",
-      "\"Financial statement analysis compares ratios across time and against industry benchmarks—single-period numbers without context have limited meaning.\"",
+      "I use automatic payments for recurring bills to ensure I never miss a deadline and damage my credit.",
+      "Paying bills on time is one of the simplest ways to protect my credit score and avoid unnecessary fees.",
+      "I prioritize essential bills in my budget first because housing, utilities, and basic needs must be protected."
     ]
   },
+
   "FI625": {
     id: "FI625",
     code: "FI:625",
     name: "Apply for a consumer loan",
     definition: "Complete the process of requesting borrowed funds.",
     keyPoints: [
-      "Provide accurate: Provide accurate information.",
-      "Understand terms: Understand terms.",
-      "Assess ability: Assess ability to repay.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Accurate Information: Providing accurate information on loan applications is a legal and ethical requirement.",
+      "Term Understanding: Understanding loan terms including interest rate and repayment schedule is essential.",
+      "Repayment Assessment: Assessing ability to repay before applying prevents unmanageable debt.",
+      "Credit Score Effect: Credit score significantly affects loan approval and the interest rate offered.",
+      "Lender Comparison: Comparing multiple lenders helps secure the best available rate and terms."
     ],
     roleplayTips: [
-      "\"The most powerful retirement planning tool is time—starting at 25 instead of 35 can double the final balance for the same monthly contribution.\"",
-      "\"Capturing your full employer match is the first priority in retirement savings—it's the highest-return, zero-risk investment available to you.\"",
-      "\"Roth versus traditional 401(k) selection depends on your current versus expected future tax rate—it's worth modeling both scenarios.\"",
+      "Before applying for a loan, I assess whether I can comfortably afford the payments within my budget.",
+      "I compare multiple lenders because even small differences in interest rates have significant impact over the loan term.",
+      "Providing accurate information on a loan application is both legally required and ethically essential."
     ]
   },
+
   "FI568": {
     id: "FI568",
     code: "FI:568",
     name: "Control debt",
     definition: "Manage borrowed money to prevent financial strain.",
     keyPoints: [
-      "Prioritize high-interest: Prioritize high-interest debt.",
-      "Avoid unnecessary: Avoid unnecessary borrowing.",
-      "Create repayment: Create repayment plans.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "High-Interest Priority: Prioritizing repayment of high-interest debt saves the most money over time.",
+      "Unnecessary Borrowing: Avoiding unnecessary borrowing keeps debt at manageable levels.",
+      "Repayment Planning: Creating a structured repayment plan is essential for controlling existing debt.",
+      "Debt-to-Income: Maintaining a healthy debt-to-income ratio is important for financial stability.",
+      "Living Within Means: Living within one's means prevents debt from accumulating in the first place."
     ],
     roleplayTips: [
-      "\"Estate planning isn't just for the wealthy—everyone needs at minimum a will, healthcare directive, and power of attorney.\"",
-      "\"Beneficiary designations on retirement accounts and insurance override whatever the will says—keeping them updated is critical, especially after life changes.\"",
-      "\"A trust offers control that a will cannot—specifying timing, conditions, and management of assets for beneficiaries who may not be ready to manage a lump sum.\"",
+      "I tackle high-interest debt first because eliminating it saves the most money and frees up cash flow fastest.",
+      "Controlling debt means making intentional decisions about when and how much to borrow based on a repayment plan.",
+      "I monitor my debt-to-income ratio because it affects both my financial health and my ability to borrow in the future."
     ]
   },
+
   "FI074": {
     id: "FI074",
     code: "FI:074",
     name: "Prepare personal income tax forms",
     definition: "Complete documents reporting income and taxes owed.",
     keyPoints: [
-      "Accuracy is: Accuracy is required.",
-      "Deadlines matter: Deadlines matter.",
-      "Legal compliance: Legal compliance.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Accuracy Requirement: Accurate completion of tax forms is both legally required and financially important.",
+      "Deadline Importance: Tax filing deadlines are strict and missing them results in penalties and interest.",
+      "Legal Compliance: Filing taxes accurately is a legal obligation for all income earners.",
+      "Deduction Utilization: Understanding available deductions reduces tax liability legally.",
+      "Professional Help: Professional assistance is available for complex tax situations and is often worth the cost."
     ],
     roleplayTips: [
-      "\"Tax planning is a proactive year-round activity—most effective strategies must be implemented before year-end, not at tax filing time.\"",
-      "\"Maximizing tax-advantaged accounts is the most impactful tax reduction strategy for most people—it reduces taxes while building wealth simultaneously.\"",
-      "\"Tax-loss harvesting is a systematic strategy to reduce investment taxes—it requires discipline to sell losing positions but materially improves after-tax returns.\"",
+      "I approach tax preparation carefully because accuracy is both legally required and financially beneficial.",
+      "I stay organized throughout the year so that gathering documents for tax filing is straightforward and complete.",
+      "When my tax situation becomes complex, I seek professional help because the cost is usually less than the mistakes it prevents."
     ]
   },
+
   "FI569": {
     id: "FI569",
     code: "FI:569",
     name: "Discuss the nature of retirement planning",
     definition: "Explain planning for financial security after employment.",
     keyPoints: [
-      "Long-term saving: Long-term saving.",
-      "Employer plans: Employer plans.",
-      "Investment growth: Investment growth.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Long-Term Saving: Retirement planning requires sustained long-term saving over a working career.",
+      "Employer Plans: Employer-sponsored retirement plans often include matching contributions that enhance savings.",
+      "Investment Growth: Retirement accounts grow through investment returns over the saving period.",
+      "Early Start Advantage: Starting retirement saving early maximizes the benefit of compound growth.",
+      "Social Security Limitation: Social Security alone is insufficient to maintain most people's standard of living."
     ],
     roleplayTips: [
-      "\"Different savings goals require different vehicles—emergency funds need liquidity and safety; retirement savings need growth and tax efficiency.\"",
-      "\"High-yield savings accounts offer meaningfully higher interest than traditional bank savings accounts with the same FDIC insurance—there's no reason to leave money in low-yield accounts.\"",
-      "\"The savings hierarchy—emergency fund first, then tax-advantaged retirement, then taxable investment—maximizes the effectiveness of every dollar saved.\"",
+      "I contribute to my retirement plan as early and consistently as possible because compound growth is most powerful over long periods.",
+      "I maximize my employer's retirement match because it is essentially free money that significantly boosts my long-term savings.",
+      "Retirement planning is not something I can put off—the longer I wait, the harder it becomes to accumulate sufficient savings."
     ]
   },
+
   "FI572": {
     id: "FI572",
     code: "FI:572",
     name: "Explain the nature of estate planning",
     definition: "Describe planning for asset distribution after death.",
     keyPoints: [
-      "Wills and: Wills and beneficiaries.",
-      "Reduces legal: Reduces legal issues.",
-      "Protects heirs: Protects heirs.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Wills and Beneficiaries: Wills and beneficiary designations ensure assets are distributed according to one's wishes.",
+      "Legal Issue Reduction: Estate planning reduces the legal complications and costs for surviving family members.",
+      "Heir Protection: Proper estate planning protects heirs by clearly defining asset distribution.",
+      "Dispute Prevention: Planning in advance prevents family disputes over assets and inheritance.",
+      "Universal Need: Everyone needs basic estate planning documents regardless of the size of their estate."
     ],
     roleplayTips: [
-      "\"Investing is not speculation—it's the disciplined allocation of capital to productive assets with reasonable expected returns over an appropriate time horizon.\"",
-      "\"Diversification is the risk management foundation of investing—I don't concentrate in any single asset regardless of how confident I am in it.\"",
-      "\"Market volatility is the price of long-term investment returns—investors who panic-sell during downturns pay the volatility cost without collecting the return premium.\"",
+      "I understand that estate planning is important at every age and asset level—not just for the wealthy.",
+      "Having a will and updated beneficiary designations ensures my wishes are honored and reduces burden on my family.",
+      "Estate planning is one of the most caring financial acts I can take—it protects my loved ones from unnecessary stress."
     ]
   },
+
   "FI075": {
     id: "FI075",
     code: "FI:075",
     name: "Describe types of financial-services providers",
     definition: "Identify institutions that manage money.",
     keyPoints: [
-      "Banks and: Banks and credit unions.",
-      "Investment firms: Investment firms.",
-      "Insurance companies: Insurance companies.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Banks and Credit Unions: Banks and credit unions are the primary institutions for everyday financial services.",
+      "Investment Firms: Investment firms manage portfolios and provide access to securities markets.",
+      "Insurance Companies: Insurance companies manage financial risk through various policy products.",
+      "Diverse Needs: Each type of financial-services provider serves different financial needs.",
+      "Comparison Importance: Comparing providers before choosing ensures the best fit for individual needs."
     ],
     roleplayTips: [
-      "\"Financial institutions are intermediaries—they collect small deposits from millions of savers and channel that capital into productive business loans and investments.\"",
-      "\"When selecting a brokerage, I compare investment options, fees, and advisory services—the right choice depends on whether I want self-directed or advised investing.\"",
-      "\"Understanding what protections apply to my accounts—FDIC for banks, SIPC for brokerages—helps me make informed decisions about where to hold different assets.\"",
+      "I choose financial-services providers based on their services, fees, and how well they meet my specific financial needs.",
+      "Understanding the different types of financial institutions helps me build a complete financial support network.",
+      "I compare providers regularly because the best option when I first enrolled may not remain the best option over time."
     ]
   },
+
   "FI076": {
     id: "FI076",
     code: "FI:076",
     name: "Discuss considerations in selecting a financial-services provider",
     definition: "Explain factors used to choose financial institutions.",
     keyPoints: [
-      "Fees and: Fees and services.",
-      "Reputation: Reputation.",
-      "Accessibility: Accessibility.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Fees and Services: Fees and the range of services offered are primary considerations in provider selection.",
+      "Reputation: Reputation for customer service and financial stability matters in choosing a provider.",
+      "Accessibility: Accessibility through branches, ATMs, and digital services affects everyday convenience.",
+      "Deposit Insurance: FDIC or NCUA insurance protects deposits up to established limits.",
+      "Goal Alignment: The provider should align with the individual's financial goals and needs."
     ],
     roleplayTips: [
-      "\"Financial markets are the infrastructure of capitalism—they connect those with capital to those who need it, enabling economic activity at scale.\"",
-      "\"The money market provides short-term liquidity; the capital market provides long-term financing—together they serve the full spectrum of financial needs.\"",
-      "\"Understanding market structure helps investors and businesses choose the right instrument—a 30-day need calls for a money market solution, not an equity investment.\"",
+      "I evaluate financial-services providers carefully because the fees and services available directly affect my financial outcomes.",
+      "Choosing a provider with FDIC or NCUA insurance is a basic protection I never compromise on.",
+      "I look for providers that offer the services I need at reasonable cost and with convenient access."
     ]
   },
+
   "FI077": {
     id: "FI077",
     code: "FI:077",
     name: "Explain types of investments",
     definition: "Describe ways money can be invested for growth.",
     keyPoints: [
-      "Stocks: Stocks, bonds, mutual funds.",
-      "Risk vs.: Risk vs. return.",
-      "Diversification: Diversification.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Investment Types: Stocks, bonds, and mutual funds are the primary investment vehicles available.",
+      "Risk vs. Return: Higher potential returns generally come with higher investment risk.",
+      "Diversification: Diversifying across asset types reduces risk without proportionally reducing returns.",
+      "Time Horizon: Investment time horizon affects appropriate strategy and asset allocation.",
+      "Risk Tolerance: Higher returns require the willingness to accept higher levels of risk and volatility."
     ],
     roleplayTips: [
-      "\"Risk tolerance assessment is not just about what you say—it's about what you'd actually do if your portfolio dropped 30% in a month.\"",
-      "\"The right portfolio is the one you can stick with through a market downturn—a theoretically optimal portfolio you'll panic-sell is worse than a conservative one you'll hold.\"",
-      "\"I separate risk tolerance (psychology) from risk capacity (finances)—my portfolio decisions reflect both dimensions, with capacity setting the ceiling.\"",
+      "I diversify my investments because spreading risk across different asset types protects against the poor performance of any single investment.",
+      "Understanding the risk-return trade-off helps me select investments appropriate for my timeline and comfort with volatility.",
+      "I align my investment strategy with my time horizon—longer timelines allow for more growth-oriented investments."
     ]
   },
+
   "FI081": {
     id: "FI081",
     code: "FI:081",
     name: "Describe the concept of insurance",
     definition: "Explain how insurance reduces financial risk.",
     keyPoints: [
-      "Risk sharing: Risk sharing.",
-      "Premium payments: Premium payments.",
-      "Financial protection: Financial protection.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Risk Sharing: Insurance works by spreading risk across a large pool of policyholders.",
+      "Premium Payments: Policyholders pay premiums in exchange for financial protection against covered losses.",
+      "Financial Protection: Insurance provides financial protection against catastrophic losses.",
+      "Catastrophic Loss Prevention: Insurance prevents a single event from causing unmanageable financial damage.",
+      "Coverage Variety: Different types of insurance cover different categories of financial risk."
     ],
     roleplayTips: [
-      "\"Securities markets are the primary vehicle for long-term wealth accumulation—they provide access to the productive capacity of the economy's best companies.\"",
-      "\"Index funds and ETFs democratized market access—individual investors can now achieve broad diversification at minimal cost.\"",
-      "\"Asset allocation across stocks and bonds is the primary determinant of long-term portfolio returns and volatility—it deserves more attention than individual security selection.\"",
+      "I maintain appropriate insurance coverage because the financial risk of being uninsured far exceeds the cost of premiums.",
+      "Understanding how insurance works helps me choose appropriate coverage levels rather than over- or under-insuring.",
+      "Insurance is a fundamental risk management tool—it converts potentially catastrophic losses into manageable, predictable costs."
     ]
   },
+
   "FI579": {
     id: "FI579",
     code: "FI:579",
     name: "Describe the need for financial information",
     definition: "Explain why accurate financial data is necessary.",
     keyPoints: [
-      "Supports decision-making: Supports decision-making.",
-      "Tracks performance: Tracks performance.",
-      "Ensures accountability: Ensures accountability.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Decision Support: Accurate financial information supports better decisions in business and personal finance.",
+      "Performance Tracking: Financial data tracks business and personal financial performance over time.",
+      "Accountability: Financial information ensures accountability for how money is used and managed.",
+      "Poor Choice Risk: Inaccurate financial data leads to poor decisions that can have serious consequences.",
+      "Trust Building: Transparent financial information builds trust with stakeholders and partners."
     ],
     roleplayTips: [
-      "\"A budget doesn't restrict freedom—it defines it. Knowing exactly what I can spend in each category removes guilt and enables guilt-free enjoyment of discretionary spending.\"",
-      "\"Zero-based budgeting assigns a purpose to every dollar before the month begins—unassigned dollars reliably become unplanned spending.\"",
-      "\"The most important budgeting habit is the monthly review—comparing actual to planned spending reveals where the gaps are and enables informed adjustments.\"",
+      "I rely on accurate financial information because decision-making without reliable data is essentially guesswork.",
+      "Financial information is the foundation of accountability—it shows where money came from and where it went.",
+      "I maintain transparency in financial reporting because it builds trust with everyone who relies on that information."
     ]
   },
+
   "FI085": {
     id: "FI085",
     code: "FI:085",
     name: "Explain the concept of accounting",
     definition: "Describe how financial transactions are recorded and reported.",
     keyPoints: [
-      "Measures business: Measures business performance.",
-      "Tracks income: Tracks income and expenses.",
-      "Supports compliance: Supports compliance.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Performance Measurement: Accounting measures business performance by tracking revenues and expenses.",
+      "Transaction Tracking: Accounting systematically records all financial transactions for review and analysis.",
+      "Compliance Support: Accurate accounting supports compliance with tax and regulatory requirements.",
+      "GAAP Standards: Generally Accepted Accounting Principles ensure consistency and comparability in reporting.",
+      "Decision Basis: Accounting information informs all major business decisions and strategy."
     ],
     roleplayTips: [
-      "\"Donating appreciated stock instead of cash is a superior giving strategy—I avoid capital gains tax while the charity receives the full pre-tax value.\"",
-      "\"A donor-advised fund allows me to make a deductible contribution in a high-income year and distribute grants to charities over time.\"",
-      "\"I research charities using tools like Charity Navigator before donating—ensuring that a high percentage of contributions reaches the intended beneficiaries.\"",
+      "Understanding accounting helps me read and interpret financial statements that are essential to business decision-making.",
+      "Accounting is the language of business—I need to understand it to communicate effectively about financial performance.",
+      "Accurate accounting is the foundation of every sound business decision because it ensures we are working from reliable data."
     ]
   },
+
   "FI351": {
     id: "FI351",
     code: "FI:351",
     name: "Discuss the role of ethics in accounting",
     definition: "Explain ethical standards guiding accounting practices.",
     keyPoints: [
-      "Accuracy and: Accuracy and honesty.",
-      "Transparency: Transparency.",
-      "Legal compliance: Legal compliance.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Accuracy and Honesty: Accuracy and honesty in financial reporting are fundamental ethical requirements.",
+      "Transparency: Transparent financial reporting allows stakeholders to make informed decisions.",
+      "Legal Compliance: Ethical accounting practices ensure compliance with laws and regulations.",
+      "Fraud Harm: Financial fraud harms all stakeholders including employees, investors, and the public.",
+      "Professional Standards: Ethical standards in accounting are professionally required and legally enforced."
     ],
     roleplayTips: [
-      "\"Consumer spending is 70% of GDP—when household spending patterns shift, businesses must respond quickly or lose revenue.\"",
-      "\"Intentional spending means evaluating every purchase against my priorities—does this genuinely improve my life or am I buying on impulse?\"",
-      "\"Tracking spending by category for 90 days reveals consumption patterns that budget planning alone often misses—reality versus intention.\"",
+      "I understand that ethical accounting practices protect everyone who relies on financial information to make decisions.",
+      "Financial fraud doesn't just break the law—it betrays the trust of every stakeholder who depends on accurate reporting.",
+      "Maintaining ethical standards in accounting is both a professional obligation and a personal commitment to integrity."
     ]
   },
+
   "FI352": {
     id: "FI352",
     code: "FI:352",
     name: "Explain the use of technology in accounting",
     definition: "Describe how software supports accounting tasks.",
     keyPoints: [
-      "Automates calculations: Automates calculations.",
-      "Improves accuracy: Improves accuracy.",
-      "Saves time: Saves time.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Automated Calculations: Accounting software automates calculations, reducing time and error rates.",
+      "Improved Accuracy: Technology improves the accuracy of financial records and reports.",
+      "Time Savings: Software significantly reduces the time required for routine accounting tasks.",
+      "Cloud Access: Cloud-based accounting systems enable access from anywhere with internet connectivity.",
+      "Error Reduction: Technology reduces the human errors that occur in manual accounting processes."
     ],
     roleplayTips: [
-      "\"A credit freeze is the most powerful identity theft prevention tool available—it costs nothing and prevents any new credit from being opened in your name.\"",
-      "\"I use unique, strong passwords for every financial account and multi-factor authentication wherever available—the inconvenience is trivial compared to the protection.\"",
-      "\"Annual free credit report checks at AnnualCreditReport.com catch unauthorized accounts before they become serious problems.\"",
+      "I use accounting technology to handle routine calculations efficiently so I can focus on analysis and decision-making.",
+      "Cloud-based accounting systems give me access to financial data in real time, which improves the timeliness of my decisions.",
+      "Technology in accounting doesn't eliminate the need for ethical judgment—it amplifies both good practices and bad ones."
     ]
   },
+
   "FI353": {
     id: "FI353",
     code: "FI:353",
     name: "Explain legal considerations for accounting",
     definition: "Describe laws governing financial reporting.",
     keyPoints: [
-      "Reporting standards: Reporting standards.",
-      "Audits: Audits.",
-      "Fraud prevention: Fraud prevention.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Reporting Standards: Legal accounting standards specify how financial information must be recorded and reported.",
+      "Audit Requirements: Independent audits verify the accuracy and completeness of financial records.",
+      "Fraud Prevention: Legal accounting requirements help prevent and detect financial fraud.",
+      "Sarbanes-Oxley: The Sarbanes-Oxley Act imposes strict requirements on public company financial reporting.",
+      "Non-Compliance Penalties: Non-compliance with accounting laws carries severe financial and criminal penalties."
     ],
     roleplayTips: [
-      "\"Financial planning is the architecture of your financial life—without a plan, financial decisions are reactive rather than strategic.\"",
-      "\"The best financial plan is one that's actually followed—it needs to be realistic, values-aligned, and specific enough to guide daily decisions.\"",
-      "\"Working with a fee-only fiduciary financial planner ensures the advice I receive is in my best interest, not motivated by product commissions.\"",
+      "I stay current on accounting legal requirements because compliance protects my organization from serious financial and legal consequences.",
+      "Understanding Sarbanes-Oxley requirements helps me appreciate why financial controls and documentation are so important.",
+      "Legal compliance in accounting is not optional—violations can result in criminal charges and destroy organizational credibility."
     ]
   },
+
   "FI091": {
     id: "FI091",
     code: "FI:091",
     name: "Describe the nature of cash flow statements",
     definition: "Explain reports showing money entering and leaving a business.",
     keyPoints: [
-      "Operating: Operating, investing, financing.",
-      "Measures liquidity: Measures liquidity.",
-      "Supports planning: Supports planning.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Three Activities: Cash flow statements report on operating, investing, and financing activities separately.",
+      "Liquidity Measure: Cash flow statements measure liquidity and the business's ability to meet obligations.",
+      "Planning Support: Cash flow data supports financial planning and ensures obligations can be met.",
+      "Profit Distinction: Cash flow differs from profit—a business can be profitable but still cash-poor.",
+      "Cash Poverty Risk: Businesses can be profitable on paper but fail due to insufficient cash flow."
     ],
     roleplayTips: [
-      "\"Consumer rights in finance are legal protections, not just suggestions—knowing them empowers you to demand compliant treatment from financial institutions.\"",
-      "\"The FCRA gives you the right to dispute any inaccurate information in your credit file—creditors must investigate and remove verified errors.\"",
-      "\"The CFPB accepts complaints against financial institutions—filing a complaint often produces faster resolution than direct communication alone.\"",
+      "I understand that profitability and cash flow are different—a business can show accounting profit while running out of cash.",
+      "Analyzing cash flow statements helps me assess whether a business can actually pay its bills, not just whether it looks profitable.",
+      "The cash flow statement is often the most important financial statement for assessing short-term business health."
     ]
   },
+
   "FI093": {
     id: "FI093",
     code: "FI:093",
     name: "Explain the nature of balance sheets",
     definition: "Describe reports showing assets, liabilities, and equity.",
     keyPoints: [
-      "Financial position: Financial position snapshot.",
-      "Measures solvency: Measures solvency.",
-      "Used by: Used by investors.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Financial Position: The balance sheet provides a snapshot of financial position at a specific point in time.",
+      "Solvency Measurement: Balance sheets measure solvency by comparing assets to liabilities.",
+      "Investor Use: Investors use balance sheets to assess financial health and risk before committing capital.",
+      "Accounting Equation: Assets equal liabilities plus equity—the fundamental accounting equation.",
+      "Ownership and Debt: The balance sheet reveals what is owned outright and what is owed to creditors."
     ],
     roleplayTips: [
-      "\"Financial decisions are more like votes in a long-term election than individual choices—each one contributes to a cumulative outcome over decades.\"",
-      "\"The financial gap between people who save consistently and those who don't isn't primarily about income—it's about decisions and habits over time.\"",
-      "\"Compound interest means starting matters more than amount—a person who starts saving at 25 with modest amounts will outperform someone who starts at 35 with large amounts.\"",
+      "I analyze balance sheets to assess whether a business has sufficient assets to cover its liabilities.",
+      "Understanding the balance sheet equation—assets equal liabilities plus equity—helps me see the financial structure clearly.",
+      "The balance sheet tells me the financial foundation a business is built on, which is essential context for any other financial analysis."
     ]
   },
+
   "FI094": {
     id: "FI094",
     code: "FI:094",
     name: "Describe the nature of income statements",
     definition: "Explain reports showing revenues and expenses.",
     keyPoints: [
-      "Determines profit: Determines profit or loss.",
-      "Measures performance: Measures performance.",
-      "Supports decisions: Supports decisions.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Profit or Loss: The income statement determines whether the business made a profit or incurred a loss.",
+      "Performance Measurement: Income statements measure business performance over a defined period.",
+      "Decision Support: Income statement data supports strategic business decisions and planning.",
+      "Net Income: Revenue minus expenses equals net income, the bottom-line measure of profitability.",
+      "Trend Analysis: Trend analysis of income statements over time reveals the trajectory of business performance."
     ],
     roleplayTips: [
-      "\"I evaluate investments against my specific goal: time horizon, required return, and maximum tolerable loss—not against the investment's standalone appeal.\"",
-      "\"Low-cost index funds outperform most actively managed funds over long periods after fees—cost efficiency is a reliable performance predictor.\"",
-      "\"Asset location—which investments go in which account types—is often more impactful than asset selection in determining after-tax returns.\"",
+      "I use income statements to understand whether a business is generating profit and how efficiently it operates.",
+      "Analyzing trends in income statements over multiple periods reveals whether the business is improving or declining.",
+      "The income statement is the primary tool for evaluating management's effectiveness in generating profit."
     ]
   },
+
   "FI354": {
     id: "FI354",
     code: "FI:354",
     name: "Explain the role of finance in business",
     definition: "Describe how finance manages business funds.",
     keyPoints: [
-      "Budgeting: Budgeting.",
-      "Investing: Investing.",
-      "Planning: Planning.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Budgeting Function: Finance manages the budgeting process that allocates resources across the organization.",
+      "Investment Decisions: Finance oversees investment decisions that determine how capital is deployed.",
+      "Financial Planning: Finance enables long-term business planning through financial modeling and forecasting.",
+      "Business Enablement: Finance enables all other business functions by ensuring resources are available.",
+      "Failure Prevention: Poor financial management is one of the most common causes of business failure."
     ],
     roleplayTips: [
-      "\"Price is a signal, not just a number—a higher price signals higher quality or scarcity; a lower price signals abundance or lower value.\"",
-      "\"Pricing strategy is about capturing a fair share of the value we create for customers—not maximizing short-term revenue at the expense of the relationship.\"",
-      "\"Understanding price elasticity helps us predict how demand will respond to a price change—essential for revenue optimization decisions.\"",
+      "I understand that finance is the backbone of every business function—without proper financial management, even great strategies fail.",
+      "The finance function's role in budgeting and forecasting directly affects every department's ability to execute its plans.",
+      "Strong financial management creates the stability and resources that allow businesses to invest in growth and weather downturns."
     ]
   },
+
   "FI355": {
     id: "FI355",
     code: "FI:355",
     name: "Discuss the role of ethics in finance",
     definition: "Explain ethical responsibilities in financial decision-making.",
     keyPoints: [
-      "Honest reporting: Honest reporting.",
-      "Fair dealing: Fair dealing.",
-      "Risk transparency: Risk transparency.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Honest Reporting: Honest financial reporting is a fundamental ethical obligation in finance.",
+      "Fair Dealing: Fair dealing with all stakeholders is required in ethical financial practice.",
+      "Risk Transparency: Transparent communication of financial risks protects all parties involved.",
+      "Stakeholder Protection: Ethical finance practices protect all stakeholders including employees and investors.",
+      "Criminal Penalties: Financial ethics violations carry criminal penalties including fines and imprisonment."
     ],
     roleplayTips: [
-      "\"Every major life transition should trigger a financial plan review—the plan that worked at 28 may be badly misaligned by 38 if it hasn't been updated.\"",
-      "\"Getting married is one of the most significant financial events in life—benefits coordination, tax filing status, and insurance coverage all require immediate attention.\"",
-      "\"A job change is a financial planning moment—it's when you negotiate benefits, review 401(k) options, and potentially adjust your savings rate.\"",
+      "I take ethical obligations in finance seriously because the consequences of financial misconduct affect everyone connected to the organization.",
+      "Transparent financial reporting is non-negotiable—stakeholders make decisions based on the information I provide.",
+      "Ethical finance means I consider the interests of all stakeholders, not just those with the most immediate power."
     ]
   },
+
   "FI356": {
     id: "FI356",
     code: "FI:356",
     name: "Explain legal considerations for finance",
     definition: "Describe laws affecting financial activities.",
     keyPoints: [
-      "Regulatory compliance: Regulatory compliance.",
-      "Investor protection: Investor protection.",
-      "Financial disclosures: Financial disclosures.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Regulatory Compliance: Finance must comply with regulations governing financial reporting and transactions.",
+      "Investor Protection: Financial laws protect investors from fraud and misrepresentation.",
+      "Financial Disclosures: Public companies are required to make regular financial disclosures to the public.",
+      "SEC Regulation: The Securities and Exchange Commission regulates public company financial activity.",
+      "Violation Consequences: Violations of financial laws carry severe financial and criminal consequences."
     ],
     roleplayTips: [
-      "\"A financial goal without a specific target and deadline is just a wish—I write my goals in SMART format to make them actionable.\"",
-      "\"When goals compete for limited resources, I rank them explicitly—knowing my priorities prevents the paralysis of trying to pursue everything simultaneously.\"",
-      "\"I review my financial goals quarterly—confirming they still reflect my values and adjusting timelines when life changes the picture.\"",
+      "I stay informed about financial regulations because compliance protects both the organization and all of its stakeholders.",
+      "Understanding securities law helps me recognize when financial activities cross legal boundaries that must not be crossed.",
+      "Legal compliance in finance is not just about avoiding penalties—it's about maintaining the trust on which financial systems depend."
     ]
   },
+
   "FI106": {
     id: "FI106",
     code: "FI:106",
     name: "Describe the nature of budgets",
     definition: "Explain plans for managing income and expenses.",
     keyPoints: [
-      "Allocates resources: Allocates resources.",
-      "Controls spending: Controls spending.",
-      "Supports financial: Supports financial goals.",
-      "Financial Literacy: Mastering this concept builds essential financial knowledge for personal and professional decisions.",
-      "Real-World Application: This skill applies directly to managing money effectively in daily life and business.",
+      "Resource Allocation: Budgets allocate financial resources across different needs and priorities.",
+      "Spending Control: Budgets control spending by establishing limits for each category.",
+      "Goal Support: Budgets support financial goals by directing money toward priority areas.",
+      "Planning Tool: Budgets are planning tools that guide decisions, not just restrictions.",
+      "Variance Analysis: Variance analysis comparing actual to budgeted amounts improves future budgets."
     ],
     roleplayTips: [
-      "\"I apply opportunity cost thinking to every major financial decision—the true cost isn't just the price paid but the best alternative use of those funds.\"",
-      "\"Present bias is the most dangerous financial decision bias—it systematically overweights immediate gratification and underweights future consequences.\"",
-      "\"Values-aligned financial decisions are more satisfying and more sustainable—money well spent on what genuinely matters produces far more happiness than optimization for its own sake.\"",
+      "I view budgets as planning tools that help me make intentional decisions about resource allocation.",
+      "A well-constructed budget reflects organizational priorities—where money goes is a statement about what matters most.",
+      "I use variance analysis to learn from budget differences and improve the accuracy and usefulness of future budgets."
     ]
   },
 
@@ -4541,718 +4583,757 @@ export const PERFORMANCE_INDICATOR_DETAILS: Record<string, PerformanceIndicatorD
     name: "Assess information needs",
     definition: "Identify what information is required to complete a task or make a decision.",
     keyPoints: [
-      "Clarifies goals: Clarifies goals and objectives.",
-      "Prevents information: Prevents information overload.",
-      "Improves decision: Improves decision accuracy.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Goal Clarification: Assessing information needs clarifies goals and objectives before research begins.",
+      "Overload Prevention: Defining needs prevents information overload by focusing on what is truly required.",
+      "Decision Accuracy: Clearly identified information needs improve the accuracy of subsequent decisions.",
+      "Question First: Defining the question before searching ensures the search is targeted and efficient.",
+      "Time Savings: A proper needs assessment saves time by directing research effectively from the start."
     ],
     roleplayTips: [
-      "\"Technology impacts every business function—from how we find customers to how we serve them to how we manage operations and finances.\"",
-      "\"The most significant technology impact is often not automation but the data it generates—organizations that analyze data well outcompete those that don't.\"",
-      "\"Digital disruption is a strategic risk—I monitor technology trends not just for operational opportunities but for competitive threats to our business model.\"",
+      "Before I start any research, I identify exactly what information I need so I don't waste time gathering irrelevant data.",
+      "Assessing my information needs upfront helps me frame the right questions and find answers more efficiently.",
+      "When I'm clear about what I need to know, my research is faster and the decisions I make from it are better."
     ]
   },
+
   "NF078": {
     id: "NF078",
     code: "NF:078",
     name: "Obtain needed information efficiently",
     definition: "Locate relevant information quickly using appropriate sources.",
     keyPoints: [
-      "Uses reliable: Uses reliable databases and tools.",
-      "Saves time: Saves time and resources.",
-      "Improves productivity: Improves productivity.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Reliable Sources: Efficient information gathering uses reliable databases and authoritative tools.",
+      "Time and Resources: Targeted searches save significant time and organizational resources.",
+      "Productivity Improvement: Obtaining information efficiently improves overall work productivity.",
+      "Targeted Searches: Targeted searches yield better results than broad, unfocused queries.",
+      "Source Matching: Matching the source type to the information needed improves search effectiveness."
     ],
     roleplayTips: [
-      "\"Information systems are the nervous system of a modern organization—they transmit the data that enables every function to operate effectively.\"",
-      "\"An ERP system integrates finance, operations, HR, and supply chain data into a single platform—eliminating the data fragmentation that creates inefficiency and errors.\"",
-      "\"Information system quality is determined by data quality—we invest heavily in data governance because inaccurate data produces confidently wrong decisions.\"",
+      "I know which sources to use for different types of information so I can find what I need quickly and reliably.",
+      "Efficient information gathering means I spend time on analysis and application rather than searching.",
+      "Using the right tools for each type of information search dramatically reduces the time I spend finding answers."
     ]
   },
+
   "NF079": {
     id: "NF079",
     code: "NF:079",
     name: "Evaluate quality and source of information",
     definition: "Judge information for accuracy, reliability, and relevance.",
     keyPoints: [
-      "Verify credibility: Verify credibility of sources.",
-      "Identify bias: Identify bias or outdated data.",
-      "Ensures informed: Ensures informed decisions.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Source Credibility: Evaluating information requires verifying the credibility of the source.",
+      "Bias and Currency: Identifying bias or outdated data is essential to avoiding misinformation.",
+      "Informed Decisions: Evaluating information quality ensures decisions are based on reliable data.",
+      "Primary Source Preference: Primary sources are generally more reliable than secondary interpretations.",
+      "Author Credentials: Evaluating author credentials helps assess the trustworthiness of the information."
     ],
     roleplayTips: [
-      "\"Our customer database is the foundation of personalized marketing—every segmentation and targeting decision draws on the customer records it contains.\"",
-      "\"Data integrity controls—validation rules, required fields, referential constraints—prevent the data quality problems that would compromise analytical reliability.\"",
-      "\"SQL proficiency is a business skill, not just a technical one—managers who can query data directly extract insights faster and more precisely than those who wait for reports.\"",
+      "I evaluate every source critically before relying on it because the quality of my decisions depends on the quality of my information.",
+      "When I assess information quality, I look at who created it, when, and for what purpose to identify potential bias.",
+      "Not all information is equal—evaluating sources carefully is one of the most important skills in the information age."
     ]
   },
+
   "NF278": {
     id: "NF278",
     code: "NF:278",
     name: "Draw conclusions based on information analysis",
     definition: "Interpret data to form logical outcomes or decisions.",
     keyPoints: [
-      "Identifies patterns: Identifies patterns and trends.",
-      "Supports evidence-based: Supports evidence-based decisions.",
-      "Reduces assumptions: Reduces assumptions.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Pattern Identification: Drawing conclusions requires identifying patterns and trends in the data.",
+      "Evidence-Based Decisions: Conclusions support evidence-based decisions rather than assumptions.",
+      "Assumption Reduction: Analysis-based conclusions reduce reliance on assumptions and guesswork.",
+      "Data Support: All conclusions should be directly supported by the underlying data.",
+      "Clear Communication: Findings must be communicated clearly so others can understand and act on them."
     ],
     roleplayTips: [
-      "\"Our network infrastructure is foundational to every digital business activity—when it fails, the business stops, which is why redundancy and security are paramount.\"",
-      "\"VPN connectivity extends our secure network perimeter to remote employees—it's essential for maintaining data security in a distributed workforce.\"",
-      "\"Network segmentation is a key security practice—limiting which devices can communicate with which others reduces the blast radius of any security breach.\"",
+      "I draw conclusions only when the data supports them—speculation without evidence is not analysis.",
+      "When presenting conclusions, I make sure to show the data and reasoning that led to each finding.",
+      "Strong analytical conclusions connect clearly to the underlying data and explain the reasoning transparently."
     ]
   },
+
   "NF080": {
     id: "NF080",
     code: "NF:080",
     name: "Apply information to accomplish a task",
     definition: "Use gathered information to complete work objectives.",
     keyPoints: [
-      "Translates data: Translates data into action.",
-      "Improves task: Improves task effectiveness.",
-      "Supports problem-solving: Supports problem-solving.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Action Translation: Applying information means translating data into specific, actionable steps.",
+      "Task Effectiveness: Using information appropriately improves the effectiveness of task completion.",
+      "Problem-Solving: Applied information supports problem-solving by connecting evidence to solutions.",
+      "Value Creation: Information only creates value when it is applied to achieve real outcomes.",
+      "Outcome Linkage: Linking research findings to specific outcomes ensures information serves its purpose."
     ],
     roleplayTips: [
-      "\"The Internet is the most transformative business infrastructure of the last century—it has eliminated geographic barriers to trade, communication, and competition.\"",
-      "\"Understanding the difference between the Internet (the network) and the web (an application on it) clarifies how different digital services relate to each other.\"",
-      "\"Every business needs an Internet strategy—from how customers find us to how we deliver value to how we process transactions and manage information.\"",
+      "I don't just gather information—I apply it directly to the task at hand to ensure it creates value.",
+      "The measure of good research isn't the quality of the data gathered but how effectively it's applied.",
+      "When I apply information to tasks, I make explicit connections between what I found and what I'm doing."
     ]
   },
+
   "NF081": {
     id: "NF081",
     code: "NF:081",
     name: "Store information for future use",
     definition: "Organize and save information for later access.",
     keyPoints: [
-      "Uses digital: Uses digital or physical systems.",
-      "Improves efficiency: Improves efficiency.",
-      "Protects organizational: Protects organizational knowledge.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Storage Systems: Information should be stored in well-organized digital or physical systems.",
+      "Efficiency Improvement: Properly stored information can be retrieved quickly, improving efficiency.",
+      "Knowledge Protection: Storing information protects organizational knowledge from being lost.",
+      "Naming Conventions: Consistent naming conventions aid in finding stored information quickly.",
+      "Backup Systems: Backup systems prevent data loss from technical failures or accidents."
     ],
     roleplayTips: [
-      "\"The Internet's global scope means that a small business in any location can serve customers anywhere—geography is no longer a distribution barrier.\"",
-      "\"The 24/7 nature of the Internet has fundamentally changed customer expectations—businesses must be always-on or risk losing customers to those who are.\"",
-      "\"Internet scope also means competitive scope—businesses now face competition from global players who weren't in their market a decade ago.\"",
+      "I organize and store information systematically so I can retrieve it quickly when it's needed again.",
+      "Good information storage practices save time and protect organizational knowledge from being lost.",
+      "I use consistent naming conventions and folder structures so stored information can be found by anyone, not just me."
     ]
   },
+
   "NF110": {
     id: "NF110",
     code: "NF:110",
     name: "Discuss the nature of information management",
     definition: "Explain how businesses collect, organize, and use information.",
     keyPoints: [
-      "Supports decision-making: Supports decision-making.",
-      "Improves efficiency: Improves efficiency.",
-      "Ensures data: Ensures data accuracy.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Decision Support: Effective information management supports better business decision-making.",
+      "Efficiency Improvement: Well-managed information improves operational efficiency across the organization.",
+      "Data Accuracy: Information management ensures data accuracy and reduces the cost of errors.",
+      "Business Asset: Information is a valuable business asset that must be managed strategically.",
+      "Error Prevention: Poor information management leads to costly errors and missed opportunities."
     ],
     roleplayTips: [
-      "\"The Internet plays a role in every major business function—marketing, sales, operations, customer service, procurement, and intelligence gathering.\"",
-      "\"E-commerce isn't just an additional channel—for many businesses it's becoming the primary channel, which requires rethinking fulfillment, service, and brand strategy.\"",
-      "\"Web analytics give us real-time data on customer behavior that physical retail never could—we know exactly what customers look at, for how long, and what converts.\"",
+      "I understand that information management is strategic—how we collect, organize, and use data is a competitive differentiator.",
+      "Treating information as a business asset means investing in the systems and practices that protect and leverage it effectively.",
+      "Poor information management creates errors that cost time and money—investing in good practices pays dividends."
     ]
   },
+
   "NF111": {
     id: "NF111",
     code: "NF:111",
     name: "Explain the role of ethics in information management",
     definition: "Describe ethical responsibilities in handling information.",
     keyPoints: [
-      "Protects privacy: Protects privacy.",
-      "Ensures honesty: Ensures honesty and transparency.",
-      "Prevents misuse: Prevents misuse of data.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Privacy Protection: Ethical information management requires protecting the privacy of individuals.",
+      "Honesty and Transparency: Handling information honestly and transparently builds organizational trust.",
+      "Misuse Prevention: Ethical standards prevent the misuse of data for unauthorized purposes.",
+      "Trust Building: Ethical information practices build trust with customers, employees, and partners.",
+      "Legal Consequences: Violations of information ethics carry significant legal consequences."
     ],
     roleplayTips: [
-      "\"Information management is infrastructure—organizations that manage their data well make better decisions, serve customers better, and operate more efficiently.\"",
-      "\"Data governance establishes clear ownership, quality standards, and access controls—without it, data becomes unreliable and untrustworthy.\"",
-      "\"Knowledge management is the organizational memory—capturing institutional expertise in documented processes prevents dependency on individual personnel.\"",
+      "I handle information ethically because I understand the trust that comes with access to sensitive data.",
+      "Ethical information management means I only use data for its intended purpose and protect it from unauthorized access.",
+      "The legal and reputational consequences of mishandling information are severe—I take my ethical obligations seriously."
     ]
   },
+
   "NF076": {
     id: "NF076",
     code: "NF:076",
     name: "Explain legal issues associated with information management",
     definition: "Describe laws governing data collection and use.",
     keyPoints: [
-      "Data protection: Data protection regulations.",
-      "Intellectual property: Intellectual property laws.",
-      "Compliance requirements: Compliance requirements.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Data Protection: Data protection regulations govern how personal information must be collected and stored.",
+      "Intellectual Property: Intellectual property laws protect creative works and proprietary business information.",
+      "Compliance Requirements: Organizations must comply with applicable information management laws.",
+      "GDPR and CCPA: Regulations like GDPR and CCPA impose strict requirements on data practices.",
+      "Non-Compliance Penalties: Non-compliance with information laws carries heavy financial penalties."
     ],
     roleplayTips: [
-      "\"Information security is a business issue, not just a technical one—every employee is part of the security posture, which is why training is as important as technology.\"",
-      "\"The CIA triad is the foundational framework—every security control serves to preserve the confidentiality, integrity, or availability of data.\"",
-      "\"Security breaches are not just IT problems—they carry regulatory fines, litigation exposure, and reputational damage that affects the entire organization.\"",
+      "I stay informed about data protection laws because non-compliance can result in massive fines and reputational damage.",
+      "Understanding regulations like GDPR helps me ensure that our information management practices are legally sound.",
+      "Information law compliance isn't just about avoiding penalties—it's about respecting the rights of those whose data we hold."
     ]
   },
+
   "NF003": {
     id: "NF003",
     code: "NF:003",
     name: "Identify ways that technology impacts business",
     definition: "Describe how technology affects business operations.",
     keyPoints: [
-      "Improves efficiency: Improves efficiency.",
-      "Enhances communication: Enhances communication.",
-      "Enables innovation: Enables innovation.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Efficiency Improvement: Technology improves efficiency by automating repetitive tasks and processes.",
+      "Communication Enhancement: Technology enhances communication speed and effectiveness across the organization.",
+      "Innovation Enablement: Technology enables business innovation and the development of new products and services.",
+      "Competitive Dynamics: Technology changes competitive dynamics and can disrupt entire industries.",
+      "Adoption Requirements: Technology adoption requires training, planning, and change management."
     ],
     roleplayTips: [
-      "\"Information literacy is a professional superpower—the ability to quickly find, evaluate, and apply reliable information distinguishes excellent from average performers.\"",
-      "\"I evaluate sources by asking: Who wrote this? When? Why? What evidence supports the claims? Are there conflicts of interest?—before relying on any source.\"",
-      "\"In a world of abundant information, the filtering skill—identifying what's credible and relevant—is more valuable than the searching skill.\"",
+      "Technology impacts every aspect of business—from operations to customer service to financial management.",
+      "I monitor technology trends because they affect our competitive position and create both opportunities and threats.",
+      "Adopting new technology effectively requires planning and training, not just implementation."
     ]
   },
+
   "NF083": {
     id: "NF083",
     code: "NF:083",
     name: "Explain the role of information systems",
     definition: "Describe systems used to collect and process data.",
     keyPoints: [
-      "Supports operations: Supports operations.",
-      "Aids decision-making: Aids decision-making.",
-      "Improves coordination: Improves coordination.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Operations Support: Information systems support business operations by providing timely, accurate data.",
+      "Decision Assistance: IS aids decision-making by converting raw data into useful information.",
+      "Coordination Improvement: Information systems improve coordination across business functions.",
+      "Function Integration: IS integrates data across business functions to provide a unified view.",
+      "System Quality: The quality of decisions depends on the quality of the information system supporting them."
     ],
     roleplayTips: [
-      "\"Before beginning any research, I define exactly what information I need and what I'll do with it—this prevents over-researching and keeps focus.\"",
-      "\"Information needs assessment includes a timeline component—how much time do I have, and how much certainty can I achieve in that window?\"",
-      "\"The question 'what would change my decision?' helps me identify the most valuable information to pursue first.\"",
+      "I understand that information systems are the infrastructure of business intelligence—without them, decision-making is based on incomplete data.",
+      "The quality of our information systems directly affects the quality of our decisions and operational performance.",
+      "When I rely on information systems, I also evaluate data quality because garbage in means garbage out."
     ]
   },
+
   "NF084": {
     id: "NF084",
     code: "NF:084",
     name: "Discuss principles of computer systems",
     definition: "Explain basic components and functions of computers.",
     keyPoints: [
-      "Hardware and: Hardware and software.",
-      "Input: Input, processing, output.",
-      "Storage systems: Storage systems.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Hardware and Software: Computer systems consist of hardware components and the software that runs on them.",
+      "Input-Process-Output: Computers follow an input, processing, and output cycle for all operations.",
+      "Storage Systems: Storage systems preserve data for later use and retrieval.",
+      "System Understanding: Understanding basic computer principles improves effective use of technology.",
+      "Component Integration: All computer components work together as an integrated system."
     ],
     roleplayTips: [
-      "\"Efficient research starts with the best available sources, not Google—for business intelligence, industry databases and expert sources are far more valuable.\"",
-      "\"I use Boolean search operators and specific terminology to narrow search results—broad searches return noise; targeted searches return signal.\"",
-      "\"When I need specialized information quickly, I identify the best expert to ask—a 15-minute call often delivers more than two hours of online research.\"",
+      "Understanding basic computer system principles helps me use technology more effectively and troubleshoot problems.",
+      "The input-process-output model applies to all computing—understanding it helps me understand how any system works.",
+      "Knowing how hardware and software interact helps me make informed technology choices."
     ]
   },
+
   "NF085": {
     id: "NF085",
     code: "NF:085",
     name: "Use basic operating systems",
     definition: "Perform basic tasks using an operating system.",
     keyPoints: [
-      "File management: File management.",
-      "System navigation: System navigation.",
-      "Application use: Application use.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "File Management: Operating systems enable file creation, organization, and management.",
+      "System Navigation: Navigating the OS interface is essential for accessing all other software.",
+      "Application Use: Operating systems provide the platform for running business applications.",
+      "OS Role: The OS is the interface between the user and the hardware of the computer.",
+      "Productivity Improvement: Proficiency with operating system features improves overall work productivity."
     ],
     roleplayTips: [
-      "\"I apply the CRAAP criteria to every source before relying on it—currency, relevance, authority, accuracy, and purpose together determine whether I can trust it.\"",
-      "\"When I find a surprising or counterintuitive finding, I seek corroboration from independent sources before drawing conclusions.\"",
-      "\"Bias doesn't disqualify a source, but it must be accounted for—I explicitly label sources by their perspective when synthesizing information.\"",
+      "Proficiency with my operating system improves everything I do because it's the foundation for all other software.",
+      "I learn OS shortcuts and features because efficiency gains in basic navigation compound across everything I do.",
+      "Understanding operating system basics helps me organize my work effectively and troubleshoot common issues."
     ]
   },
+
   "NF086": {
     id: "NF086",
     code: "NF:086",
     name: "Describe the scope of the Internet",
     definition: "Explain the Internet's role in information access and communication.",
     keyPoints: [
-      "Global connectivity: Global connectivity.",
-      "Information sharing: Information sharing.",
-      "Business applications: Business applications.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Global Connectivity: The Internet provides global connectivity to individuals and organizations worldwide.",
+      "Information Sharing: The Internet enables instantaneous information sharing across geographic distances.",
+      "Business Applications: Business relies on the Internet for commerce, communication, and operations.",
+      "E-Commerce Enablement: The Internet enables e-commerce and has transformed how businesses reach customers.",
+      "Global Transformation: The Internet has fundamentally transformed how business operates worldwide."
     ],
     roleplayTips: [
-      "\"Information has value only when applied—I translate research findings into explicit decision recommendations, not just bibliographic summaries.\"",
-      "\"Synthesis is the highest-value information skill—combining disparate sources into a coherent, actionable insight is what separates analysis from research.\"",
-      "\"I attribute sources in business documents not just for academic convention but because it enables readers to verify and extend the analysis.\"",
+      "The Internet has transformed business by eliminating the geographic barriers to communication, commerce, and collaboration.",
+      "I leverage Internet capabilities to access information, connect with customers, and operate more efficiently.",
+      "Understanding the scope of the Internet helps me see both its opportunities and its risks for business."
     ]
   },
+
   "NF004": {
     id: "NF004",
     code: "NF:004",
     name: "Demonstrate basic e-mail functions",
     definition: "Use email to send, receive, and organize messages.",
     keyPoints: [
-      "Professional communication: Professional communication.",
-      "File attachments: File attachments.",
-      "Inbox management: Inbox management.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Professional Communication: Email is the primary professional communication tool in most business settings.",
+      "File Attachments: Email enables sending and receiving files and documents as attachments.",
+      "Inbox Management: Effective inbox management keeps communication organized and responsive.",
+      "Primary Business Tool: Email is a primary business communication tool that requires professional use.",
+      "Etiquette Requirements: Proper email etiquette is required for professional communication."
     ],
     roleplayTips: [
-      "\"I name and organize files on the assumption that I—or someone else—will need to find them 18 months from now without remembering the context.\"",
-      "\"Cloud storage with version history protects against both data loss and the problem of accidentally overwriting a better previous version.\"",
-      "\"A consistent filing taxonomy is a productivity tool—the time saved finding information over a career vastly exceeds the time invested in good organization.\"",
+      "I treat every business email professionally—clear subject lines, concise content, and appropriate tone.",
+      "Effective inbox management ensures I respond to important messages promptly and nothing falls through the cracks.",
+      "Email etiquette reflects on my professionalism—I write emails I would be comfortable having anyone read."
     ]
   },
+
   "NF005": {
     id: "NF005",
     code: "NF:005",
     name: "Demonstrate personal information management applications",
     definition: "Use tools to organize tasks and schedules.",
     keyPoints: [
-      "Calendars: Calendars.",
-      "Task managers: Task managers.",
-      "Productivity apps: Productivity apps.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Calendar Use: Digital calendars are essential for organizing appointments and deadlines.",
+      "Task Management: Task management applications help prioritize and track work to completion.",
+      "Productivity Apps: Productivity applications increase efficiency and reduce the chance of missed tasks.",
+      "Time Management: PIM tools improve time management by organizing commitments in one place.",
+      "Device Integration: Integration across devices increases accessibility and ensures synchronization."
     ],
     roleplayTips: [
-      "\"For competitive analysis, SEC filings are an underused gold mine—public competitors must disclose strategy, risk factors, and financial performance in detail.\"",
-      "\"Industry reports from firms like IBISWorld or IBIS provide benchmarking data that helps contextualize our performance against sector norms.\"",
-      "\"Government data sources—Census, BLS, Fed—are free, authoritative, and often more reliable than commercial sources for macro-level business intelligence.\"",
+      "I use personal information management tools to keep my schedule, tasks, and commitments organized in one place.",
+      "Digital calendars and task managers help me stay on top of deadlines and ensure nothing important gets overlooked.",
+      "Effective use of PIM tools is a professional skill that directly affects my productivity and reliability."
     ]
   },
+
   "NF006": {
     id: "NF006",
     code: "NF:006",
     name: "Demonstrate basic web-search skills",
     definition: "Locate information online effectively.",
     keyPoints: [
-      "Use keywords: Use keywords.",
-      "Evaluate sources: Evaluate sources.",
-      "Filter results: Filter results.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Keyword Use: Using effective keywords is the foundation of productive web searching.",
+      "Source Evaluation: Evaluating the credibility of online sources is essential to effective searching.",
+      "Result Filtering: Filtering search results by date, source, and type improves research efficiency.",
+      "Search Precision: Boolean operators and advanced search features improve search precision.",
+      "Information Reliability: Not all online information is reliable—critical evaluation is always required."
     ],
     roleplayTips: [
-      "\"Our environmental scanning process monitors competitor announcements, regulatory developments, technology trends, and consumer sentiment continuously—not just at annual planning.\"",
-      "\"An environmental scan must go beyond confirming what we already believe—it should actively seek disconfirming evidence and emerging disruptions.\"",
-      "\"I translate environmental scan findings directly into strategic implications—the scan only creates value when it changes or reinforces specific decisions.\"",
+      "I use advanced search techniques like Boolean operators to find precisely what I need rather than wading through irrelevant results.",
+      "Every time I search online, I evaluate the sources critically because the Internet contains misinformation alongside reliable data.",
+      "Strong web search skills are a competitive advantage—I can find information faster and more accurately than those without them."
     ]
   },
+
   "NF007": {
     id: "NF007",
     code: "NF:007",
     name: "Demonstrate basic word processing skills",
     definition: "Create and edit written documents.",
     keyPoints: [
-      "Formatting text: Formatting text.",
-      "Editing content: Editing content.",
-      "Professional presentation: Professional presentation.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Text Formatting: Formatting text for clarity and professional appearance is essential in business documents.",
+      "Content Editing: Editing content for accuracy and clarity is a core word processing skill.",
+      "Professional Presentation: Professional document presentation reflects on the writer and the organization.",
+      "Business Essential: Word processing is essential for creating the documents that drive business communication.",
+      "Template Consistency: Templates improve consistency and save time in document creation."
     ],
     roleplayTips: [
-      "\"Data mining goes beyond simple reporting—it finds patterns and predictions invisible to direct observation, enabling proactive rather than reactive decisions.\"",
-      "\"Our churn prediction model uses data mining to identify at-risk customers 60 days before cancellation, enabling proactive retention outreach.\"",
-      "\"Data mining is only as good as the underlying data—we invest heavily in data quality because dirty data produces confidently wrong predictions.\"",
+      "I apply professional formatting to business documents because presentation affects how the content is perceived.",
+      "Word processing proficiency is essential for creating the proposals, reports, and communications that business requires.",
+      "I use document templates to maintain consistency and ensure I don't miss required elements."
     ]
   },
+
   "NF008": {
     id: "NF008",
     code: "NF:008",
     name: "Demonstrate basic presentation applications",
     definition: "Create visual presentations to share information.",
     keyPoints: [
-      "Slides and: Slides and visuals.",
-      "Clear organization: Clear organization.",
-      "Audience focus: Audience focus.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Slides and Visuals: Effective presentations use slides and visuals to support the spoken message.",
+      "Clear Organization: Logical organization of content helps audiences follow and retain information.",
+      "Audience Focus: Presentations must be designed with the specific audience's needs in mind.",
+      "Design Impact: Design choices including fonts, colors, and layouts affect audience comprehension.",
+      "Communication Support: Presentations support verbal communication rather than replacing it."
     ],
     roleplayTips: [
-      "\"AI isn't magic—it's pattern recognition at scale. Understanding what AI does and doesn't do well is essential for making good decisions about where to apply it.\"",
-      "\"The most valuable AI applications in business are those that augment human decision-making with data patterns too complex for unaided analysis.\"",
-      "\"AI introduces new ethical questions about bias, accountability, and transparency—responsible AI deployment requires explicit attention to these dimensions.\"",
+      "I design presentations with the audience in mind—what do they need to understand and remember?",
+      "Effective presentation slides support my message without competing with or replacing my spoken content.",
+      "Good design in a presentation improves comprehension—I use visuals intentionally to clarify, not decorate."
     ]
   },
+
   "NF009": {
     id: "NF009",
     code: "NF:009",
     name: "Demonstrate basic database applications",
     definition: "Use databases to store and retrieve information.",
     keyPoints: [
-      "Data entry: Data entry.",
-      "Queries: Queries.",
-      "Organization: Organization.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Data Entry: Accurate data entry is the foundation of a useful database.",
+      "Query Use: Queries enable efficient retrieval of specific information from large datasets.",
+      "Data Organization: Databases organize information in structured ways that enable efficient access.",
+      "Efficient Management: Databases enable more efficient data management than unstructured storage.",
+      "Entry Accuracy: Accuracy in data entry is critical to the usefulness of database information."
     ],
     roleplayTips: [
-      "\"The four types of analytics form a maturity ladder—most organizations start with descriptive and advance toward prescriptive as their data capabilities develop.\"",
-      "\"Data analytics transforms gut-feel decisions into evidence-based ones—which doesn't eliminate judgment but grounds it in objective pattern recognition.\"",
-      "\"Building a data-driven culture requires more than technology—it requires leaders who ask for data, reward evidence-based reasoning, and act on analytical insights.\"",
+      "I understand that a database is only as useful as the accuracy of the data entered into it.",
+      "Learning to query databases effectively allows me to extract exactly the information I need quickly.",
+      "Database skills are increasingly essential because so much business information is stored in structured database systems."
     ]
   },
+
   "NF010": {
     id: "NF010",
     code: "NF:010",
     name: "Demonstrate basic spreadsheet applications",
     definition: "Use spreadsheets to organize and analyze data.",
     keyPoints: [
-      "Formulas: Formulas.",
-      "Charts: Charts.",
-      "Data analysis: Data analysis.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Formula Use: Spreadsheet formulas automate calculations and reduce manual computation errors.",
+      "Chart Creation: Charts and graphs created in spreadsheets aid data visualization and interpretation.",
+      "Data Analysis: Spreadsheets enable systematic analysis of numerical data.",
+      "Calculation Automation: Spreadsheets automate repetitive calculations, saving time and reducing errors.",
+      "Visualization Aid: Visual representations of data aid interpretation and communication of findings."
     ],
     roleplayTips: [
-      "\"Business analytics is how organizations learn from their own experience—systematically analyzing outcomes to improve future decisions.\"",
-      "\"Our marketing analytics dashboard gives every campaign manager real-time visibility into cost per acquisition, conversion rates, and ROI—no waiting for monthly reports.\"",
-      "\"The most valuable analytics skill is the ability to ask the right question of the data—technical proficiency without business judgment produces answers to the wrong questions.\"",
+      "I use spreadsheets for any analysis involving numbers because they automate calculations and make it easy to test different scenarios.",
+      "Creating charts from spreadsheet data helps me communicate quantitative information clearly and persuasively.",
+      "Spreadsheet proficiency is one of the most universally valuable technical skills in business."
     ]
   },
+
   "NF088": {
     id: "NF088",
     code: "NF:088",
     name: "Use an integrated business software application package",
     definition: "Use software that combines multiple business functions.",
     keyPoints: [
-      "Improves efficiency: Improves efficiency.",
-      "Reduces duplication: Reduces duplication.",
-      "Enhances coordination: Enhances coordination.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Efficiency Improvement: Integrated software improves efficiency by combining multiple functions in one system.",
+      "Duplication Reduction: Integrated systems reduce data duplication and manual transfer errors.",
+      "Coordination Enhancement: Integrated software enhances coordination across business functions.",
+      "Silo Elimination: Integrated systems eliminate data silos that prevent information sharing.",
+      "Training Requirements: Full utilization of integrated software requires comprehensive training."
     ],
     roleplayTips: [
-      "\"Cybersecurity is not an IT problem—it's a business risk management problem that happens to require technical solutions.\"",
-      "\"The human element is the weakest link in most security architectures—phishing training and security culture matter as much as technical controls.\"",
-      "\"A well-tested incident response plan is the difference between a managed security event and a catastrophic business disruption.\"",
+      "I use integrated software packages because having all business functions in one system eliminates the inefficiency of switching between tools.",
+      "Integrated systems reduce errors caused by manually transferring data between separate applications.",
+      "Getting the most out of integrated software requires understanding how all the modules connect and interact."
     ]
   },
+
   "NF011": {
     id: "NF011",
     code: "NF:011",
     name: "Demonstrate collaborative/groupware applications",
     definition: "Use tools that allow teamwork and shared access.",
     keyPoints: [
-      "Shared documents: Shared documents.",
-      "Communication tools: Communication tools.",
-      "Real-time collaboration: Real-time collaboration.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Shared Documents: Collaborative tools enable multiple users to access and edit shared documents simultaneously.",
+      "Communication Tools: Groupware includes communication tools that keep teams connected and informed.",
+      "Real-Time Collaboration: Real-time collaboration features enable immediate teamwork regardless of location.",
+      "Remote Teamwork: Groupware enables effective remote teamwork across geographic distances.",
+      "Version Control: Version control features in collaborative tools prevent conflicts and preserve document history."
     ],
     roleplayTips: [
-      "\"Data privacy is both an ethical obligation and a legal requirement—organizations that treat customer data as a resource to exploit rather than a trust to protect face growing regulatory and reputational risk.\"",
-      "\"GDPR's reach extends globally—any organization handling EU residents' data must comply regardless of where the organization is located.\"",
-      "\"Privacy by design—building privacy protections into products and processes from the start—is far more effective and less costly than retrofitting privacy into existing systems.\"",
+      "I use collaborative tools to keep my team aligned and ensure everyone is working from the same, most current information.",
+      "Real-time collaboration through groupware has made our team more productive whether we're in the same office or working remotely.",
+      "Version control in collaborative tools protects against the confusion and errors that come from multiple versions of documents."
     ]
   },
+
   "NF042": {
     id: "NF042",
     code: "NF:042",
     name: "Create and post basic web page",
     definition: "Develop and publish simple web content.",
     keyPoints: [
-      "Basic design: Basic design.",
-      "Content accuracy: Content accuracy.",
-      "Accessibility: Accessibility.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Basic Design: Creating a basic web page requires understanding fundamental web design principles.",
+      "Content Accuracy: Web content must be accurate and professionally written before publishing.",
+      "Accessibility: Web pages should be accessible to all users including those with disabilities.",
+      "Business Visibility: Web presence supports business visibility and customer access.",
+      "Content Maintenance: Published web content must be maintained and updated regularly to remain useful."
     ],
     roleplayTips: [
-      "\"IoT sensors in our manufacturing equipment give us real-time performance data that enables predictive maintenance—reducing unplanned downtime by 30%.\"",
-      "\"Blockchain's value isn't just cryptocurrency—its supply chain transparency applications allow us to verify supplier claims and reduce counterfeit risk.\"",
-      "\"Emerging technology assessment requires separating genuine near-term business value from hype—not every technology wave warrants first-mover investment.\"",
+      "I create web content with the audience in mind—design and content choices should serve the visitor's needs.",
+      "Accurate, well-organized web content builds credibility and supports the business's online presence.",
+      "Maintaining web content is as important as creating it—outdated information damages credibility."
     ]
   },
+
   "NF215": {
     id: "NF215",
     code: "NF:215",
     name: "Collaborate on and aggregate complex internal documents",
     definition: "Combine multiple inputs into a unified document.",
     keyPoints: [
-      "Consistent messaging: Consistent messaging.",
-      "Team coordination: Team coordination.",
-      "Clear communication: Clear communication.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Consistent Messaging: Aggregating contributions into one document requires ensuring consistent tone and messaging.",
+      "Team Coordination: Effective aggregation requires coordinating multiple contributors around shared standards.",
+      "Clear Communication: The final document must communicate clearly despite having multiple authors.",
+      "Careful Editing: Aggregation requires careful editing to integrate diverse contributions seamlessly.",
+      "Transparency Maintenance: Track changes and version history maintain transparency in collaborative documents."
     ],
     roleplayTips: [
-      "\"Cloud computing eliminates the capital investment and maintenance burden of on-premise infrastructure—we can focus on building products rather than running data centers.\"",
-      "\"The shared responsibility model in cloud security means we're responsible for securing what we build on the cloud, while the provider secures the infrastructure.\"",
-      "\"Cloud scalability is a business agility enabler—we can launch a new service globally in days rather than the months it would take to provision physical infrastructure.\"",
+      "When aggregating contributions from multiple team members, I ensure the final document speaks with a unified voice.",
+      "I use track changes and version control to maintain transparency and a clear record of how the document evolved.",
+      "Effective document aggregation is more than assembly—it requires editing to ensure consistency and coherence."
     ]
   },
+
   "NF001": {
     id: "NF001",
     code: "NF:001",
     name: "Describe the nature of business records",
     definition: "Explain documents that track business activities.",
     keyPoints: [
-      "Financial and: Financial and operational records.",
-      "Legal compliance: Legal compliance.",
-      "Decision support: Decision support.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Record Types: Business records include financial, operational, and legal documents.",
+      "Legal Compliance: Maintaining proper business records is required for legal and regulatory compliance.",
+      "Decision Support: Business records provide the information needed for management decisions.",
+      "Accuracy Requirement: Records must be accurate and timely to be useful for compliance and decisions.",
+      "Retention Policies: Record retention policies protect the business and ensure required documents are available."
     ],
     roleplayTips: [
-      "\"Social media is our most direct channel for real-time customer feedback—we treat comments and messages as valuable market research, not just public relations.\"",
-      "\"Social listening tools monitor brand mentions across platforms continuously—early detection of negative trends enables response before they escalate.\"",
-      "\"A social media crisis can develop in hours—having pre-approved response protocols and clear escalation paths is essential for protecting brand reputation.\"",
+      "I maintain accurate business records because they are the foundation for decision-making and legal compliance.",
+      "Understanding what records need to be kept and for how long protects the organization from legal and regulatory risk.",
+      "Business records tell the story of the organization's activities—they must be accurate to tell that story truthfully."
     ]
   },
+
   "NF002": {
     id: "NF002",
     code: "NF:002",
     name: "Maintain customer records",
     definition: "Keep accurate and secure customer information.",
     keyPoints: [
-      "Supports customer: Supports customer service.",
-      "Protects privacy: Protects privacy.",
-      "Improves relationships: Improves relationships.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Service Support: Accurate customer records support personalized and effective customer service.",
+      "Privacy Protection: Customer records must be protected to respect privacy and comply with laws.",
+      "Relationship Improvement: Well-maintained customer records improve the quality of customer relationships.",
+      "Personalization Enablement: Accurate records enable personalized service that builds customer loyalty.",
+      "Security Requirement: Data security is required to protect customer records from unauthorized access."
     ],
     roleplayTips: [
-      "\"E-commerce eliminates geographic constraints on sales—a well-executed online store can serve customers globally from day one.\"",
-      "\"Mobile commerce now exceeds desktop for many categories—sites and apps not optimized for mobile leave significant revenue on the table.\"",
-      "\"Omnichannel integration is where most retailers still struggle—customers expect seamless experience whether they're online, in-store, or switching between the two.\"",
+      "I maintain customer records with care because they are both a business asset and a trust commitment to the customer.",
+      "Accurate customer records enable me to deliver personalized service that strengthens loyalty.",
+      "Protecting the security of customer information is a legal obligation and an ethical responsibility."
     ]
   },
+
   "NF013": {
     id: "NF013",
     code: "NF:013",
     name: "Describe current business trends",
     definition: "Identify patterns shaping business environments.",
     keyPoints: [
-      "Market changes: Market changes.",
-      "Technology advancements: Technology advancements.",
-      "Consumer behavior: Consumer behavior.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Market Changes: Business trends include shifts in market conditions and consumer preferences.",
+      "Technology Advances: Technological advancements are among the most significant current business trends.",
+      "Consumer Behavior: Changes in consumer behavior shape business strategy and product development.",
+      "Trend Awareness: Trend awareness enables proactive strategy rather than reactive adaptation.",
+      "Opportunity Recognition: Monitoring trends reveals opportunities before competitors identify them."
     ],
     roleplayTips: [
-      "\"Digital marketing's fundamental advantage over traditional is measurability—every impression, click, and conversion is tracked and attributable.\"",
-      "\"Search intent data is the most valuable signal in digital marketing—people searching for what you sell are actively expressing purchase intent.\"",
-      "\"A/B testing is the discipline that separates improving digital marketers from plateauing ones—systematic testing of messages, offers, and formats drives continuous improvement.\"",
+      "I follow business trends closely because early awareness of change creates strategic advantage.",
+      "Understanding current trends helps me anticipate what customers will need before they explicitly demand it.",
+      "Trend awareness isn't about chasing every new development—it's about identifying which patterns will have lasting impact."
     ]
   },
+
   "NF014": {
     id: "NF014",
     code: "NF:014",
     name: "Monitor internal records for business information",
     definition: "Review company data to assess performance.",
     keyPoints: [
-      "Sales data: Sales data.",
-      "Productivity metrics: Productivity metrics.",
-      "Financial reports: Financial reports.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Sales Data Review: Monitoring internal records includes reviewing sales data for performance trends.",
+      "Productivity Metrics: Tracking productivity metrics reveals operational strengths and weaknesses.",
+      "Financial Reporting: Financial reports are primary internal records for assessing business health.",
+      "Performance Insight: Internal data reveals organizational strengths and areas needing improvement.",
+      "Improvement Support: Regular internal record review supports continuous performance improvement."
     ],
     roleplayTips: [
-      "\"Intellectual property protection is a competitive strategy—patents, trademarks, and trade secrets create defensible advantages that are difficult to replicate.\"",
-      "\"Copyright protection applies automatically to original works—but registration provides additional legal remedies in case of infringement.\"",
-      "\"Trade secret protection requires active maintenance—companies must implement reasonable measures to maintain confidentiality or lose protection.\"",
+      "I review internal data regularly because it tells me how the business is actually performing against our goals.",
+      "Internal records are the most reliable source of truth about business performance—I use them to guide decisions.",
+      "Monitoring internal records proactively allows me to identify issues early before they become serious problems."
     ]
   },
+
   "NF015": {
     id: "NF015",
     code: "NF:015",
     name: "Conduct an environmental scan",
     definition: "Analyze external factors affecting business.",
     keyPoints: [
-      "Economic trends: Economic trends.",
-      "Competitive landscape: Competitive landscape.",
-      "Regulatory environment: Regulatory environment.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Economic Trends: Environmental scanning includes monitoring economic trends and conditions.",
+      "Competitive Landscape: Understanding the competitive landscape is a key component of environmental scanning.",
+      "Regulatory Environment: Regulatory changes can significantly affect business operations and strategy.",
+      "Strategy Informing: Environmental scanning informs strategic planning and competitive positioning.",
+      "Disruption Awareness: External factors can disrupt even successful businesses that ignore them."
     ],
     roleplayTips: [
-      "\"My digital footprint is visible to employers, clients, and colleagues—I manage my online presence as a professional reputation asset.\"",
-      "\"I verify information before sharing—amplifying misinformation, even unintentionally, can damage my credibility and contribute to public harm.\"",
-      "\"Digital citizenship means applying the same ethical standards online that I apply offline—the Internet doesn't create a separate ethical environment.\"",
+      "I conduct regular environmental scans because external factors can change faster than internal capabilities and require early awareness.",
+      "Understanding the competitive landscape helps me identify both threats and opportunities for strategic advantage.",
+      "An environmental scan provides context that makes internal performance data much more meaningful."
     ]
   },
+
   "NF093": {
     id: "NF093",
     code: "NF:093",
     name: "Interpret statistical findings",
     definition: "Understand data results to draw meaning.",
     keyPoints: [
-      "Charts and: Charts and graphs.",
-      "Trends and: Trends and correlations.",
-      "Informed decisions: Informed decisions.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Visual Interpretation: Charts and graphs are primary tools for visualizing and interpreting statistical findings.",
+      "Trend Recognition: Identifying trends and correlations in data reveals meaningful patterns.",
+      "Informed Decisions: Statistical interpretation supports data-driven decisions rather than intuition alone.",
+      "Context Importance: Statistics must be interpreted in context to avoid misleading conclusions.",
+      "Misinterpretation Risk: Misinterpreting statistical findings leads to poor decisions and wasted resources."
     ],
     roleplayTips: [
-      "\"Project management discipline is what separates projects that achieve their objectives on time and budget from those that drift indefinitely.\"",
-      "\"The project triangle is real—when a client asks for more scope without more time or budget, something has to give, and that conversation needs to happen explicitly.\"",
-      "\"I communicate project status proactively—stakeholders should never be surprised by a delay or budget issue I saw coming.\"",
+      "I interpret statistics carefully, always considering the context and the limitations of the data before drawing conclusions.",
+      "Visual representations of statistical data help me communicate findings to audiences who may not be comfortable with numbers.",
+      "Strong statistical interpretation skills help me separate meaningful signals from noise in business data."
     ]
   },
+
   "NF216": {
     id: "NF216",
     code: "NF:216",
     name: "Translate research findings into actionable recommendations",
     definition: "Convert data analysis into business actions.",
     keyPoints: [
-      "Clear recommendations: Clear recommendations.",
-      "Strategic alignment: Strategic alignment.",
-      "Practical application: Practical application.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Clear Recommendations: Translating findings into recommendations requires clear, specific proposed actions.",
+      "Strategic Alignment: Recommendations must align with organizational strategy and resources.",
+      "Practical Application: Recommendations must be practical and feasible to implement.",
+      "Action Requirement: Research without actionable recommendations has limited business value.",
+      "Feasibility Requirement: Recommendations must be realistic given organizational constraints and capabilities."
     ],
     roleplayTips: [
-      "\"Spreadsheet proficiency is one of the highest-leverage business skills—the ability to build dynamic models and analyze data independently creates enormous professional value.\"",
-      "\"Presentation design is a communication skill, not just a software skill—the most technically skilled PowerPoint user can still create confusing, ineffective presentations.\"",
-      "\"Collaboration platform fluency has become a baseline professional expectation—teams that use these tools effectively are significantly more productive than those who don't.\"",
+      "I translate research findings into specific, actionable recommendations because data without action doesn't create value.",
+      "When presenting recommendations, I make sure they are realistic, specific, and clearly tied to the research findings.",
+      "The gap between analysis and action is where many organizations fail—I focus on making that bridge as clear as possible."
     ]
   },
+
   "NF139": {
     id: "NF139",
     code: "NF:139",
     name: "Explain the principles of data analysis",
     definition: "Describe how data is examined to find meaning.",
     keyPoints: [
-      "Identifies patterns: Identifies patterns.",
-      "Supports decisions: Supports decisions.",
-      "Improves accuracy: Improves accuracy.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Pattern Identification: Data analysis identifies patterns and relationships in large datasets.",
+      "Decision Support: Analysis principles guide decisions by providing evidence-based insights.",
+      "Accuracy Improvement: Following sound analysis principles improves the accuracy of conclusions.",
+      "Question Foundation: Good analysis begins with a clear, well-defined question.",
+      "Data Quality Dependence: The quality of analysis is directly dependent on the quality of the underlying data."
     ],
     roleplayTips: [
-      "\"ERP creates a single version of the truth—finance, operations, and sales all work from the same data rather than reconciling inconsistent spreadsheets.\"",
-      "\"ERP implementations succeed when they're treated as business transformation projects, not technology projects—change management is as critical as software configuration.\"",
-      "\"The real-time cross-functional visibility ERP provides enables decisions that would have required days of data collection with disconnected systems.\"",
+      "I start every data analysis project with a clear question because unfocused analysis rarely produces useful insights.",
+      "Understanding data analysis principles helps me avoid common errors that lead to misleading conclusions.",
+      "Data quality is the foundation of analysis quality—I evaluate data before analyzing it."
     ]
   },
+
   "NF140": {
     id: "NF140",
     code: "NF:140",
     name: "Explain tools used to access database information",
     definition: "Describe methods for retrieving stored data.",
     keyPoints: [
-      "Queries: Queries.",
-      "Reports: Reports.",
-      "Filters: Filters.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Query Tools: Queries are the primary tool for retrieving specific information from databases.",
+      "Report Generation: Report tools format database information for presentation and review.",
+      "Filter Functions: Filters enable focused retrieval of relevant subsets of data.",
+      "Tool Variety: The tools available vary by database type and organizational needs.",
+      "Access Control: Proper access controls protect data integrity and prevent unauthorized retrieval."
     ],
     roleplayTips: [
-      "\"Supply chain visibility is a competitive advantage—knowing exactly where inventory is in the network enables faster customer service and leaner inventory management.\"",
-      "\"Demand planning integration with our supply chain system has reduced our inventory by 25% while actually improving fill rates.\"",
-      "\"The pandemic demonstrated that supply chain resilience requires both technology visibility and strategic diversification—systems tell you what's happening; resilient design determines whether you can respond.\"",
+      "I use database query tools to retrieve exactly the information I need rather than exporting everything and filtering manually.",
+      "Understanding the tools available for accessing database information makes me more efficient and effective.",
+      "Access controls on database tools are important—data security depends on limiting access to authorized users."
     ]
   },
+
   "NF141": {
     id: "NF141",
     code: "NF:141",
     name: "Access information in the database system",
     definition: "Retrieve data from databases for business use.",
     keyPoints: [
-      "Accuracy: Accuracy.",
-      "Efficiency: Efficiency.",
-      "Data integrity: Data integrity.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Data Accuracy: Accessing information accurately ensures the data retrieved is complete and correct.",
+      "Access Efficiency: Efficient database access reduces time spent finding information.",
+      "Data Integrity: Maintaining data integrity during access prevents corruption or unintended changes.",
+      "Permission Assignment: Access rights must be properly assigned to protect sensitive information.",
+      "Verification Requirement: Retrieved data should be verified before use in important decisions."
     ],
     roleplayTips: [
-      "\"Technology strategy starts with business strategy—I ask 'what business outcomes do we need?' before evaluating which technology could support them.\"",
-      "\"The build vs. buy decision hinges on differentiation—we build what creates competitive advantage and buy commodity functionality from vendors.\"",
-      "\"Legacy system modernization is one of the biggest technology strategy challenges—the cost and risk of migration must be weighed against the growing cost and constraint of maintaining aging systems.\"",
+      "I verify that the data I retrieve from databases is accurate and complete before using it in analysis or decisions.",
+      "Understanding database access procedures ensures I retrieve the right information efficiently and securely.",
+      "Proper database access means I use only the permissions I need and protect the data I access."
     ]
   },
+
   "NF148": {
     id: "NF148",
     code: "NF:148",
     name: "Discuss the nature of data mining",
     definition: "Explain extracting useful patterns from large data sets.",
     keyPoints: [
-      "Identifies trends: Identifies trends.",
-      "Improves predictions: Improves predictions.",
-      "Supports strategy: Supports strategy.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Trend Identification: Data mining identifies trends and patterns that are not visible in individual records.",
+      "Prediction Improvement: Data mining improves predictions by finding relationships in historical data.",
+      "Strategy Support: Mining insights support more informed business strategy and decisions.",
+      "Clean Data Requirement: Data mining requires clean, well-organized data to produce reliable results.",
+      "Pattern Interpretation: Patterns found through mining must be carefully interpreted in business context."
     ],
     roleplayTips: [
-      "\"Innovation management is about more than having good ideas—it's about building a system that consistently generates, evaluates, and implements them.\"",
-      "\"Psychological safety is the cultural prerequisite for innovation—people only propose unconventional ideas when they're confident they won't be ridiculed for trying.\"",
-      "\"An innovation portfolio should balance incremental improvements to existing products with exploratory bets on potentially disruptive new directions.\"",
+      "Data mining allows me to find insights hidden in large datasets that would be impossible to see manually.",
+      "I understand that data mining is only as good as the quality of the underlying data—garbage in, garbage out.",
+      "Patterns found through data mining require careful interpretation before being used as the basis for business decisions."
     ]
   },
+
   "NF149": {
     id: "NF149",
     code: "NF:149",
     name: "Describe data mining tools and techniques",
     definition: "Explain methods used to analyze large data sets.",
     keyPoints: [
-      "Software tools: Software tools.",
-      "Statistical models: Statistical models.",
-      "Pattern recognition: Pattern recognition.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Software Tools: Various software tools support different types of data mining analysis.",
+      "Statistical Models: Statistical models are used to identify patterns and relationships in data.",
+      "Pattern Recognition: Pattern recognition techniques identify recurring structures and trends.",
+      "Tool Variety: Data mining tools vary in complexity and capability depending on the application.",
+      "Goal-Based Selection: Tool selection depends on the data type, volume, and analytical goals."
     ],
     roleplayTips: [
-      "\"Technology impact assessment must include social and ethical dimensions—not just whether something is technologically possible but whether it's beneficial for people and communities.\"",
-      "\"The digital divide is a business issue as well as a social one—segments of the market without digital access represent both a responsibility and an opportunity.\"",
-      "\"Technology companies increasingly must reckon with the societal consequences of their products—this is becoming both a regulatory and reputational imperative.\"",
+      "I select data mining tools based on the specific analytical goal because different techniques are suited to different problems.",
+      "Understanding the range of data mining tools available helps me choose the most appropriate approach for each situation.",
+      "Even basic data mining techniques can reveal valuable insights when applied to the right data."
     ]
   },
+
   "NF150": {
     id: "NF150",
     code: "NF:150",
     name: "Discuss the importance of ethics in data mining",
     definition: "Explain ethical responsibilities in data use.",
     keyPoints: [
-      "Protects privacy: Protects privacy.",
-      "Prevents misuse: Prevents misuse.",
-      "Builds trust: Builds trust.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Privacy Protection: Ethical data mining requires protecting the privacy of individuals in the dataset.",
+      "Misuse Prevention: Ethics prevent data from being used for purposes beyond its intended scope.",
+      "Trust Building: Ethical data practices build trust with customers and other stakeholders.",
+      "Legal Requirement: Ethical data use is legally required under various data protection regulations.",
+      "Transparency Requirement: Transparency about data collection and mining practices is ethically essential."
     ],
     roleplayTips: [
-      "\"Every technology adoption decision should include an explicit risk assessment—what attack surface does this create, what data does it collect, and what happens if it fails?\"",
-      "\"Operational dependency on any single technology creates a single point of failure—redundancy and contingency planning must accompany technology adoption.\"",
-      "\"Algorithmic bias in AI systems can create legal liability and reputational harm—organizations must actively test models for discriminatory outcomes before and after deployment.\"",
+      "I apply ethical standards to data mining because the insights we extract carry responsibility for how they are used.",
+      "Protecting privacy in data mining isn't just about compliance—it's about respecting the people behind the data.",
+      "I am transparent about our data mining practices because stakeholders have a right to know how their information is used."
     ]
   },
+
   "NF151": {
     id: "NF151",
     code: "NF:151",
     name: "Demonstrate basic data mining techniques",
     definition: "Apply simple methods to extract insights from data.",
     keyPoints: [
-      "Sorting and: Sorting and filtering.",
-      "Trend analysis: Trend analysis.",
-      "Categorization: Categorization.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Sorting and Filtering: Basic sorting and filtering reveal patterns in organized data.",
+      "Trend Analysis: Simple trend analysis identifies directional changes in data over time.",
+      "Categorization: Categorizing data groups similar observations to reveal meaningful patterns.",
+      "Pattern Revelation: Basic techniques often reveal surprisingly useful patterns in business data.",
+      "Validation Requirement: Mining results must be validated before being relied upon for decisions."
     ],
     roleplayTips: [
-      "\"Telecommunications infrastructure is the circulatory system of the modern business—every digital business activity depends on its reliability and bandwidth.\"",
-      "\"5G isn't just faster mobile internet—its low latency enables real-time applications like autonomous vehicles and remote surgery that 4G couldn't support.\"",
-      "\"Telecommunications reliability directly affects business continuity—understanding your backup connectivity options is part of business resilience planning.\"",
+      "I start with basic data mining techniques because they often reveal the most actionable patterns with the least complexity.",
+      "Sorting and filtering data systematically is a simple but powerful first step in finding insights.",
+      "I validate mining results by testing them against different data subsets before using them to inform decisions."
     ]
   },
+
   "NF152": {
     id: "NF152",
     code: "NF:152",
     name: "Interpret data mining findings",
     definition: "Explain results produced through data mining.",
     keyPoints: [
-      "Supports decision-making: Supports decision-making.",
-      "Identifies opportunities: Identifies opportunities.",
-      "Reduces uncertainty: Reduces uncertainty.",
-      "Business Relevance: This skill is fundamental to effective information management in modern organizations.",
-      "Efficiency Gain: Applying this skill correctly saves time and improves the quality of business decisions.",
+      "Decision Support: Interpreting mining findings supports more informed business decisions.",
+      "Opportunity Identification: Data mining findings reveal opportunities that would otherwise go unnoticed.",
+      "Uncertainty Reduction: Well-interpreted findings reduce the uncertainty that surrounds business decisions.",
+      "Clear Communication: Findings must be communicated clearly in language that non-technical audiences understand.",
+      "Contextual Interpretation: Business context affects how mining findings should be interpreted and applied."
     ],
     roleplayTips: [
-      "\"Technology has made communication faster and more abundant—the new challenge is managing the volume to protect focused work time.\"",
-      "\"Channel selection is a communication skill—a nuanced sensitive topic deserves a video call, not an email; a quick update belongs in a message, not a meeting.\"",
-      "\"Collaboration platforms have replaced much of email for internal communication in high-performing teams—persistent, searchable conversations are more useful than threaded email chains.\"",
+      "I interpret data mining findings in their business context because raw patterns without context can lead to wrong conclusions.",
+      "When communicating mining findings, I translate technical results into clear business implications.",
+      "Interpreting data mining results responsibly means acknowledging limitations and uncertainty alongside the findings."
     ]
   },
 
@@ -5262,1439 +5343,1517 @@ export const PERFORMANCE_INDICATOR_DETAILS: Record<string, PerformanceIndicatorD
     name: "Explain the nature of operations",
     definition: "Describe how operations manage the day-to-day activities required to produce goods and services.",
     keyPoints: [
-      "Focuses on: Focuses on efficiency and productivity.",
-      "Coordinates people: Coordinates people, materials, and processes.",
-      "Supports overall: Supports overall business objectives.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Efficiency Focus: Operations focuses on efficiency and productivity in producing goods and services.",
+      "Resource Coordination: Operations coordinates people, materials, and processes to create value.",
+      "Objective Support: Effective operations supports and enables overall business objectives.",
+      "Value Creation: Operations creates value from inputs through organized production processes.",
+      "Cost and Quality: Effective operations reduce costs and improve the quality of outputs."
     ],
     roleplayTips: [
-      "\"Operations is where strategy becomes reality—it's the function that actually produces the value we promise customers.\"",
-      "\"Operational efficiency is competitive advantage—the organization that produces the same quality at lower cost can win on price or reinvest the margin in growth.\"",
-      "\"Operations management is about continuous process improvement—every inefficiency we eliminate is margin we recapture or price reduction we can offer.\"",
+      "I understand that operations is where strategy becomes reality—it's the function that actually delivers value to customers.",
+      "Operational efficiency is a competitive advantage I contribute to by eliminating waste and improving processes.",
+      "Every improvement in operations either reduces cost or improves quality—both of which strengthen our market position."
     ]
   },
+
   "OP190": {
     id: "OP190",
     code: "OP:190",
     name: "Discuss the role of ethics in operations",
     definition: "Explain how ethical standards guide operational decisions and practices.",
     keyPoints: [
-      "Ensures fair: Ensures fair labor practices.",
-      "Promotes safe: Promotes safe working conditions.",
-      "Reduces legal: Reduces legal and reputational risk.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Fair Labor: Ethical operations ensure fair labor practices and treatment of workers.",
+      "Safe Conditions: Promoting safe working conditions is a core ethical obligation in operations.",
+      "Risk Reduction: Ethical operations reduce legal and reputational risk for the organization.",
+      "Stakeholder Trust: Ethics in operations builds trust with employees, customers, and the community.",
+      "Environmental Responsibility: Environmental responsibility is part of ethical operations management."
     ],
     roleplayTips: [
-      "\"Safety procedures protect both workers and the organization—workplace injuries create human suffering, legal liability, productivity loss, and insurance costs.\"",
-      "\"Near-miss reporting is as important as accident reporting—near-misses are advance warning of conditions that will eventually cause injury if not corrected.\"",
-      "\"A strong safety culture is built by leaders who model safety behavior and hold all levels accountable—rules without culture produce compliance, not safety.\"",
+      "I apply ethical standards to operational decisions because the way we operate reflects our organizational values.",
+      "Ethical operations means treating workers fairly and ensuring safe conditions—not just meeting minimum legal requirements.",
+      "Environmental responsibility in operations isn't just ethics—it's also increasingly a competitive and legal requirement."
     ]
   },
+
   "OP191": {
     id: "OP191",
     code: "OP:191",
     name: "Describe the use of technology in operations",
     definition: "Explain how technology improves operational efficiency and control.",
     keyPoints: [
-      "Automation of: Automation of processes.",
-      "Improved tracking: Improved tracking and scheduling.",
-      "Increased accuracy: Increased accuracy and speed.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Process Automation: Technology automates repetitive operational processes to reduce cost and error.",
+      "Tracking and Scheduling: Improved tracking and scheduling through technology enhance operational control.",
+      "Accuracy and Speed: Technology increases accuracy and speed in operational tasks.",
+      "Error Reduction: Digital tools reduce human errors that cause defects and inefficiencies.",
+      "Real-Time Visibility: Digital tools provide real-time operational visibility to support quick decisions."
     ],
     roleplayTips: [
-      "\"The hierarchy of controls guides safety investments—we prioritize eliminating hazards entirely over adding PPE that still leaves workers exposed.\"",
-      "\"Root cause analysis of every incident—not just blame assignment—is what prevents recurrence and continuously improves our safety performance.\"",
-      "\"Workplace safety isn't just compliance—it's a statement about how we value the people who create value for us.\"",
+      "I leverage operational technology to automate routine tasks so I can focus on higher-value problem-solving.",
+      "Real-time operational data from technology tools allows us to identify and fix problems before they escalate.",
+      "Technology in operations improves both efficiency and quality—I stay current on tools that can benefit our processes."
     ]
   },
+
   "OP004": {
     id: "OP004",
     code: "OP:004",
     name: "Describe health and safety regulations in business",
     definition: "Explain rules designed to protect employees and customers from harm.",
     keyPoints: [
-      "Prevent workplace: Prevent workplace injuries.",
-      "Ensure safe: Ensure safe environments.",
-      "Required by: Required by law.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Injury Prevention: Health and safety regulations are designed to prevent workplace injuries.",
+      "Safe Environments: Regulations ensure that workplaces are safe for employees and customers.",
+      "Legal Requirement: Compliance with health and safety regulations is legally mandated.",
+      "OSHA Standards: OSHA sets minimum workplace safety standards that all employers must meet.",
+      "Non-Compliance Penalties: Non-compliance with safety regulations carries serious legal penalties."
     ],
     roleplayTips: [
-      "\"SWOT analysis is most valuable when it's honest—acknowledging real weaknesses and credible threats rather than producing a rosy self-assessment.\"",
-      "\"The best opportunities are often found at the intersection of competitor weaknesses and emerging customer needs—both conditions must exist simultaneously.\"",
-      "\"I review our threat and opportunity landscape quarterly—the business environment moves fast enough that annual reviews leave us reacting to changes we should have anticipated.\"",
+      "I take health and safety regulations seriously because they exist to protect real people from real harm.",
+      "Understanding safety regulations helps me identify hazards and ensure we meet our legal obligations.",
+      "Compliance with safety regulations isn't optional—violations expose both individuals and organizations to serious consequences."
     ]
   },
+
   "OP005": {
     id: "OP005",
     code: "OP:005",
     name: "Report noncompliance with health and safety regulations",
     definition: "Identify and report unsafe conditions or violations.",
     keyPoints: [
-      "Protects employees: Protects employees.",
-      "Reduces liability: Reduces liability.",
-      "Encourages accountability: Encourages accountability.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Employee Protection: Reporting noncompliance protects employees from potential harm.",
+      "Liability Reduction: Reporting violations reduces organizational liability for injuries.",
+      "Accountability Encouragement: Reporting encourages accountability for safety standards.",
+      "Legal and Ethical Obligation: Reporting safety violations is both a legal and ethical obligation.",
+      "Corrective Action Support: Documentation of violations supports corrective action processes."
     ],
     roleplayTips: [
-      "\"Purchasing is not just order placement—it's supply chain strategy that directly affects product quality, cost competitiveness, and operational continuity.\"",
-      "\"Total cost of ownership analysis reveals that the lowest-price supplier is often not the lowest-cost supplier when quality, delivery, and support are included.\"",
-      "\"Strategic supplier relationships are collaborative, not adversarial—suppliers who understand our goals and processes become a competitive advantage.\"",
+      "I report safety violations because protecting my colleagues from harm is more important than avoiding a difficult conversation.",
+      "Timely reporting of noncompliance prevents injuries that could have been avoided with corrective action.",
+      "Documenting and reporting safety issues is a professional responsibility that protects everyone in the workplace."
     ]
   },
+
   "OP006": {
     id: "OP006",
     code: "OP:006",
     name: "Follow instructions for use of equipment, tools, and machinery",
     definition: "Use equipment according to guidelines to ensure safety.",
     keyPoints: [
-      "Prevents accidents: Prevents accidents.",
-      "Extends equipment: Extends equipment life.",
-      "Improves efficiency: Improves efficiency.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Accident Prevention: Following operating instructions prevents accidents and equipment-related injuries.",
+      "Equipment Life Extension: Proper use extends the useful life of expensive equipment.",
+      "Efficiency Improvement: Using equipment correctly improves operational efficiency and output quality.",
+      "Training Requirement: Training is required before operating unfamiliar equipment.",
+      "Warranty Protection: Improper equipment use can void manufacturer warranties."
     ],
     roleplayTips: [
-      "\"Inventory management is about optimizing the trade-off between service level and carrying cost—the right balance depends on our margins, demand variability, and lead times.\"",
-      "\"ABC analysis focuses our management attention where it matters most—the top 20% of SKUs often represent 80% of our inventory value.\"",
-      "\"Inventory accuracy is fundamental—you can't make good replenishment decisions based on inaccurate records.\"",
+      "I always follow equipment operating instructions because safety and efficiency both depend on correct use.",
+      "Taking time to read and understand instructions before using new equipment prevents costly and dangerous mistakes.",
+      "Proper equipment use is a professional responsibility that protects both me and the organization's assets."
     ]
   },
+
   "OP007": {
     id: "OP007",
     code: "OP:007",
     name: "Follow safety precautions",
     definition: "Apply safety rules to reduce workplace risks.",
     keyPoints: [
-      "Wear protective: Wear protective equipment.",
-      "Follow posted: Follow posted guidelines.",
-      "Prevent injuries: Prevent injuries.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Protective Equipment: Wearing protective equipment as required by safety guidelines prevents injuries.",
+      "Posted Guidelines: Following posted safety guidelines ensures compliance with facility safety rules.",
+      "Injury Prevention: Safety precautions directly prevent workplace injuries and illnesses.",
+      "Risk Analysis Basis: Safety rules are based on analysis of actual workplace risks.",
+      "Safety Culture: Consistent adherence to safety precautions creates and sustains a safe workplace culture."
     ],
     roleplayTips: [
-      "\"Supply chain management is the integration of everything from raw material to customer delivery—excellence here directly determines cost, quality, and speed to market.\"",
-      "\"The bullwhip effect is why demand signal accuracy is so valuable upstream—we share point-of-sale data with our suppliers to reduce amplification.\"",
-      "\"Supply chain resilience requires deliberate investment in redundancy—multiple sources for critical components, safety stock for key SKUs, and contingency logistics.\"",
+      "I follow safety precautions consistently because rules based on risk analysis exist to prevent real injuries.",
+      "Wearing protective equipment isn't just compliance—it's the difference between going home safely and an injury.",
+      "Building safety habits means following precautions even when I'm in a hurry or when no one is watching."
     ]
   },
+
   "OP008": {
     id: "OP008",
     code: "OP:008",
     name: "Maintain a safe work environment",
     definition: "Ensure the workplace remains clean, organized, and hazard-free.",
     keyPoints: [
-      "Reduces accidents: Reduces accidents.",
-      "Improves morale: Improves morale.",
-      "Increases productivity: Increases productivity.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Accident Reduction: A clean, organized workplace reduces the risk of accidents and injuries.",
+      "Morale Improvement: A safe, well-maintained work environment improves employee morale.",
+      "Productivity Increase: Safe, organized workplaces support higher productivity.",
+      "5S Organization: 5S workplace organization practices keep the workplace safe and efficient.",
+      "Regular Inspection: Regular safety inspections identify and eliminate hazards before they cause harm."
     ],
     roleplayTips: [
-      "\"Predictive maintenance using IoT sensor data has reduced our unplanned downtime by 40%—we fix equipment before it breaks, not after.\"",
-      "\"Automation doesn't replace all human judgment—it takes over repetitive, rules-based tasks and frees workers to focus on complex, judgment-intensive work.\"",
-      "\"Real-time operational data visibility through our ERP gives management the situational awareness to respond to disruptions hours faster than we could before.\"",
+      "I maintain a safe work environment because safety is everyone's responsibility, not just management's.",
+      "An organized, hazard-free workplace makes everyone more efficient and reduces the risk of preventable accidents.",
+      "I conduct regular checks of my work area to identify and address potential hazards proactively."
     ]
   },
+
   "OP009": {
     id: "OP009",
     code: "OP:009",
     name: "Explain procedures for handling accidents",
     definition: "Describe steps to take when workplace accidents occur.",
     keyPoints: [
-      "Provide immediate: Provide immediate assistance.",
-      "Report incidents: Report incidents promptly.",
-      "Follow company: Follow company procedures.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Immediate Assistance: Providing immediate assistance to injured persons is the first priority.",
+      "Prompt Reporting: Reporting incidents promptly enables faster response and documentation.",
+      "Company Procedures: Following established company accident procedures ensures consistent response.",
+      "Documentation Support: Accident documentation supports future prevention and insurance claims.",
+      "First Aid Training: First aid training prepares employees to respond effectively to emergencies."
     ],
     roleplayTips: [
-      "\"Quality is defined by the customer, not the engineering spec—we regularly validate that our technical standards align with what customers actually value.\"",
-      "\"Total quality management embeds quality responsibility throughout the organization—quality isn't the QA department's job alone; it's everyone's.\"",
-      "\"The cost of quality analysis is compelling: every dollar invested in defect prevention saves multiple dollars in rework, warranty claims, and customer recovery.\"",
+      "When accidents occur, I know to prioritize the injured person first and then follow our documented response procedures.",
+      "Proper accident documentation isn't just paperwork—it enables the analysis needed to prevent similar incidents.",
+      "First aid training has prepared me to respond effectively in the critical first moments after an accident."
     ]
   },
+
   "OP010": {
     id: "OP010",
     code: "OP:010",
     name: "Handle and report emergency situations",
     definition: "Respond appropriately to emergencies to minimize harm.",
     keyPoints: [
-      "Follow emergency: Follow emergency plans.",
-      "Communicate clearly: Communicate clearly.",
-      "Protect people: Protect people first.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Emergency Plans: Following established emergency plans ensures coordinated and effective response.",
+      "Clear Communication: Communicating clearly during emergencies prevents confusion and additional harm.",
+      "People First Priority: Protecting people is always the first priority in any emergency situation.",
+      "Drill Preparedness: Regular emergency drills build the preparedness needed for effective real response.",
+      "Role Clarity: Clear role assignments in emergencies reduce confusion and improve outcomes."
     ],
     roleplayTips: [
-      "\"Our QMS is the institutional memory of our quality standards—it ensures consistency regardless of which individual performs the task.\"",
-      "\"The corrective action process is where quality improvement actually happens—every documented nonconformance drives systematic root cause analysis and prevention.\"",
-      "\"ISO 9001 certification signals to customers that our quality processes are independently verified against an international standard—it's a commercial differentiator.\"",
+      "Emergency preparedness means I know exactly what to do before an emergency happens—drills are essential practice.",
+      "In an emergency, clear communication is as important as physical response—I stay calm and communicate clearly.",
+      "My role in emergency response is defined and practiced so I can act quickly and correctly under pressure."
     ]
   },
-  "OP153": {
-    id: "OP153",
-    code: "OP:153",
-    name: "Protect company information and intangibles",
-    definition: "Safeguard sensitive data and intellectual property.",
+
+  "OP013": {
+    id: "OP013",
+    code: "OP:013",
+    name: "Explain routine security precautions",
+    definition: "Describe everyday actions taken to prevent theft or loss.",
     keyPoints: [
-      "Prevents data: Prevents data breaches.",
-      "Protects competitive: Protects competitive advantage.",
-      "Maintains reputation: Maintains reputation.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Access Control: Securing entrances and exits controls who can enter the facility.",
+      "Monitoring: Monitoring access and activity helps detect and deter security threats.",
+      "Asset Protection: Routine security precautions protect valuable organizational assets.",
+      "Incident Prevention: Consistent routine precautions prevent the majority of security incidents.",
+      "Employee Role: Employees are the first line of defense in everyday security."
     ],
     roleplayTips: [
-      "\"Project initiation isn't just administrative—a clear charter prevents the scope misalignments that cause projects to fail months later.\"",
-      "\"Change control is protective, not bureaucratic—it ensures that scope changes are conscious decisions with resource implications, not quiet additions that derail the schedule.\"",
-      "\"Lessons learned documentation at project closure is how organizations improve project performance over time—if we don't capture it, we repeat the same mistakes.\"",
+      "I take routine security precautions seriously because most security incidents are preventable with consistent basic practices.",
+      "Security is everyone's responsibility—I follow procedures and report suspicious activity to protect the organization.",
+      "Building security habits around access control and monitoring creates a workplace environment that deters theft and loss."
     ]
   },
+
   "OP152": {
     id: "OP152",
     code: "OP:152",
     name: "Follow established security procedures/policies",
     definition: "Comply with company rules related to security.",
     keyPoints: [
-      "Prevents losses: Prevents losses.",
-      "Protects employees: Protects employees.",
-      "Maintains trust: Maintains trust.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Loss Prevention: Following security procedures prevents theft and unauthorized access to assets.",
+      "Employee Protection: Security procedures protect employees as well as physical and information assets.",
+      "Trust Maintenance: Consistent security compliance maintains organizational trust and integrity.",
+      "Consistency Requirement: Consistent adherence to security procedures is essential for their effectiveness.",
+      "Violation Reporting: Security violations must be reported promptly to prevent escalation."
     ],
     roleplayTips: [
-      "\"A well-maintained Gantt chart gives every team member visibility into dependencies—they can see how their delays affect downstream tasks and the overall timeline.\"",
-      "\"Our project risk register isn't a compliance document—we actively review it in weekly standups and update mitigation actions as risks evolve.\"",
-      "\"Project management software creates a single source of truth for task ownership and status—it eliminates the 'I thought you were doing that' failures.\"",
+      "I follow security procedures consistently because selective compliance creates gaps that bad actors can exploit.",
+      "Security policies exist to protect everyone in the organization—following them is a contribution to collective safety.",
+      "When I observe a security violation, I report it because addressing it early prevents larger problems."
     ]
   },
-  "OP013": {
-    id: "OP013",
-    code: "OP:013",
-    name: "Apply project management processes",
-    definition: "Execute the structured activities of project initiation, planning, execution, monitoring, and closing to deliver project objectives.",
+
+  "OP153": {
+    id: "OP153",
+    code: "OP:153",
+    name: "Protect company information and intangibles",
+    definition: "Safeguard sensitive data and intellectual property.",
     keyPoints: [
-      "Charter Development: The project charter formally authorizes the project and defines its scope, objectives, stakeholders, and constraints.",
-      "Planning Documents: Work breakdown structure, schedule, budget, risk plan, and communication plan form the project planning foundation.",
-      "Execution Management: Daily coordination of tasks, resources, and stakeholder communication to keep the project on track.",
-      "Change Management: Formal change control processes evaluate and approve scope changes to prevent scope creep.",
-      "Project Closure: Formal closure includes final deliverable acceptance, lessons learned documentation, and resource release."
+      "Breach Prevention: Protecting company information prevents costly data breaches and leaks.",
+      "Competitive Advantage: Protecting intellectual property preserves the competitive advantage it represents.",
+      "Reputation Maintenance: Protecting sensitive information maintains organizational reputation.",
+      "Intangible Value: Intangible assets like data and IP often have greater business value than physical assets.",
+      "Dual Protection: Both digital and physical protections are needed to secure company information."
     ],
     roleplayTips: [
-      "\"Project initiation isn't just administrative—a clear charter prevents the scope misalignments that cause projects to fail months later.\"",
-      "\"Change control is protective, not bureaucratic—it ensures that scope changes are conscious decisions with resource implications, not quiet additions that derail the schedule.\"",
-      "\"Lessons learned documentation at project closure is how organizations improve project performance over time—if we don't capture it, we repeat the same mistakes.\""
+      "I treat company information with the same care I'd give to any valuable physical asset—because it often is more valuable.",
+      "Protecting intellectual property isn't just legal compliance—it's preserving the competitive advantage we've built.",
+      "Both digital security practices and physical document handling are part of my responsibility to protect company information."
     ]
   },
+
   "OP441": {
     id: "OP441",
     code: "OP:441",
     name: "Explain information privacy, security, and confidentiality considerations",
     definition: "Describe responsibilities related to protecting information.",
     keyPoints: [
-      "Customer privacy: Customer privacy.",
-      "Secure data: Secure data handling.",
-      "Legal compliance: Legal compliance.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Customer Privacy: Protecting customer privacy is a primary obligation in information handling.",
+      "Secure Data Handling: Secure data handling prevents unauthorized access to sensitive information.",
+      "Legal Compliance: Privacy and security obligations are mandated by various laws and regulations.",
+      "Policy Communication: Privacy policies must be clearly communicated to all stakeholders.",
+      "Breach Consequences: Information breaches carry significant financial and reputational harm."
     ],
     roleplayTips: [
-      "\"Needs assessment before solution design prevents the costly mistake of solving the wrong problem or addressing symptoms rather than causes.\"",
-      "\"I collect needs information from multiple stakeholder groups—different perspectives often reveal different dimensions of the same underlying problem.\"",
-      "\"A documented needs assessment creates shared understanding of the problem—it's the foundation that prevents solution-scope disputes later.\"",
+      "I take information privacy, security, and confidentiality seriously because the people whose data we hold trust us with it.",
+      "Understanding our legal privacy obligations helps me ensure that every information-handling decision I make is compliant.",
+      "Preventing data breaches is far better than responding to them—I build privacy and security into every process."
     ]
   },
+
   "OP064": {
     id: "OP064",
     code: "OP:064",
     name: "Maintain data security",
     definition: "Protect electronic and physical data from unauthorized access.",
     keyPoints: [
-      "Use passwords: Use passwords and access controls.",
-      "Secure storage: Secure storage systems.",
-      "Prevent data: Prevent data loss.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Access Controls: Passwords and access controls are the first line of defense for data security.",
+      "Secure Storage: Secure storage systems protect data from unauthorized access and theft.",
+      "Loss Prevention: Data security measures prevent loss from theft, accident, or system failure.",
+      "Backup Protection: Regular backups protect against data loss from technical failures.",
+      "Human Error Reduction: Employee training reduces the human errors that cause most data security incidents."
     ],
     roleplayTips: [
-      "\"Understanding fixed versus variable cost structure is essential for break-even analysis and pricing decisions—the two respond very differently to volume changes.\"",
-      "\"Overhead allocation methodology affects apparent product profitability—incorrect allocation can lead to discontinuing profitable products or retaining unprofitable ones.\"",
-      "\"Contribution margin analysis by product reveals which offerings best cover our fixed overhead—it drives portfolio and pricing decisions.\"",
+      "I maintain strong passwords and access controls because they are the foundation of data security.",
+      "Regular data backups are a safety net I rely on—losing data without a backup can be catastrophic for the organization.",
+      "I treat data security as an ongoing responsibility, not a one-time setup, because threats evolve continuously."
     ]
   },
+
   "OP158": {
     id: "OP158",
     code: "OP:158",
     name: "Explain the nature of project management",
     definition: "Describe how projects are planned, executed, and completed.",
     keyPoints: [
-      "Temporary and: Temporary and goal-oriented.",
-      "Uses timelines: Uses timelines and resources.",
-      "Ensures objectives: Ensures objectives are met.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Temporary and Goal-Oriented: Projects are temporary, goal-oriented efforts with defined start and end points.",
+      "Timeline and Resources: Project management uses timelines and resource allocation to guide execution.",
+      "Objective Achievement: Project management ensures defined objectives are met on time and within budget.",
+      "Project Triangle: Scope, time, and cost form the project management triangle of constraints.",
+      "Methodology Value: Project management methodology improves the success rates of complex initiatives."
     ],
     roleplayTips: [
-      "\"A budget is a management commitment—it authorizes spending and establishes performance expectations that we'll measure against throughout the year.\"",
-      "\"Variance analysis is only useful when it generates action—every significant variance should be explained and accompanied by a corrective action plan.\"",
-      "\"Flexible budgets provide more meaningful performance analysis than fixed budgets because they remove the confounding effect of volume variation.\"",
+      "I approach projects with clear scope, timeline, and resource planning because that structure is what makes successful delivery possible.",
+      "Understanding the project management triangle helps me make informed trade-offs when constraints conflict.",
+      "Good project management is about preventing surprises through planning, not just responding to problems as they arise."
     ]
   },
+
   "OP675": {
     id: "OP675",
     code: "OP:675",
     name: "Describe the role of ethics in project management",
     definition: "Explain ethical responsibilities during project execution.",
     keyPoints: [
-      "Honest reporting: Honest reporting.",
-      "Fair treatment: Fair treatment of team members.",
-      "Responsible resource: Responsible resource use.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Honest Reporting: Honest reporting of project status and risks is a fundamental ethical obligation.",
+      "Fair Treatment: Treating all team members fairly and with respect is an ethical requirement.",
+      "Responsible Resource Use: Using project resources responsibly and only for project purposes is required.",
+      "Stakeholder Protection: Ethical project management protects the interests of all project stakeholders.",
+      "Conflict Prevention: Transparency in project management prevents conflicts and builds stakeholder trust."
     ],
     roleplayTips: [
-      "\"I monitor project health weekly using cost and schedule performance indices—they give me an objective early warning when we're trending off track.\"",
-      "\"Status reporting transparency is non-negotiable—stakeholders who receive only good news are being set up for surprise, and surprises erode trust.\"",
-      "\"When a project falls behind, I evaluate recovery options explicitly—compression, parallel tracking, scope reduction—and present the trade-offs to stakeholders.\"",
+      "I report project status honestly, including problems, because stakeholders need accurate information to make good decisions.",
+      "Ethical project management means treating every team member fairly and making decisions that serve the project goals.",
+      "Responsible resource use is an ethical commitment—project resources belong to the organization, not to me."
     ]
   },
+
   "OP519": {
     id: "OP519",
     code: "OP:519",
     name: "Plan project",
     definition: "Outline steps needed to complete a project.",
     keyPoints: [
-      "Set goals: Set goals.",
-      "Establish timelines: Establish timelines.",
-      "Allocate resources: Allocate resources.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Goal Setting: Planning begins with clearly defining the project goals and success criteria.",
+      "Timeline Establishment: Establishing realistic timelines guides execution and sets expectations.",
+      "Resource Allocation: Allocating resources appropriately ensures the project has what it needs.",
+      "Uncertainty Reduction: Planning reduces uncertainty by anticipating requirements and challenges.",
+      "Risk Anticipation: A good plan anticipates risks and dependencies before they become problems."
     ],
     roleplayTips: [
-      "\"Process documentation is the foundation of operational consistency—undocumented processes produce inconsistent results that depend entirely on individual knowledge.\"",
-      "\"Process mapping reveals non-value-adding steps that have accumulated over time—most processes have 20–40% waste that can be eliminated without affecting output quality.\"",
-      "\"Handoffs between process steps are where most errors occur—designing these transitions carefully and measuring handoff quality reduces defects significantly.\"",
+      "I invest time in thorough project planning because it prevents the much larger time lost to fixing avoidable problems.",
+      "A good project plan sets clear expectations for all stakeholders and provides a roadmap for the team to follow.",
+      "I include risk planning in every project because surprises during execution are usually the result of not thinking ahead."
     ]
   },
+
   "OP520": {
     id: "OP520",
     code: "OP:520",
     name: "Monitor projects and take corrective actions",
     definition: "Track progress and fix issues as they arise.",
     keyPoints: [
-      "Identify delays: Identify delays.",
-      "Adjust plans: Adjust plans.",
-      "Maintain quality: Maintain quality.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Delay Identification: Monitoring identifies delays and deviations from the project plan early.",
+      "Plan Adjustment: Adjusting plans in response to real conditions keeps the project on track.",
+      "Quality Maintenance: Monitoring ensures that quality standards are maintained throughout execution.",
+      "Early Catching: Regular status checks catch issues early before they compound into larger problems.",
+      "Compounding Prevention: Corrective action prevents small issues from growing into project failures."
     ],
     roleplayTips: [
-      "\"Continuous improvement is a culture, not a project—the mindset that no process is ever good enough to stop improving is what sustains competitive advantage.\"",
-      "\"The PDCA cycle keeps improvement efforts disciplined—we don't just try things, we plan, execute, measure, and standardize what works.\"",
-      "\"The best improvement ideas come from the people doing the work—frontline employees see inefficiencies that managers and analysts miss.\"",
+      "I monitor project progress proactively because catching issues early is always less costly than addressing them late.",
+      "When I identify a project issue, I take corrective action immediately rather than hoping it resolves itself.",
+      "Regular status tracking gives me and my stakeholders confidence that we know where the project stands at all times."
     ]
   },
+
   "OP521": {
     id: "OP521",
     code: "OP:521",
     name: "Evaluate project success",
     definition: "Determine whether project objectives were achieved.",
     keyPoints: [
-      "Measure outcomes: Measure outcomes.",
-      "Compare goals: Compare goals vs. results.",
-      "Identify improvements: Identify improvements.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Outcome Measurement: Evaluating success requires measuring actual outcomes against defined objectives.",
+      "Goal Comparison: Comparing actual results to planned goals reveals gaps and achievements.",
+      "Improvement Identification: Post-project evaluation identifies specific areas for future improvement.",
+      "Learning Improvement: Post-project review improves performance on future similar projects.",
+      "Pre-Definition: Success criteria must be defined before the project begins to enable meaningful evaluation."
     ],
     roleplayTips: [
-      "\"Lean is about maximizing value and eliminating everything else—every step in our process should be answerable to the question 'does this add value for the customer?'\"",
-      "\"Value stream mapping gave us our first holistic picture of where time and cost were being wasted—it revealed that 60% of our lead time was waiting, not processing.\"",
-      "\"5S isn't just cleaning up—it's a foundation for operational excellence. A well-organized workspace prevents errors, reduces search time, and signals a culture of discipline.\"",
+      "I evaluate every project against its original objectives because that comparison reveals what we actually achieved.",
+      "Post-project reviews are investments in future performance—lessons learned now prevent repeated mistakes.",
+      "Defining success criteria before the project starts is essential—you can't objectively evaluate what you didn't measure."
     ]
   },
+
   "OP003": {
     id: "OP003",
     code: "OP:003",
     name: "Identify resources needed for project",
     definition: "Determine people, materials, and funds required.",
     keyPoints: [
-      "Labor: Labor.",
-      "Budget: Budget.",
-      "Equipment: Equipment.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Labor Requirements: Identifying the right people with the right skills is essential for project success.",
+      "Budget Planning: Accurate budget planning ensures financial resources are available throughout the project.",
+      "Equipment Needs: Identifying equipment needs prevents project delays from resource shortfalls.",
+      "Shortfall Prevention: Accurate resource identification prevents the shortfalls that derail projects.",
+      "Timeline Alignment: Resource planning must be aligned with the project timeline and milestones."
     ],
     roleplayTips: [
-      "\"The three-way match—PO, receipt, and invoice—is the primary control against payment fraud and billing errors in the purchasing process.\"",
-      "\"Competitive bidding for significant purchases isn't just about price—it also reveals market alternatives and keeps existing suppliers aware that their pricing is being benchmarked.\"",
-      "\"Authorization controls in purchasing are internal controls—they ensure that spending is approved by someone with appropriate authority and accountability.\"",
+      "I identify resource needs thoroughly at project start because discovering gaps mid-project is much more disruptive.",
+      "Resource planning includes people, materials, and budget—all three must be confirmed before committing to a timeline.",
+      "Aligning resource availability with project milestones ensures we have what we need when we need it."
     ]
   },
+
   "OP001": {
     id: "OP001",
     code: "OP:001",
     name: "Develop project plan",
     definition: "Create a detailed roadmap for completing a project.",
     keyPoints: [
-      "Tasks and: Tasks and timelines.",
-      "Responsibilities: Responsibilities.",
-      "Milestones: Milestones.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Tasks and Timelines: A project plan defines specific tasks and the timelines for their completion.",
+      "Responsibilities: Clear responsibility assignments in the plan ensure accountability.",
+      "Milestones: Milestones mark key progress points and provide checkpoints for evaluation.",
+      "Execution Guidance: A detailed plan guides execution and reduces the need for improvised decisions.",
+      "Communication Tool: Plans must be communicated to all stakeholders to align expectations."
     ],
     roleplayTips: [
-      "\"Vendor selection is a strategic decision—a poor supplier creates quality problems, delivery failures, and relationship costs that far exceed any price savings.\"",
-      "\"We always check supplier references—a supplier's existing customers tell us more about operational performance than any sales presentation.\"",
-      "\"For critical supply items, we maintain at least two qualified vendors—single-source dependency creates unacceptable supply chain risk.\"",
+      "A detailed project plan is my primary tool for keeping the team aligned and the project on track.",
+      "I communicate the project plan to all stakeholders early so everyone understands expectations and responsibilities.",
+      "The project plan isn't just for me—it's the shared document that enables team coordination throughout execution."
     ]
   },
+
   "OP002": {
     id: "OP002",
     code: "OP:002",
     name: "Apply project-management tools",
     definition: "Use tools to track and communicate progress.",
     keyPoints: [
-      "Gantt charts: Gantt charts.",
-      "Status reports: Status reports.",
-      "Project software: Project software.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Gantt Charts: Gantt charts visualize project timelines and task dependencies effectively.",
+      "Status Reports: Regular status reports communicate progress to stakeholders and surface issues.",
+      "Project Software: Project management software improves coordination and tracking efficiency.",
+      "Visibility and Accountability: Tools improve visibility and accountability throughout the project.",
+      "Real-Time Collaboration: Technology enables real-time collaboration and status updates across the team."
     ],
     roleplayTips: [
-      "\"Value-based pricing captures the most margin for differentiated products—the question is what the customer's problem is worth to them, not what our product costs to make.\"",
-      "\"Price elasticity analysis tells us whether raising prices gains or loses revenue—demand for our product is relatively inelastic, which gives us pricing power.\"",
-      "\"Pricing strategy should be revisited when competitive dynamics, cost structures, or customer value perceptions change—static pricing in a dynamic market leaves money on the table.\"",
+      "I use project management tools because they create the visibility and accountability that keep projects on track.",
+      "Gantt charts help me communicate project timelines visually—most stakeholders understand them immediately.",
+      "Project management software keeps everyone updated in real time, which reduces the miscommunication that derails projects."
     ]
   },
+
   "OP159": {
     id: "OP159",
     code: "OP:159",
     name: "Evaluate project results",
     definition: "Assess project outcomes and lessons learned.",
     keyPoints: [
-      "Effectiveness: Effectiveness.",
-      "Efficiency: Efficiency.",
-      "Future improvements: Future improvements.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Effectiveness Assessment: Evaluation measures whether the project achieved its intended outcomes.",
+      "Efficiency Review: Assessing efficiency reveals whether resources were used effectively.",
+      "Future Improvement: Identifying improvement opportunities guides future project management.",
+      "Mistake Prevention: Lessons learned from evaluation prevent repeated mistakes on future projects.",
+      "Capability Building: Systematic evaluation builds organizational project management capability over time."
     ],
     roleplayTips: [
-      "\"Expense control starts with visibility—you can't manage what you don't measure, and most organizations have cost categories they've never scrutinized.\"",
-      "\"Zero-based budgeting forces a fresh justification for every expense rather than simply rolling forward last year's budget—it eliminates costs that have persisted out of habit.\"",
-      "\"Process improvement is the most sustainable expense reduction strategy—it reduces cost structurally rather than through one-time cuts that often rebound.\"",
+      "I conduct post-project evaluations because the lessons learned are valuable assets for future work.",
+      "Evaluating both what worked and what didn't gives me a complete picture of where to invest in improvement.",
+      "Documenting project results and lessons learned creates an organizational memory that benefits everyone."
     ]
   },
+
   "OP015": {
     id: "OP015",
     code: "OP:015",
     name: "Explain the nature and scope of purchasing",
     definition: "Describe how businesses acquire goods and services.",
     keyPoints: [
-      "Supplier selection: Supplier selection.",
-      "Cost control: Cost control.",
-      "Quality assurance: Quality assurance.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Supplier Selection: Purchasing involves identifying and selecting suppliers who meet quality and cost requirements.",
+      "Cost Control: Effective purchasing manages costs across the supply chain.",
+      "Quality Assurance: Purchasing ensures that acquired goods and services meet required quality standards.",
+      "Operational Impact: Purchasing affects all business operations by determining input quality and cost.",
+      "Strategic Advantage: Strategic purchasing creates competitive advantage through better value."
     ],
     roleplayTips: [
-      "\"Business records are both operational tools and legal documents—accuracy and proper retention protect the organization in audits, disputes, and regulatory reviews.\"",
-      "\"Retention policy compliance isn't bureaucratic—it protects the organization in litigation by ensuring relevant records are available and irrelevant ones are properly disposed of.\"",
-      "\"Electronic record management systems make compliance easier—automated retention scheduling, access logging, and search capability replace manual records management.\"",
+      "I understand that purchasing decisions affect not just cost but also quality and operational reliability.",
+      "Strategic purchasing means thinking beyond the immediate transaction to the long-term impact on operations.",
+      "Effective purchasing management is a competitive advantage—getting better value on inputs improves margin."
     ]
   },
+
   "OP016": {
     id: "OP016",
     code: "OP:016",
     name: "Place orders/reorders",
     definition: "Request supplies when needed.",
     keyPoints: [
-      "Prevent shortages: Prevent shortages.",
-      "Maintain operations: Maintain operations.",
-      "Support productivity: Support productivity.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Shortage Prevention: Timely ordering prevents supply shortages that disrupt operations.",
+      "Operations Maintenance: Consistent reordering maintains uninterrupted operations.",
+      "Productivity Support: Having needed supplies on hand supports employee productivity.",
+      "Reorder Points: Establishing reorder points prevents stockouts through proactive ordering.",
+      "Forecasting Role: Accurate demand forecasting reduces the need for emergency orders."
     ],
     roleplayTips: [
-      "\"Operational planning converts strategy from aspiration to execution—without it, strategic objectives remain theoretical.\"",
-      "\"A good operational plan specifies the who, what, when, and how—not just the what. Ambiguity about ownership and timing is where plans fail.\"",
-      "\"Implementation discipline is where most organizations struggle—the plan is good, but follow-through requires consistent monitoring and accountability.\"",
+      "I maintain accurate reorder points to ensure we never run short of critical supplies.",
+      "Proactive ordering based on demand forecasting reduces emergency purchases that cost more and disrupt operations.",
+      "Timely reordering is a simple but important part of keeping operations running smoothly."
     ]
   },
-  "OP161": {
-    id: "OP161",
-    code: "OP:161",
-    name: "Select vendors",
-    definition: "Choose suppliers based on performance and value.",
+
+  "OP031": {
+    id: "OP031",
+    code: "OP:031",
+    name: "Maintain inventory of supplies",
+    definition: "Track and manage stock levels.",
     keyPoints: [
-      "Reliability: Reliability.",
-      "Cost: Cost.",
-      "Quality: Quality.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Overstocking Avoidance: Maintaining appropriate inventory levels avoids overstocking and tied-up capital.",
+      "Shortage Reduction: Accurate inventory tracking reduces the risk of shortages that halt operations.",
+      "Efficiency Improvement: Organized inventory management improves operational efficiency.",
+      "Accuracy Requirement: Inventory accuracy is essential for effective purchasing and operations planning.",
+      "Technology Support: Technology tools improve the accuracy and efficiency of inventory tracking."
     ],
     roleplayTips: [
-      "\"A well-written job description is the foundation of both the hiring process and the performance management process—it defines what success looks like.\"",
-      "\"I use behaviors and outcomes in job descriptions rather than vague skills—'analyzes monthly financial reports and identifies variances' is more useful than 'financial skills.'\"",
-      "\"Legal defensibility requires that job requirements be genuinely job-related—including credentials or experience that aren't actually necessary creates discrimination risk.\"",
+      "I maintain accurate inventory records because both overstocking and shortages are costly to operations.",
+      "Inventory management is about balance—having enough to meet needs without tying up excessive capital in stock.",
+      "Technology tools for inventory tracking reduce errors and give me real-time visibility into stock levels."
     ]
   },
+
   "OP246": {
     id: "OP246",
     code: "OP:246",
     name: "Discuss ethical purchasing methods",
     definition: "Explain responsible buying practices.",
     keyPoints: [
-      "Fair supplier: Fair supplier treatment.",
-      "Transparency: Transparency.",
-      "Legal compliance: Legal compliance.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Fair Treatment: Ethical purchasing means treating suppliers fairly and with respect.",
+      "Transparency: Maintaining transparency in the purchasing process ensures fairness.",
+      "Legal Compliance: Ethical purchasing requires compliance with applicable laws and regulations.",
+      "Reputation Protection: Ethical purchasing practices protect organizational reputation.",
+      "Supplier Diversity: Considering supplier diversity is an important ethical purchasing consideration."
     ],
     roleplayTips: [
-      "\"Event management is project management with a hard deadline that can't move—the event happens on the day it's scheduled regardless of planning gaps.\"",
-      "\"I define event success metrics before planning begins—attendance, engagement, leads generated, or satisfaction scores—so we know what we're optimizing for.\"",
-      "\"Contingency planning is non-negotiable in event management—every critical element needs a backup plan that can be activated quickly.\"",
+      "I apply ethical standards to purchasing because our relationships with suppliers reflect our organizational values.",
+      "Transparent purchasing processes protect both the organization and suppliers from misunderstandings and disputes.",
+      "Ethical purchasing means I consider supplier diversity and fair treatment, not just price and quality."
     ]
   },
+
   "OP247": {
     id: "OP247",
     code: "OP:247",
     name: "Explain impact of purchasing on productivity",
     definition: "Describe how purchasing affects business efficiency.",
     keyPoints: [
-      "Timely delivery: Timely delivery.",
-      "Quality materials: Quality materials.",
-      "Cost control: Cost control.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Timely Delivery: Timely delivery of purchased materials directly enables operational productivity.",
+      "Quality Materials: Purchasing quality materials prevents defects and rework that reduce productivity.",
+      "Cost Control: Effective cost control in purchasing improves the business's financial efficiency.",
+      "Operations Disruption: Poor purchasing decisions disrupt operations and reduce overall productivity.",
+      "Competitive Pricing: Strategic purchasing enables competitive pricing for end customers."
     ],
     roleplayTips: [
-      "\"Segregation of duties is the most fundamental internal control—no single person should be able to both authorize and record a transaction.\"",
-      "\"Internal controls are not just about fraud prevention—they also catch innocent errors that would otherwise compound into larger problems.\"",
-      "\"Weak internal controls in small businesses are a leading cause of loss—limited staff makes segregation challenging, but compensating controls can close most gaps.\"",
+      "I understand that purchasing decisions have a direct impact on operational productivity and product quality.",
+      "Sourcing quality materials at the right time is essential—late or defective materials can halt operations.",
+      "Strategic purchasing that balances cost and quality enables the business to be competitive without sacrificing standards."
     ]
   },
+
   "OP160": {
     id: "OP160",
     code: "OP:160",
     name: "Manage the bid process",
     definition: "Oversee supplier proposals and selection.",
     keyPoints: [
-      "Fair evaluation: Fair evaluation.",
-      "Cost comparison: Cost comparison.",
-      "Transparency: Transparency.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Fair Evaluation: Fair and consistent evaluation of bids ensures the best supplier is selected.",
+      "Cost Comparison: Comparing costs across multiple bids identifies the best value option.",
+      "Transparency Maintenance: Maintaining transparency in the bid process protects organizational integrity.",
+      "Best Value Assurance: Competitive bidding ensures the organization obtains the best available value.",
+      "Dispute Prevention: Documentation in the bid process protects against disputes and challenges."
     ],
     roleplayTips: [
-      "\"Cost-benefit analysis forces explicit thinking about all costs and benefits—including indirect and long-term ones that intuitive decisions often miss.\"",
-      "\"I present sensitivity analysis alongside the base case—stakeholders should understand which assumptions drive the result and how robust the conclusion is.\"",
-      "\"Net present value is my default decision metric for capital investments—it correctly accounts for the time value of money in ways that simple payback period analysis doesn't.\"",
+      "I manage the bid process with consistency and transparency because fair evaluation leads to the best supplier selection.",
+      "Competitive bidding protects the organization by ensuring we get the best value available in the market.",
+      "Thorough documentation of the bid process protects against disputes and demonstrates due diligence."
     ]
   },
-  "OP031": {
-    id: "OP031",
-    code: "OP:031",
-    name: "Prepare job descriptions",
-    definition: "Create formal documents that define the responsibilities, qualifications, reporting relationships, and performance expectations for a specific position.",
+
+  "OP161": {
+    id: "OP161",
+    code: "OP:161",
+    name: "Select vendors",
+    definition: "Choose suppliers based on performance and value.",
     keyPoints: [
-      "Job Description Components: Title, summary, responsibilities, qualifications, reporting structure, and performance standards.",
-      "Recruitment Tool: Clear job descriptions attract better-matched candidates and reduce unqualified applications.",
-      "Legal Protection: Documented job requirements provide legal defense in discrimination claims when used consistently in hiring.",
-      "Performance Foundation: Job descriptions establish expectations against which performance can be fairly measured.",
-      "Compensation Alignment: Job descriptions support job evaluation and compensation benchmarking processes."
+      "Reliability Evaluation: Vendor reliability is a critical factor in selection decisions.",
+      "Cost Assessment: Cost assessment ensures vendors offer competitive and sustainable pricing.",
+      "Quality Standards: Vendor quality capabilities must meet the organization's product or service standards.",
+      "Quality Impact: Vendor selection directly affects the quality of the organization's products.",
+      "Risk Reduction: Using multiple vendors reduces the risk of supply disruption from a single source."
     ],
     roleplayTips: [
-      "\"A well-written job description is the foundation of both the hiring process and the performance management process—it defines what success looks like.\"",
-      "\"I use behaviors and outcomes in job descriptions rather than vague skills—'analyzes monthly financial reports and identifies variances' is more useful than 'financial skills.'\"",
-      "\"Legal defensibility requires that job requirements be genuinely job-related—including credentials or experience that aren't actually necessary creates discrimination risk.\""
+      "I evaluate vendors on reliability, quality, and cost because all three factors affect operational performance.",
+      "Building relationships with multiple qualified vendors reduces our vulnerability to supply disruptions.",
+      "Vendor selection is a strategic decision—choosing the wrong supplier can affect every product we make."
     ]
   },
+
   "OP162": {
     id: "OP162",
     code: "OP:162",
     name: "Evaluate vendor performance",
     definition: "Assess supplier effectiveness over time.",
     keyPoints: [
-      "Quality standards: Quality standards.",
-      "Delivery reliability: Delivery reliability.",
-      "Cost efficiency: Cost efficiency.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Quality Standards: Evaluating vendor performance includes assessing whether quality standards are consistently met.",
+      "Delivery Reliability: Delivery reliability is a key metric in vendor performance evaluation.",
+      "Cost Efficiency: Cost efficiency over time is an important dimension of vendor performance.",
+      "Relationship Improvement: Regular performance evaluation improves supplier relationships by identifying issues early.",
+      "Underperformer Response: Poor performer issues must be addressed directly to protect operational quality."
     ],
     roleplayTips: [
-      "\"Staffing plans translate business strategy into workforce action—if we're growing 30% next year, we need to know now which roles to hire and when.\"",
-      "\"Succession planning is risk management for human capital—critical role vacancies without successors create organizational vulnerability.\"",
-      "\"Workforce planning is most valuable as a continuous process, not an annual exercise—the business environment changes too fast for one-time plans.\"",
+      "I evaluate vendor performance regularly because consistent quality and delivery are essential to our operations.",
+      "Regular performance reviews give vendors the feedback they need to improve and signal that we take standards seriously.",
+      "Addressing vendor performance issues early prevents them from becoming operational disruptions."
     ]
   },
+
   "OP017": {
     id: "OP017",
     code: "OP:017",
     name: "Explain the concept of production",
     definition: "Describe the process of creating goods and services.",
     keyPoints: [
-      "Converts inputs: Converts inputs to outputs.",
-      "Adds value: Adds value.",
-      "Supports customer: Supports customer needs.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Input Conversion: Production converts inputs including labor and materials into valuable outputs.",
+      "Value Addition: Production adds value by transforming raw inputs into products customers want.",
+      "Customer Need Support: Production systems are designed to meet defined customer needs.",
+      "System Variety: Production systems vary significantly across different industries.",
+      "Profitability Driver: Efficiency in production drives profitability by reducing cost per unit."
     ],
     roleplayTips: [
-      "\"Workplace regulation compliance is both a legal obligation and an ethical one—laws like FLSA and EEO exist to protect workers from exploitation and discrimination.\"",
-      "\"FLSA overtime misclassification is one of the most common and costly employment law violations—correctly classifying exempt versus non-exempt employees is essential.\"",
-      "\"Employment law changes regularly—staying current through HR professional development and legal counsel is a continuous compliance management requirement.\"",
+      "I understand production as the value-creation process—it's how inputs become the outputs customers pay for.",
+      "Efficient production is essential for competitiveness because it determines cost structure and quality.",
+      "Understanding production concepts helps me contribute to continuous improvement in our operational processes."
     ]
   },
+
   "OP163": {
     id: "OP163",
     code: "OP:163",
     name: "Identify quality-control measures",
     definition: "Recognize methods used to maintain standards.",
     keyPoints: [
-      "Inspections: Inspections.",
-      "Testing: Testing.",
-      "Performance standards: Performance standards.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Inspection Methods: Inspections are a primary quality control method for detecting defects.",
+      "Testing Procedures: Testing products and materials verifies they meet required standards.",
+      "Performance Standards: Clearly defined performance standards enable objective quality measurement.",
+      "Defect Prevention: Quality control prevents defects from reaching customers.",
+      "Standard Definition: Quality standards must be clearly defined before they can be effectively controlled."
     ],
     roleplayTips: [
-      "\"Regulatory compliance is both a cost and a competitive factor—companies that integrate compliance efficiently have a cost advantage over those that treat it as an afterthought.\"",
-      "\"Proactive regulatory monitoring gives us time to adapt—companies that wait for final rules before acting face compressed timelines and higher implementation costs.\"",
-      "\"In highly regulated industries, compliance capability becomes a competitive differentiator—we've built compliance infrastructure that smaller competitors can't match.\"",
+      "I recognize that quality control is most effective when built into the process rather than added at the end.",
+      "Identifying the right quality measures for each process requires understanding what defects are possible and most costly.",
+      "Clear quality standards are the foundation of all quality control—you can't control what you haven't defined."
     ]
   },
+
   "OP164": {
     id: "OP164",
     code: "OP:164",
     name: "Utilize quality-control methods at work",
     definition: "Apply quality practices to reduce errors.",
     keyPoints: [
-      "Consistency: Consistency.",
-      "Accuracy: Accuracy.",
-      "Customer satisfaction: Customer satisfaction.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Process Consistency: Applying quality methods improves consistency in work processes and outputs.",
+      "Output Accuracy: Quality practices improve the accuracy and reliability of work outputs.",
+      "Customer Satisfaction: Quality control directly supports customer satisfaction and retention.",
+      "Checklist and Audit Use: Quality methods include checklists, audits, and statistical controls.",
+      "Shared Responsibility: Everyone in the organization is responsible for maintaining quality."
     ],
     roleplayTips: [
-      "\"Business continuity planning is insurance for operations—the cost of preparation is trivial compared to the cost of unplanned disruption without a recovery plan.\"",
-      "\"An untested business continuity plan is not a plan—it's a document. Regular testing reveals gaps and builds organizational confidence in recovery capability.\"",
-      "\"Business impact analysis defines our recovery priorities—not every process needs to recover in four hours; knowing which ones do focuses our investment.\"",
+      "I apply quality control methods in my daily work because preventing errors is more efficient than correcting them.",
+      "Using checklists and review processes helps me deliver consistent, high-quality work.",
+      "Quality isn't just the quality department's responsibility—I take personal ownership of the quality of my work."
     ]
   },
+
   "OP019": {
     id: "OP019",
     code: "OP:019",
     name: "Describe crucial elements of a quality culture",
     definition: "Explain values that support continuous improvement.",
     keyPoints: [
-      "Employee involvement: Employee involvement.",
-      "Accountability: Accountability.",
-      "Customer focus: Customer focus.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Employee Involvement: A quality culture requires active employee involvement in identifying and solving quality issues.",
+      "Accountability: Accountability for quality outcomes is essential to sustaining a quality culture.",
+      "Customer Focus: Customer focus keeps quality standards aligned with what matters most to those we serve.",
+      "Long-Term Error Reduction: A quality culture reduces errors over the long term through sustained commitment.",
+      "Leadership Championing: Leadership must champion quality values for them to take root in the organization."
     ],
     roleplayTips: [
-      "\"Logistics is the physical fulfillment of the marketing promise—customers care about when the product arrives, not just whether they ordered it.\"",
-      "\"Last-mile delivery is our highest per-unit cost and largest area of customer satisfaction impact—we invest disproportionately in optimizing it.\"",
-      "\"Third-party logistics partnerships give us access to scale, network, and technology that would cost far more to build than to buy.\"",
+      "I contribute to a quality culture by taking personal responsibility for the quality of everything I produce.",
+      "A quality culture starts with leadership that models the standards they expect and holds everyone accountable.",
+      "Customer focus keeps quality efforts aligned with what matters—if it doesn't improve the customer experience, it's not valuable."
     ]
   },
+
   "OP652": {
     id: "OP652",
     code: "OP:652",
     name: "Resolve problems with suppliers' quality issues",
     definition: "Address and correct supplier-related quality problems.",
     keyPoints: [
-      "Communication: Communication.",
-      "Corrective action: Corrective action.",
-      "Supplier accountability: Supplier accountability.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Communication Requirement: Resolving supplier quality issues requires clear and direct communication.",
+      "Corrective Action: Effective resolution involves implementing specific corrective actions.",
+      "Supplier Accountability: Holding suppliers accountable for quality maintains supply chain standards.",
+      "Escalating Costs: Unresolved supplier quality issues escalate costs through defects and rework.",
+      "Documentation Support: Documentation of quality issues supports the resolution process."
     ],
     roleplayTips: [
-      "\"Distribution strategy is as important as product strategy—a superior product that can't reach its customers at acceptable cost and convenience will fail.\"",
-      "\"Channel conflict is a real risk when adding direct-to-consumer alongside existing retail partners—managing it requires transparent pricing and clear territory boundaries.\"",
-      "\"Omnichannel distribution requires integrated inventory visibility—customers who order online for in-store pickup expect that inventory to actually be there.\"",
+      "I address supplier quality issues directly and professionally because unresolved problems affect our customers.",
+      "Documenting quality issues with suppliers creates the evidence needed to drive corrective action.",
+      "Holding suppliers accountable for quality is part of managing a supply chain that delivers consistent value."
     ]
   },
+
   "OP024": {
     id: "OP024",
     code: "OP:024",
     name: "Explain the nature of overhead/operating costs",
     definition: "Describe ongoing business expenses.",
     keyPoints: [
-      "Rent and: Rent and utilities.",
-      "Salaries: Salaries.",
-      "Supplies: Supplies.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Fixed Expenses: Overhead includes fixed expenses like rent and utilities that continue regardless of volume.",
+      "Salary Costs: Employee salaries represent a significant component of operating costs.",
+      "Supply Costs: Ongoing supply and material costs are part of regular operating expenses.",
+      "Profit Prerequisite: Overhead must be fully covered before any profit is possible.",
+      "Margin Improvement: Controlling overhead improves profit margins without changing revenue."
     ],
     roleplayTips: [
-      "\"Production system design is a strategic choice—assembly line efficiency is ideal for high volume, low variety; job shop flexibility suits custom, low-volume production.\"",
-      "\"Make vs. buy decisions should focus on whether the activity is core to our competitive advantage—we should make what differentiates us and buy what doesn't.\"",
-      "\"Quality built into the production process is always less costly than quality inspected at the end—prevention beats detection.\"",
+      "I understand that overhead costs must be covered before the business can generate profit—controlling them matters.",
+      "Awareness of operating costs helps me make decisions that avoid unnecessary expenses.",
+      "Every dollar saved in overhead either goes to profit or allows us to offer more competitive pricing."
     ]
   },
+
   "OP025": {
     id: "OP025",
     code: "OP:025",
     name: "Explain employee's role in expense control",
     definition: "Describe how employees help reduce costs.",
     keyPoints: [
-      "Avoid waste: Avoid waste.",
-      "Use resources: Use resources efficiently.",
-      "Follow procedures: Follow procedures.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Waste Avoidance: Avoiding waste in materials and time is the most direct employee contribution to cost control.",
+      "Efficient Resource Use: Using resources efficiently reduces operating costs directly.",
+      "Procedure Following: Following established procedures reduces the costly errors and rework they prevent.",
+      "Direct Impact: Employee behavior directly affects the operating costs of the organization.",
+      "Profitability Support: Cost-aware employee behavior supports overall business profitability."
     ],
     roleplayTips: [
-      "\"My preparation for supplier negotiations includes benchmarking competitive prices and identifying alternative suppliers—that information shapes my BATNA and confidence.\"",
-      "\"I look for trades in vendor negotiations—conceding something they value highly that costs me little, in exchange for something I value highly that costs them little.\"",
-      "\"A vendor agreement both parties are comfortable with is more valuable than a hard-won deal a supplier resents—compliance without goodwill produces poor-quality execution.\"",
+      "I recognize that my daily decisions about resource use have a real impact on the organization's operating costs.",
+      "Avoiding waste isn't just about following rules—it's about understanding how my behavior affects the bottom line.",
+      "Cost-aware employees make the organization more competitive by protecting margins from within."
     ]
   },
+
   "OP228": {
     id: "OP228",
     code: "OP:228",
     name: "Organize and prioritize work",
     definition: "Arrange tasks based on importance and urgency.",
     keyPoints: [
-      "Time management: Time management.",
-      "Efficiency: Efficiency.",
-      "Reduced stress: Reduced stress.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Time Management: Organizing and prioritizing work improves time management and reduces wasted effort.",
+      "Efficiency Improvement: Prioritized work lists improve efficiency by focusing effort on what matters most.",
+      "Stress Reduction: Good organization reduces the stress of managing multiple competing demands.",
+      "Deadline Prevention: Prioritization prevents missed deadlines by ensuring high-priority work is completed first.",
+      "Output Improvement: Systematic organization of work improves overall output quality and quantity."
     ],
     roleplayTips: [
-      "\"Fiscal responsibility means treating organizational money with the same care I'd give my own—every expenditure should be justifiable on its merits.\"",
-      "\"I communicate proactively when I see budget variances developing—surprises at year-end are worse than early warning that enables corrective action.\"",
-      "\"Transparency in financial management builds trust—stakeholders who have accurate, timely information can make better decisions and give more appropriate oversight.\"",
+      "I start each day by organizing and prioritizing my tasks so I focus on what will have the greatest impact.",
+      "Prioritizing work based on urgency and importance ensures I meet critical deadlines without sacrificing quality.",
+      "Good organization of work reduces stress because I always know what I should be working on and why."
     ]
   },
+
   "OP230": {
     id: "OP230",
     code: "OP:230",
     name: "Coordinate work with team members",
     definition: "Work collaboratively to complete tasks.",
     keyPoints: [
-      "Communication: Communication.",
-      "Shared goals: Shared goals.",
-      "Team efficiency: Team efficiency.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Communication: Coordinating with team members requires clear and proactive communication.",
+      "Shared Goals: Aligning around shared goals ensures team efforts are directed effectively.",
+      "Team Efficiency: Effective coordination improves overall team efficiency and output.",
+      "Duplication Prevention: Good coordination prevents the duplication of effort that wastes resources.",
+      "Role Clarity: Clear role assignments improve team performance by reducing confusion."
     ],
     roleplayTips: [
-      "\"Overhead cost management requires periodic zero-based review—costs that have accumulated over years often persist long after their business justification has expired.\"",
-      "\"Shared services consolidation is one of our most effective overhead reduction strategies—centralizing functions across divisions achieves 20–30% cost reduction through scale.\"",
-      "\"Technology investment in overhead automation produces ongoing returns—the payback period on AP automation, for example, is typically under 18 months.\"",
+      "I coordinate actively with team members to ensure we're aligned and not duplicating each other's work.",
+      "Clear communication about who is doing what is the foundation of effective team coordination.",
+      "When I coordinate well with teammates, our combined effort is significantly more effective than independent work."
     ]
   },
+
   "OP196": {
     id: "OP196",
     code: "OP:196",
     name: "Coordinate activities with other departments",
     definition: "Align work across departments.",
     keyPoints: [
-      "Prevent duplication: Prevent duplication.",
-      "Improve workflow: Improve workflow.",
-      "Support organizational: Support organizational goals.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Duplication Prevention: Cross-departmental coordination prevents costly duplication of efforts.",
+      "Workflow Improvement: Aligning activities across departments improves overall workflow efficiency.",
+      "Organizational Goal Support: Cross-functional coordination supports achievement of organizational goals.",
+      "Silo Reduction: Cross-departmental communication reduces the information silos that impede performance.",
+      "Timeline Alignment: Shared timelines across departments improve coordination and reduce delays."
     ],
     roleplayTips: [
-      "\"Managerial accounting is decision support—it converts financial data into the operational insights that drive better business decisions.\"",
-      "\"Cost behavior analysis—understanding which costs are fixed and which vary with volume—is fundamental to pricing, break-even, and operational planning decisions.\"",
-      "\"Contribution margin analysis by product, channel, or customer segment reveals where we're actually making and losing money—often differently than the P&L suggests.\"",
+      "I proactively coordinate with other departments because our work affects each other and alignment improves outcomes.",
+      "Cross-departmental coordination helps everyone work more efficiently by eliminating duplication and confusion.",
+      "I see relationships with other departments as partnerships—when they succeed, we succeed."
     ]
   },
+
   "OP354": {
     id: "OP354",
     code: "OP:354",
     name: "Monitor completion of delegated tasks",
     definition: "Track assigned work to ensure completion.",
     keyPoints: [
-      "Accountability: Accountability.",
-      "Timely delivery: Timely delivery.",
-      "Quality control: Quality control.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Accountability Maintenance: Monitoring delegated tasks maintains accountability for assigned work.",
+      "Timely Delivery: Tracking ensures tasks are completed by the required deadlines.",
+      "Quality Control: Monitoring delegated work maintains quality standards throughout.",
+      "Support Provision: Regular monitoring provides opportunities to support team members who need help.",
+      "Expectation Clarity: Clear expectations at delegation guide monitoring and reduce misunderstandings."
     ],
     roleplayTips: [
-      "\"Environmental compliance isn't optional—violations carry fines, permit revocations, and criminal liability that dwarf the cost of prevention.\"",
-      "\"An environmental management system systematizes compliance—it replaces individual vigilance with institutional process, which is far more reliable.\"",
-      "\"Sustainability investment beyond minimum compliance creates business value—reduced resource consumption, lower waste disposal costs, and brand equity with environmentally conscious customers.\"",
+      "I monitor delegated tasks because follow-through on delegation is essential—assigning work doesn't guarantee completion.",
+      "Regular check-ins on delegated tasks give me early warning of issues before they become problems.",
+      "Monitoring completion isn't about distrust—it's about providing support and ensuring expectations are clear."
     ]
   },
+
   "OP355": {
     id: "OP355",
     code: "OP:355",
     name: "Streamline work processes",
     definition: "Simplify tasks to improve efficiency.",
     keyPoints: [
-      "Reduce waste: Reduce waste.",
-      "Save time: Save time.",
-      "Improve productivity: Improve productivity.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Waste Reduction: Streamlining processes reduces the waste of time, effort, and materials.",
+      "Time Savings: Simplified processes save time by eliminating unnecessary steps.",
+      "Productivity Improvement: Streamlined workflows improve overall productivity and throughput.",
+      "Process Mapping: Process mapping reveals inefficiencies that can be eliminated through streamlining.",
+      "Buy-In Requirement: Streamlining efforts require buy-in from those who perform the work."
     ],
     roleplayTips: [
-      "\"Technology in operations isn't about replacing people—it's about deploying human judgment where it adds the most value while automating where machine consistency is superior.\"",
-      "\"Real-time operational visibility through connected systems has compressed our response time to disruptions from hours to minutes.\"",
-      "\"Predictive analytics in operations is the most transformative application—moving from reactive maintenance and reactive quality control to proactive intervention.\"",
+      "I regularly look for ways to streamline my work processes because efficiency gains free up time for higher-value activities.",
+      "Process mapping helps me see where the bottlenecks and inefficiencies are in current workflows.",
+      "Streamlining works best when the people doing the work help design the improvements—they know where the waste is."
     ]
   },
+
   "OP442": {
     id: "OP442",
     code: "OP:442",
     name: "Comply with policies for use of property and equipment",
     definition: "Follow rules governing company assets.",
     keyPoints: [
-      "Prevent damage: Prevent damage.",
-      "Extend lifespan: Extend lifespan.",
-      "Ensure safety: Ensure safety.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Damage Prevention: Compliance with property policies prevents damage to valuable company assets.",
+      "Asset Life Extension: Proper use of property and equipment extends their useful life.",
+      "Safety Assurance: Policy compliance ensures that equipment is used safely.",
+      "Organization Protection: Policy compliance protects the organization from liability.",
+      "Value Maintenance: Proper use maintains the value of equipment assets over time."
     ],
     roleplayTips: [
-      "\"Operational planning converts strategic intent into execution-ready action—without it, strategy remains at the level of aspiration.\"",
-      "\"Cross-functional plan integration prevents the common failure mode where marketing commits to volume that operations can't produce.\"",
-      "\"The best operational plans build in explicit review points—quarterly business reviews that assess performance and adjust the plan based on current reality.\"",
+      "I follow company policies for property and equipment use because they exist to protect both the assets and the users.",
+      "Proper care of company property reflects professional responsibility and reduces the cost of replacements.",
+      "Policy compliance for equipment use is part of being a trustworthy employee who respects organizational resources."
     ]
   },
+
   "OP443": {
     id: "OP443",
     code: "OP:443",
     name: "Explain the concept of supply chain",
     definition: "Describe the flow of goods from suppliers to customers.",
     keyPoints: [
-      "Suppliers: Suppliers.",
-      "Manufacturers: Manufacturers.",
-      "Distributors: Distributors.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Supply Chain Parties: The supply chain involves suppliers, manufacturers, distributors, and retailers.",
+      "Flow Description: Supply chains describe the entire flow of goods from raw materials to end customers.",
+      "Visibility Value: Supply chain visibility improves responsiveness to disruptions and demand changes.",
+      "Interconnection: All parties in the supply chain are interdependent and affect each other's performance.",
+      "Disruption Impact: Disruptions anywhere in the supply chain affect the performance of the entire chain."
     ],
     roleplayTips: [
-      "\"Resource efficiency is both environmental responsibility and cost management—every unit of material, water, or energy we save reduces input cost and waste expense.\"",
-      "\"Circular economy principles are redesigning how we think about product end-of-life—materials that return to production rather than landfill reduce both cost and environmental impact.\"",
-      "\"Natural resource stewardship is increasingly a customer and investor expectation—organizations that demonstrate it attract both business and capital.\"",
+      "Understanding the supply chain helps me see how my purchasing and operational decisions affect the entire value delivery system.",
+      "Supply chain visibility is essential—knowing where materials are at each stage allows us to respond to disruptions quickly.",
+      "Every link in the supply chain depends on the others—my performance affects our suppliers and customers alike."
     ]
   },
+
   "OP444": {
     id: "OP444",
     code: "OP:444",
     name: "Explain benefits of supply chain collaboration",
     definition: "Describe advantages of working closely with supply chain partners.",
     keyPoints: [
-      "Improved efficiency: Improved efficiency.",
-      "Cost reduction: Cost reduction.",
-      "Better customer: Better customer service.",
-      "Operational Impact: This skill directly supports business efficiency and organizational effectiveness.",
-      "Professional Practice: Applying this knowledge ensures smooth operations and competitive advantage.",
+      "Efficiency Improvement: Supply chain collaboration improves efficiency by aligning planning and processes.",
+      "Cost Reduction: Collaborative supply chains reduce costs through shared information and joint planning.",
+      "Customer Service Enhancement: Better supply chain collaboration improves customer service levels.",
+      "Data and Trust Requirement: Collaboration requires shared data and mutual trust between partners.",
+      "Waste Reduction: Joint planning in collaborative supply chains reduces inventory and logistics waste."
     ],
     roleplayTips: [
-      "\"Business-cycle-aware planning lets us be greedy when others are fearful—we build cash in the late expansion to deploy advantageously in the early recovery.\"",
-      "\"Variable cost structure is our downside protection—every fixed cost we can convert to variable reduces our break-even and improves recession resilience.\"",
-      "\"Scenario planning for both expansion and contraction conditions ensures we have prepared responses rather than improvised reactions to economic shifts.\"",
+      "I invest in supply chain relationships because collaboration with partners creates benefits that independent operation cannot.",
+      "Sharing data with supply chain partners improves planning accuracy and reduces the waste caused by uncertainty.",
+      "Supply chain collaboration is a strategic differentiator—companies that collaborate effectively outperform those that operate in isolation."
     ]
   },
 
-  "PD255": {
-    id: "PD255",
-    code: "PD:255",
-    name: "Ascertain employee's role in meeting organizational goals",
-    definition: "Explain how individual performance supports company goals.",
-    keyPoints: [
-      "Task alignment: Task alignment.",
-      "Accountability: Accountability.",
-      "Team contribution: Team contribution.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
-    ],
-    roleplayTips: [
-      "\"My resume uses the employer's keywords from the job posting because applicant tracking systems filter for exact matches before a human ever sees the document.\"",
-      "\"I quantify every accomplishment I can—numbers make claims credible and memorable in ways that descriptive language doesn't.\"",
-      "\"My resume is tailored to each application—different roles emphasize different aspects of my experience, and a generic resume serves none of them well.\"",
-    ]
-  },
   "PD002": {
     id: "PD002",
     code: "PD:002",
-    name: "Identify desirable employability skills and traits",
-    definition: "Recognize the universal professional competencies—communication, reliability, teamwork, and adaptability—that employers value across all industries and roles.",
+    name: "Maintain appropriate personal appearance",
+    definition: "Present oneself professionally to create a positive impression.",
     keyPoints: [
-      "Communication: Clear written and verbal communication is the most universally cited employer requirement across all roles.",
-      "Reliability: Consistently meeting commitments and delivering quality work on time is the foundational employability trait.",
-      "Teamwork: Ability to collaborate effectively with diverse colleagues is essential in virtually every professional environment.",
-      "Adaptability: Willingness and ability to learn new skills and adjust to changing requirements increases employability across a career.",
-      "Problem-Solving: Identifying and resolving problems independently—rather than escalating all challenges—demonstrates professional maturity."
+      "Dress Codes: Following workplace dress codes demonstrates respect for professional standards.",
+      "Hygiene Maintenance: Maintaining personal hygiene is a fundamental professional expectation.",
+      "Company Image Reflection: Personal appearance reflects the company's image and brand.",
+      "Professionalism Communication: Appearance communicates professionalism before words are spoken.",
+      "First Impression Importance: First impressions based on appearance significantly influence professional relationships."
     ],
     roleplayTips: [
-      "\"Employers consistently report that technical skills get candidates hired but interpersonal and professional skills determine who advances—the soft skills are actually the hard part.\"",
-      "\"Reliability is the first test every new employee faces—before you can demonstrate higher-order skills, people must know they can count on you for the basics.\"",
-      "\"Employability skills are transferable—they travel with you across roles, industries, and career changes, making them the most valuable professional investments you can make.\""
+      "I maintain professional appearance because it communicates respect for my colleagues, customers, and the organization.",
+      "Dressing appropriately for my workplace shows that I understand and value professional norms.",
+      "First impressions in business are often formed in seconds—my appearance is the first signal I send about my professionalism."
     ]
   },
-  "PD036": {
-    id: "PD036",
-    code: "PD:036",
-    name: "Utilize professional development resources",
-    definition: "Use tools that support career growth.",
+
+  "PD009": {
+    id: "PD009",
+    code: "PD:009",
+    name: "Demonstrate systematic behavior",
+    definition: "Work in an organized and methodical manner.",
     keyPoints: [
-      "Mentors: Mentors.",
-      "Professional associations: Professional associations.",
-      "Training programs: Training programs.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Routine Following: Following established routines improves consistency and efficiency in work.",
+      "Organization Maintenance: Staying organized reduces time wasted searching for information or materials.",
+      "Efficiency Improvement: Systematic work habits improve efficiency and output quality.",
+      "Error Reduction: Systematic behavior reduces errors caused by rushing or disorganization.",
+      "Reliability Building: Consistent, organized behavior builds a reputation for reliability."
     ],
     roleplayTips: [
-      "\"Understanding HR management from the employee perspective helps me work more effectively within organizational systems and advocate appropriately for my professional interests.\"",
-      "\"Performance management is an HR process that directly affects my career—understanding how evaluations work helps me manage my performance and visibility proactively.\"",
-      "\"HR's legal compliance role protects employees—knowing what HR is obligated to do and what rights I have makes me a more informed professional.\"",
+      "I work systematically because organized, methodical approaches produce more consistent results than improvised ones.",
+      "Building good work routines reduces the mental load of decision-making and helps me focus on higher-value problems.",
+      "Systematic behavior is how I demonstrate reliability—people can count on me to produce consistent, quality work."
     ]
   },
+
+  "PD018": {
+    id: "PD018",
+    code: "PD:018",
+    name: "Set personal goals",
+    definition: "Establish objectives for personal and professional growth.",
+    keyPoints: [
+      "Short and Long Term: Effective goal setting includes both short-term and long-term objectives.",
+      "Motivation Function: Personal goals provide motivation to work toward desired outcomes.",
+      "Performance Improvement: Setting goals improves performance by providing clear targets.",
+      "SMART Goals: SMART goals—specific, measurable, achievable, relevant, time-bound—are more achievable.",
+      "Direction Provision: Goals provide direction and focus for personal and professional development efforts."
+    ],
+    roleplayTips: [
+      "I set specific, measurable goals because vague aspirations rarely translate into meaningful progress.",
+      "Having both short-term and long-term goals helps me balance immediate priorities with future development.",
+      "My personal goals keep me focused and motivated, especially when daily demands pull my attention in multiple directions."
+    ]
+  },
+
   "PD179": {
     id: "PD179",
     code: "PD:179",
     name: "Balance personal and professional responsibilities",
     definition: "Manage work and personal life effectively.",
     keyPoints: [
-      "Time management: Time management.",
-      "Reduce stress: Reduce stress.",
-      "Maintain productivity: Maintain productivity.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Time Management: Effective time management is essential for balancing personal and professional responsibilities.",
+      "Stress Reduction: Maintaining work-life balance reduces the chronic stress that damages performance.",
+      "Productivity Maintenance: Balance maintains the energy and focus needed for sustained high performance.",
+      "Burnout Prevention: Balance prevents burnout that reduces long-term professional effectiveness.",
+      "Long-Term Performance: Boundaries between work and personal life support long-term performance and well-being."
     ],
     roleplayTips: [
-      "\"I approach career exploration with genuine curiosity—testing hypotheses through actual experience rather than deciding based on assumptions.\"",
-      "\"Business careers vary enormously by industry context—I research how my target role functions specifically in the industries that interest me most.\"",
-      "\"Internships are the most efficient career exploration tool—they provide direct experience and professional network while significantly reducing the risk of poor job choice.\"",
+      "I prioritize work-life balance because sustainable performance requires protecting personal time and energy.",
+      "Setting boundaries between professional and personal time is a professional skill that prevents burnout.",
+      "When I balance my responsibilities effectively, I perform better at both work and in my personal life."
     ]
   },
+
   "PD250": {
     id: "PD250",
     code: "PD:250",
     name: "Adhere to company protocols and policies",
     definition: "Follow established workplace rules and procedures.",
     keyPoints: [
-      "Consistency: Consistency.",
-      "Legal compliance: Legal compliance.",
-      "Professional behavior: Professional behavior.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Consistency: Following protocols consistently ensures predictable, reliable outcomes.",
+      "Legal Compliance: Policy adherence ensures the organization meets its legal obligations.",
+      "Professional Behavior: Adhering to policies demonstrates professional maturity and respect.",
+      "Employee Protection: Policies protect both employees and the organization from harm and liability.",
+      "Violation Prevention: Understanding policies prevents violations caused by ignorance."
     ],
     roleplayTips: [
-      "\"Knowing your employment rights is the foundation of advocating for fair treatment—workers who understand their legal protections are better positioned to exercise them.\"",
-      "\"OSHA's right-to-know provisions ensure workers have access to information about hazardous materials in their workplace—that knowledge is the basis of informed safety decisions.\"",
-      "\"Employment discrimination protections cover the full employment cycle—hiring, promotion, compensation, and termination—understanding the scope helps identify potential violations.\"",
+      "I follow company protocols and policies because they establish the standards that make the organization function effectively.",
+      "Understanding why policies exist helps me follow them thoughtfully rather than just mechanically.",
+      "Policy adherence is a professional responsibility—violations, even unintentional ones, have real consequences."
     ]
   },
+
   "PD251": {
     id: "PD251",
     code: "PD:251",
     name: "Follow rules of conduct",
     definition: "Behave ethically and professionally at work.",
     keyPoints: [
-      "Respect others: Respect others.",
-      "Integrity: Integrity.",
-      "Accountability: Accountability.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Respect for Others: Rules of conduct require treating colleagues, customers, and stakeholders with respect.",
+      "Integrity Maintenance: Following conduct rules maintains personal and organizational integrity.",
+      "Accountability: Adhering to rules of conduct demonstrates accountability for professional behavior.",
+      "Expected Behavior: Rules of conduct define the behavior expected of all members of the organization.",
+      "Violation Consequences: Violations of conduct rules have professional and sometimes legal consequences."
     ],
     roleplayTips: [
-      "\"Career development is a continuous investment—the professionals who advance fastest are those who are always learning something new and applying it immediately.\"",
-      "\"I seek stretch assignments specifically because they're uncomfortable—growth happens at the edge of capability, not in the comfort zone.\"",
-      "\"Mentors have compressed my learning curve significantly—they've helped me avoid mistakes, open doors, and see opportunities I wouldn't have recognized alone.\"",
+      "I follow rules of conduct because they define the ethical and professional standards that make workplaces function.",
+      "Treating everyone with respect isn't just a rule—it's a value I hold regardless of whether conduct rules require it.",
+      "Following rules of conduct consistently builds a reputation for professionalism and integrity."
     ]
   },
+
   "PD252": {
     id: "PD252",
     code: "PD:252",
     name: "Follow chain of command",
     definition: "Communicate through proper authority levels.",
     keyPoints: [
-      "Clear communication: Clear communication.",
-      "Respect leadership: Respect leadership.",
-      "Efficient problem-solving: Efficient problem-solving.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Clear Communication: Following the chain of command ensures clear and accountable communication.",
+      "Leadership Respect: Communicating through proper channels shows respect for organizational leadership.",
+      "Efficient Problem-Solving: The chain of command channels problems to the people with authority to solve them.",
+      "Accountability Structure: Chain of command ensures accountability at each level of the organization.",
+      "Relationship Preservation: Bypassing the chain of command can damage important professional relationships."
     ],
     roleplayTips: [
-      "\"My educational plan starts with the requirements of my target role—I research what credentials and knowledge employers actually value, not what sounds impressive.\"",
-      "\"Debt management is part of educational planning—the ROI of a credential should be evaluated against its cost, including the opportunity cost of time spent studying.\"",
-      "\"I revisit my educational plan annually—industry requirements and my career direction both evolve, and my development investments should reflect current reality.\"",
+      "I follow the chain of command because it ensures accountability and directs issues to the people best equipped to resolve them.",
+      "Respecting the chain of command doesn't mean I can't express disagreement—it means I do so through the right channels.",
+      "When I bypass the chain of command, I risk damaging relationships and undermining the trust that makes organizations work."
     ]
   },
+
   "PD254": {
     id: "PD254",
     code: "PD:254",
     name: "Determine the nature of organizational goals",
     definition: "Identify what a company aims to accomplish.",
     keyPoints: [
-      "Growth: Growth.",
-      "Profitability: Profitability.",
-      "Customer satisfaction: Customer satisfaction.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Growth Objectives: Organizational goals often include growth in revenue, customers, or market share.",
+      "Profitability Targets: Profitability goals guide financial decision-making throughout the organization.",
+      "Customer Satisfaction: Customer satisfaction goals align employee behavior with customer needs.",
+      "Effort Alignment: Understanding organizational goals helps employees align their efforts with what matters.",
+      "Goal Integration: Strategic and operational goals work together to achieve the organization's mission."
     ],
     roleplayTips: [
-      "\"My cover letter tells a story that the resume can't—it explains why this specific role at this specific company is where I want to direct my professional energy.\"",
-      "\"I replace vague adjectives with specific evidence—instead of 'I'm a strong communicator,' I describe a situation where my communication produced a measurable result.\"",
-      "\"A customized letter signals genuine interest—hiring managers can identify a mass-produced cover letter immediately, and it signals you don't care enough to try.\"",
+      "Understanding the organization's goals helps me prioritize my work based on what will have the greatest impact.",
+      "When I align my daily efforts with organizational goals, my work becomes more meaningful and more effective.",
+      "Knowing what the company is trying to achieve helps me make decisions that move us in the right direction."
     ]
   },
-  "PD009": {
-    id: "PD009",
-    code: "PD:009",
-    name: "Prepare a resume",
-    definition: "Create a professional document that presents your education, experience, skills, and accomplishments to prospective employers.",
+
+  "PD255": {
+    id: "PD255",
+    code: "PD:255",
+    name: "Ascertain employee's role in meeting goals",
+    definition: "Explain how individual performance supports company goals.",
     keyPoints: [
-      "Resume Purpose: A marketing document that earns an interview by demonstrating that you meet the requirements of a specific role.",
-      "Accomplishment Focus: Describe achievements and their impact rather than listing job duties—'increased sales 25%' vs. 'responsible for sales.'",
-      "ATS Optimization: Applicant tracking systems scan resumes for keywords—incorporate exact language from job postings.",
-      "Concise Format: Typically one page for early-career professionals—prioritize relevance over completeness.",
-      "Error-Free: Typos or formatting errors signal poor attention to detail—resumes must be flawless."
+      "Task Alignment: Individual tasks must align with organizational goals for work to contribute effectively.",
+      "Accountability: Each employee is accountable for contributing to the goals of their role.",
+      "Team Contribution: Individual contributions combine to drive collective team and organizational success.",
+      "Success Contribution: Every role, regardless of level, contributes to organizational success.",
+      "Performance Understanding: Understanding your role in goal achievement improves motivation and performance."
     ],
     roleplayTips: [
-      "\"My resume uses the employer's keywords from the job posting because applicant tracking systems filter for exact matches before a human ever sees the document.\"",
-      "\"I quantify every accomplishment I can—numbers make claims credible and memorable in ways that descriptive language doesn't.\"",
-      "\"My resume is tailored to each application—different roles emphasize different aspects of my experience, and a generic resume serves none of them well.\""
+      "I understand specifically how my role contributes to our organizational goals, which makes my work feel purposeful.",
+      "When I see the connection between my daily tasks and the company's goals, I make better decisions about priorities.",
+      "Everyone in the organization plays a role in achieving goals—understanding mine helps me fulfill it more effectively."
     ]
   },
+
   "PD126": {
     id: "PD126",
     code: "PD:126",
     name: "Explain the need for innovation skills",
     definition: "Describe why creativity and new ideas are essential.",
     keyPoints: [
-      "Competitive advantage: Competitive advantage.",
-      "Adaptability: Adaptability.",
-      "Problem-solving: Problem-solving.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Competitive Advantage: Innovation skills create competitive advantage by enabling differentiation.",
+      "Adaptability: Creative thinking supports adaptability to changing markets and conditions.",
+      "Problem-Solving: Innovation skills improve the ability to solve complex problems in new ways.",
+      "Growth Driver: Innovation drives business growth and opens new opportunities.",
+      "Routine Limitation: Routine thinking limits opportunity—innovation skills break through established patterns."
     ],
     roleplayTips: [
-      "\"I research each employer deeply before an interview—understanding their business model, recent challenges, and strategic direction lets me have a real conversation, not just answer questions.\"",
-      "\"My STAR stories are prepared and rehearsed for the competencies most likely to be assessed—I can deliver them confidently without sounding scripted.\"",
-      "\"The questions I ask in an interview reveal as much about my preparation and thinking as my answers—I prepare questions that only a serious candidate would ask.\"",
+      "I develop my innovation skills because the ability to generate new ideas is increasingly essential in competitive markets.",
+      "Creative problem-solving helps me find solutions that weren't obvious—which is often where the real value is.",
+      "Innovation doesn't require inventing from scratch—it means applying new thinking to existing challenges and opportunities."
     ]
   },
-  "PD066": {
-    id: "PD066",
-    code: "PD:066",
-    name: "Explain career opportunities in entrepreneurship",
-    definition: "Describe careers involving business ownership.",
+
+  "PD017": {
+    id: "PD017",
+    code: "PD:017",
+    name: "Make decisions",
+    definition: "Choose the best option from alternatives.",
     keyPoints: [
-      "Innovation: Innovation.",
-      "Risk-taking: Risk-taking.",
-      "Independence: Independence.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Information Analysis: Effective decision-making requires analyzing available information thoroughly.",
+      "Outcome Evaluation: Evaluating potential outcomes of each option improves decision quality.",
+      "Responsibility Acceptance: Taking responsibility for decisions reflects professional maturity.",
+      "Core Professional Skill: Decision-making is a core professional skill required in all business roles.",
+      "Consequence Awareness: Poor decisions have real consequences that affect the organization and relationships."
     ],
     roleplayTips: [
-      "\"I build my network proactively, not reactively—the best time to develop relationships is long before you need them.\"",
-      "\"My most valuable network connections are with people who are very different from me—they provide perspectives and access I couldn't generate within my professional bubble.\"",
-      "\"I maintain my network by staying genuinely interested in what my connections are doing—reaching out when I have something relevant to share, not just when I need something.\"",
+      "I approach decisions systematically by identifying my options, evaluating potential outcomes, and selecting the best available choice.",
+      "Taking responsibility for my decisions—whether they succeed or fail—is how I demonstrate professional maturity.",
+      "Good decision-making requires information, but also judgment—I develop both through experience and reflection."
     ]
   },
+
   "PD077": {
     id: "PD077",
     code: "PD:077",
     name: "Demonstrate problem-solving skills",
     definition: "Identify problems and implement solutions.",
     keyPoints: [
-      "Identify cause: Identify cause.",
-      "Evaluate options: Evaluate options.",
-      "Implement solution: Implement solution.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Cause Identification: Effective problem-solving begins with identifying the root cause, not just the symptom.",
+      "Option Evaluation: Evaluating multiple solution options before choosing leads to better outcomes.",
+      "Solution Implementation: Implementing the chosen solution completely and tracking its effectiveness.",
+      "Systematic Approach: Systematic problem-solving consistently produces better outcomes than reactive responses.",
+      "Root Cause Focus: Solutions must address root causes to prevent problems from recurring."
     ],
     roleplayTips: [
-      "\"My follow-up letter references something specific we discussed—it signals I was fully engaged in the conversation, not just presenting a rehearsed script.\"",
-      "\"I view the follow-up letter as a final opportunity to address any aspect of my candidacy I wish I'd handled differently in the interview.\"",
-      "\"Sending a thoughtful follow-up within 24 hours is both professional courtesy and competitive differentiation—the majority of candidates don't do it.\"",
+      "When I encounter a problem, I start by understanding the root cause because solving symptoms just postpones the real issue.",
+      "I evaluate multiple solution options before choosing because the first idea is often not the best one.",
+      "Systematic problem-solving—define, analyze, solve, verify—consistently produces better results than improvised responses."
     ]
   },
+
   "PD012": {
     id: "PD012",
     code: "PD:012",
     name: "Demonstrate appropriate creativity",
     definition: "Use creative thinking within workplace guidelines.",
     keyPoints: [
-      "Innovation: Innovation.",
-      "Efficiency: Efficiency.",
-      "Practical solutions: Practical solutions.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Innovation Support: Appropriate creativity drives innovation within the constraints of professional context.",
+      "Efficiency Improvement: Creative approaches can find more efficient solutions to business problems.",
+      "Practical Solutions: Creativity must produce practical, implementable solutions to have business value.",
+      "Channeling Requirement: Creativity must be channeled appropriately to comply with workplace standards.",
+      "Incremental Value: Even small creative improvements can have significant business impact over time."
     ],
     roleplayTips: [
-      "\"Career advancement isn't always vertical—some of my most important development moves were lateral, building capabilities that later became my competitive advantage.\"",
-      "\"Advancement is both performance and positioning—doing excellent work is necessary but not sufficient; visibility and relationship capital matter as much.\"",
-      "\"I manage my career with a portfolio mindset—balancing current performance with skill development and network investment for future advancement.\"",
+      "I bring creative thinking to work within appropriate boundaries—innovation that can't be implemented isn't valuable.",
+      "Appropriate creativity means finding new approaches that improve outcomes while respecting professional and organizational constraints.",
+      "I look for creative solutions to routine problems because even incremental improvements compound into significant gains."
     ]
   },
-  "PD034": {
-    id: "PD034",
-    code: "PD:034",
-    name: "Explain advancement patterns for jobs",
-    definition: "Describe typical career progression paths.",
+
+  "PD019": {
+    id: "PD019",
+    code: "PD:019",
+    name: "Use time-management skills",
+    definition: "Plan and control how time is spent.",
     keyPoints: [
-      "Promotions: Promotions.",
-      "Skill development: Skill development.",
-      "Experience: Experience.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Task Prioritization: Prioritizing tasks based on importance and urgency is the foundation of time management.",
+      "Deadline Meeting: Effective time management ensures important deadlines are consistently met.",
+      "Productivity Improvement: Managing time well dramatically improves overall productivity.",
+      "Limited Resource: Time is a finite resource—managing it well is essential for professional effectiveness.",
+      "Stress Prevention: Poor time management creates stress and leads to missed goals and deadlines."
     ],
     roleplayTips: [
-      "\"I conduct formal self-assessment quarterly—reviewing performance against goals, seeking external feedback, and adjusting my development plan accordingly.\"",
-      "\"My self-assessment is calibrated against external feedback—I know my own perspective is biased, so I deliberately seek perspectives that might challenge my self-view.\"",
-      "\"Self-assessment without action is just self-indulgence—I translate every meaningful insight into a specific development goal or behavioral commitment.\"",
+      "I manage my time intentionally by prioritizing tasks based on importance so I focus on what truly matters most.",
+      "Time is my most limited resource—managing it well is how I maximize my professional impact.",
+      "Effective time management means saying no to low-priority tasks so I can deliver high-quality work on what matters."
     ]
   },
+
   "PD013": {
     id: "PD013",
     code: "PD:013",
     name: "Assess personal interests and skills",
     definition: "Identify strengths and interests related to business careers.",
     keyPoints: [
-      "Self-awareness: Self-awareness.",
-      "Career fit: Career fit.",
-      "Skill development: Skill development.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Self-Awareness: Assessing interests and skills builds self-awareness essential for career planning.",
+      "Career Fit: Matching interests and skills to career paths improves job satisfaction and performance.",
+      "Skill Development: Identifying skill gaps guides targeted professional development efforts.",
+      "Career Guidance: Interests guide the direction of career exploration and choices.",
+      "Immediate Employability: Skills determine immediate employability and readiness for specific roles."
     ],
     roleplayTips: [
-      "\"I plan my day the evening before—waking with a clear agenda means I spend productive morning hours working, not deciding what to work on.\"",
-      "\"Time blocking is my most powerful productivity technique—complex work requiring deep concentration must be protected from the constant interruption of open-calendar environments.\"",
-      "\"The most valuable time management skill is learning to say no—accepting every request fragments my time and guarantees I can't fully deliver on my most important commitments.\"",
+      "Understanding my interests and skills helps me identify career paths where I'm likely to excel and find satisfaction.",
+      "Self-assessment of skills reveals gaps I need to address to achieve my career goals.",
+      "Aligning my career path with my genuine interests produces sustained motivation that drives long-term success."
     ]
   },
-  "PD035": {
-    id: "PD035",
-    code: "PD:035",
-    name: "Identify skills needed for career progression",
-    definition: "Recognize skills that support advancement.",
-    keyPoints: [
-      "Leadership: Leadership.",
-      "Communication: Communication.",
-      "Technical skills: Technical skills.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
-    ],
-    roleplayTips: [
-      "\"I approach every internship as if it's a 90-day interview for the permanent role I want—the work ethic, professionalism, and curiosity I demonstrate create a lasting impression.\"",
-      "\"Beyond the work itself, I treat internships as network-building opportunities—every supervisor and colleague is a potential career advocate.\"",
-      "\"I ask for feedback proactively during internships rather than waiting until the end—mid-course corrections produce better performance and demonstrate growth orientation.\"",
-    ]
-  },
-  "PD017": {
-    id: "PD017",
-    code: "PD:017",
-    name: "Develop strategies to overcome personal barriers to success",
-    definition: "Identify personal obstacles—mindset, habits, skills gaps, and limiting beliefs—and create plans to address them as part of professional development.",
-    keyPoints: [
-      "Barrier Identification: Honest self-assessment reveals specific internal obstacles—fear of failure, procrastination, imposter syndrome—that limit success.",
-      "Mindset Barriers: Fixed mindset beliefs ('I'm not good at this') prevent skill development; growth mindset ('I can improve') enables it.",
-      "Habit Formation: Replacing counterproductive habits requires identifying triggers, designing replacement routines, and building environmental supports.",
-      "Accountability Structures: Sharing goals with others and creating accountability mechanisms dramatically improve follow-through.",
-      "Professional Support: Coaches, therapists, and mentors provide objective perspective and proven strategies for overcoming personal barriers."
-    ],
-    roleplayTips: [
-      "\"I name my personal barriers explicitly—vague discomfort is harder to address than a specifically identified obstacle with a targeted strategy.\"",
-      "\"Imposter syndrome is nearly universal among high achievers—recognizing it as a psychological pattern, not a factual assessment, reduces its power over my decisions.\"",
-      "\"I build accountability into my personal development goals—sharing them with a mentor or coach dramatically improves the probability I'll actually follow through.\""
-    ]
-  },
-  "PD018": {
-    id: "PD018",
-    code: "PD:018",
-    name: "Describe the nature of professional development",
-    definition: "Explain the ongoing process of acquiring knowledge, skills, and experiences that enhance professional competency and career advancement.",
-    keyPoints: [
-      "Continuous Process: Professional development is a career-long commitment, not a periodic event—the pace of change demands constant learning.",
-      "Formal vs. Informal: Development includes formal education and certification as well as informal learning through experience, reading, and relationships.",
-      "70-20-10 Model: 70% of professional development comes from on-the-job experience, 20% from relationships and feedback, 10% from formal training.",
-      "Development Planning: Intentional development requires an explicit plan with goals, timelines, and methods.",
-      "Organizational Investment: Leading organizations invest in employee development—not just because it's right but because it produces business results."
-    ],
-    roleplayTips: [
-      "\"Professional development isn't something that happens to me—it's something I actively design and pursue with the same rigor I apply to work deliverables.\"",
-      "\"The 70-20-10 model reminds me that most development happens through doing—I seek assignments that stretch my capabilities, not just ones I can handle comfortably.\"",
-      "\"I maintain a personal development plan with quarterly goals—without explicit planning, development gets crowded out by the urgency of immediate work demands.\""
-    ]
-  },
-  "PD019": {
-    id: "PD019",
-    code: "PD:019",
-    name: "Explain the role of professional associations in career development",
-    definition: "Describe how industry organizations support professional growth through networking, certification, publications, and advocacy.",
-    keyPoints: [
-      "Networking Access: Professional associations convene practitioners at events that create relationship opportunities unavailable in single-employer networks.",
-      "Credentialing: Many associations offer certifications that validate expertise and signal commitment to the field.",
-      "Knowledge Resources: Publications, research, and educational programs keep members current on industry developments.",
-      "Career Development: Job boards, mentoring programs, and career resources specific to the profession.",
-      "Professional Identity: Association membership signals professional commitment and connects individuals to a broader community of practice."
-    ],
-    roleplayTips: [
-      "\"Association membership is a career investment that pays dividends in relationships, knowledge, and credentials that I couldn't access as efficiently any other way.\"",
-      "\"Industry certifications signal to employers that my expertise is independently validated—they're worth pursuing for the credential value as much as the learning.\"",
-      "\"I attend association events not just to collect cards but to build real relationships—every new professional contact is a potential mentor, collaborator, or future employer.\""
-    ]
-  },
+
   "PD020": {
     id: "PD020",
     code: "PD:020",
-    name: "Establish a personal brand",
-    definition: "Develop and communicate a distinctive professional identity that conveys your unique value, expertise, and character to employers and professional networks.",
+    name: "Analyze employer expectations",
+    definition: "Understand what employers value in employees.",
     keyPoints: [
-      "Personal Brand Definition: The distinctive impression you create in others' minds—what people say about you when you're not in the room.",
-      "Brand Foundation: Authentic personal brand is grounded in genuine strengths and values—fabricated brands are exposed and damage credibility.",
-      "Consistency: Personal brand must be consistent across platforms—LinkedIn, professional interactions, work output, and social media.",
-      "Visibility: A brand that exists only in your head has no market value—sharing expertise through content, speaking, and networking builds visibility.",
-      "Differentiation: The most effective personal brands represent a distinctive niche, not generic professional competence."
+      "Reliability Value: Employers consistently value reliability as a core employee quality.",
+      "Skills Requirement: Employers expect employees to have the technical skills required for their roles.",
+      "Professionalism Standard: Professional behavior and appearance are universally expected by employers.",
+      "Industry Variation: Expectations vary significantly across industries and organizational cultures.",
+      "Advancement Connection: Meeting employer expectations builds the advancement opportunities that drive careers."
     ],
     roleplayTips: [
-      "\"My personal brand is built around the specific intersection of skills and values that makes my contribution distinctive—not just being good at my job, but being good at it in my particular way.\"",
-      "\"Consistent professional behavior is the brand—how I show up in every meeting, email, and interaction is either reinforcing or eroding the reputation I'm building.\"",
-      "\"I share my expertise publicly through LinkedIn posts and professional conversations—a brand that isn't visible in the market isn't creating professional opportunity.\""
+      "I research what employers value so I can demonstrate those qualities clearly during the hiring process.",
+      "Understanding employer expectations helps me prioritize which skills and behaviors to develop.",
+      "Meeting and exceeding employer expectations is the most reliable path to career advancement and opportunities."
     ]
   },
+
   "PD021": {
     id: "PD021",
     code: "PD:021",
-    name: "Build personal network",
-    definition: "Develop and maintain professional relationships that provide access to information, opportunities, support, and collaboration throughout a career.",
+    name: "Explain the rights of workers",
+    definition: "Describe legal protections for employees.",
     keyPoints: [
-      "Network Value: Professional networks provide access to information, job opportunities, referrals, and expertise that formal channels don't offer.",
-      "Authentic Building: Effective networks are built on genuine mutual interest—transactional networking produces weak ties.",
-      "Proactive Maintenance: Relationships require regular investment—periodic outreach and genuine engagement keep connections active.",
-      "Diverse Network: Connections across industries, functions, and experience levels provide broader access than homogeneous networks.",
-      "Give Before Take: The most effective networkers lead with value—sharing information, making introductions, and offering help before asking for anything."
+      "Fair Pay Rights: Workers have the legal right to fair compensation for their labor.",
+      "Safe Workplace: Employees have the right to a workplace free from unreasonable safety hazards.",
+      "Non-Discrimination: Workers are legally protected from discrimination based on protected characteristics.",
+      "Legal Protections: Employee rights are established and enforced by federal and state laws.",
+      "Advocacy Enablement: Knowing their rights enables employees to advocate effectively for themselves."
     ],
     roleplayTips: [
-      "\"I build my network proactively, not reactively—the best time to develop relationships is long before you need them.\"",
-      "\"My most valuable network connections are with people who are very different from me—they provide perspectives and access I couldn't generate within my professional bubble.\"",
-      "\"I maintain my network by staying genuinely interested in what my connections are doing—reaching out when I have something relevant to share, not just when I need something.\""
+      "Understanding my rights as a worker helps me recognize when those rights are being honored or violated.",
+      "Worker rights exist to protect employees from exploitation—knowing them is essential for professional self-advocacy.",
+      "I approach workplace issues with knowledge of my legal rights so I can address them appropriately and effectively."
     ]
   },
+
   "PD022": {
     id: "PD022",
     code: "PD:022",
-    name: "Use social media in professional development",
-    definition: "Apply LinkedIn, professional communities, and other digital platforms to build visibility, expand networks, and access learning and career opportunities.",
+    name: "Identify sources of career information",
+    definition: "Locate tools to explore careers.",
     keyPoints: [
-      "LinkedIn Profile: A complete, accomplishment-focused LinkedIn profile increases discoverability by recruiters and expands professional reach.",
-      "Content Sharing: Publishing insights, commenting thoughtfully on industry topics, and sharing relevant content builds professional visibility.",
-      "Community Participation: Engaging in professional online communities provides networking access beyond local geography.",
-      "Learning Resources: LinkedIn Learning, YouTube, podcasts, and MOOCs provide accessible professional development content.",
-      "Brand Alignment: Social media presence must be consistent with the professional brand you're building—everything is visible to potential employers."
+      "Online Resources: Career websites and job boards provide extensive career information and job listings.",
+      "Counselor Support: Career counselors provide personalized guidance and assessment tools.",
+      "Industry Resources: Industry associations and publications provide field-specific career information.",
+      "Complete Picture: Using multiple information sources provides a more complete and accurate career picture.",
+      "Informational Interviews: Informational interviews with professionals provide real-world career insight."
     ],
     roleplayTips: [
-      "\"LinkedIn is my professional front door—a strong profile that tells my story clearly and completely creates opportunities I didn't have to actively pursue.\"",
-      "\"Publishing original content on LinkedIn—even brief insights—builds visibility and demonstrates expertise far more effectively than just having a profile.\"",
-      "\"I'm deliberate about my social media presence because potential employers look at it—everything I post publicly contributes to or detracts from the professional brand I'm building.\""
+      "I use multiple sources of career information because each provides a different and complementary perspective.",
+      "Informational interviews with working professionals have given me the most realistic picture of what different careers involve.",
+      "Career research from diverse sources helps me make informed decisions rather than acting on assumptions."
     ]
   },
+
   "PD023": {
     id: "PD023",
     code: "PD:023",
-    name: "Seek out and complete professional development activities",
-    definition: "Actively pursue learning opportunities—courses, workshops, certifications, conferences, and self-directed study—to continuously build professional capabilities.",
+    name: "Identify tentative occupational interest",
+    definition: "Select a potential career path.",
     keyPoints: [
-      "Development Planning: Identifying specific skills to develop, selecting appropriate learning methods, and scheduling development time.",
-      "Variety of Methods: Combining formal coursework, on-the-job application, peer learning, and self-study produces faster capability development.",
-      "Application Priority: New learning must be applied quickly to solidify it—knowledge not applied within 30 days is largely lost.",
-      "Credential Value: Certificates and credentials from recognized programs signal development investment to employers.",
-      "Employer Resources: Professional development budgets, tuition assistance, and company training programs are often underutilized resources."
+      "Interest Exploration: Identifying tentative occupational interests guides focused career exploration.",
+      "Skill Alignment: Connecting interests to skill requirements helps evaluate career fit.",
+      "Opportunity Assessment: Evaluating opportunities in areas of interest informs realistic career planning.",
+      "Mistake Prevention: Early career exploration prevents costly mistakes from committing to wrong career paths.",
+      "Interest Evolution: Occupational interests may evolve as experience and self-knowledge develop."
     ],
     roleplayTips: [
-      "\"I allocate time for professional development on my calendar with the same commitment as client meetings—if it's not scheduled, it doesn't happen.\"",
-      "\"The most valuable learning I do is immediately applied—I seek assignments that let me use new knowledge within days of acquiring it.\"",
-      "\"I fully utilize my employer's professional development benefits—they're part of my compensation package and an investment in my future value.\""
+      "I'm intentional about exploring occupational interests early so I can make informed decisions about education and training.",
+      "Identifying tentative interests allows me to test them through internships and informational interviews before committing.",
+      "Career interests can change—I stay open to new possibilities while pursuing my current direction with commitment."
     ]
   },
+
+  "PD025": {
+    id: "PD025",
+    code: "PD:025",
+    name: "Explain employment opportunities in business",
+    definition: "Describe available careers in business fields.",
+    keyPoints: [
+      "Marketing Careers: Marketing offers diverse careers in brand management, advertising, and market research.",
+      "Finance Opportunities: Finance careers span banking, corporate finance, investment, and accounting.",
+      "Management Roles: Management careers exist at every level and in every industry.",
+      "Industry Breadth: Business careers span virtually every industry and sector.",
+      "Education Impact: Education level and specialization open different career doors in business."
+    ],
+    roleplayTips: [
+      "I explore the full range of business employment opportunities to find the career paths that best align with my interests and skills.",
+      "Understanding business career options helps me make more informed decisions about coursework and skill development.",
+      "Business careers are highly transferable across industries—the foundational skills apply broadly."
+    ]
+  },
+
+  "PD066": {
+    id: "PD066",
+    code: "PD:066",
+    name: "Explain career opportunities in entrepreneurship",
+    definition: "Describe careers involving business ownership.",
+    keyPoints: [
+      "Innovation Opportunity: Entrepreneurship provides opportunities to bring innovative ideas to market.",
+      "Risk Acceptance: Entrepreneurial careers involve accepting significant risk in pursuit of opportunity.",
+      "Independence: Entrepreneurship offers the independence of building and leading one's own organization.",
+      "Economic Value: Entrepreneurs create economic value through new businesses and job creation.",
+      "Broad Skill Requirement: Entrepreneurship requires a broad skill set spanning operations, finance, and marketing."
+    ],
+    roleplayTips: [
+      "I explore entrepreneurship opportunities because I'm interested in the independence and creativity it offers.",
+      "Understanding the skills required for entrepreneurship helps me develop the foundation needed for future business ownership.",
+      "Entrepreneurship is a career path that rewards risk-taking and broad capabilities—I assess my readiness honestly."
+    ]
+  },
+
+  "PD026": {
+    id: "PD026",
+    code: "PD:026",
+    name: "Utilize job-search strategies",
+    definition: "Use methods to find employment opportunities.",
+    keyPoints: [
+      "Online Job Search: Online job boards and company websites are primary sources of employment opportunities.",
+      "Networking Value: Professional networking is consistently one of the most effective job search strategies.",
+      "Career Fair Use: Career fairs provide direct access to employers actively seeking candidates.",
+      "Strategy Combination: Using multiple job search strategies increases the chances of finding opportunities.",
+      "Persistence Requirement: Persistence is required because successful job searching takes consistent effort."
+    ],
+    roleplayTips: [
+      "I use multiple job search strategies simultaneously because different opportunities surface through different channels.",
+      "Networking has been my most effective job search strategy because referrals open doors that applications often don't.",
+      "Persistence in job searching is essential—consistent effort over time produces results that inconsistent effort cannot."
+    ]
+  },
+
+  "PD027": {
+    id: "PD027",
+    code: "PD:027",
+    name: "Complete a job application",
+    definition: "Accurately provide employment information.",
+    keyPoints: [
+      "Honesty Requirement: Job applications must be completed honestly because misrepresentation has serious consequences.",
+      "Accuracy Importance: Accuracy in all details is essential—errors create negative impressions.",
+      "Professional Presentation: Professional completion of applications reflects on the applicant's attention to detail.",
+      "Disqualification Risk: Errors or omissions can disqualify an otherwise strong applicant.",
+      "Legal Document: Job applications are legal documents and false statements carry legal consequences."
+    ],
+    roleplayTips: [
+      "I complete job applications with extreme care because accuracy and honesty reflect on my professionalism.",
+      "A job application is a legal document—I treat it with the same seriousness I would any contract.",
+      "Taking time to complete applications thoroughly and accurately demonstrates the attention to detail employers value."
+    ]
+  },
+
+  "PD028": {
+    id: "PD028",
+    code: "PD:028",
+    name: "Interview for a job",
+    definition: "Communicate qualifications during an interview.",
+    keyPoints: [
+      "Confidence Display: Displaying appropriate confidence during interviews strengthens the impression created.",
+      "Clear Responses: Providing clear, specific answers to interview questions demonstrates communication skills.",
+      "Professional Appearance: Professional appearance in interviews signals readiness for the professional environment.",
+      "Preparation Advantage: Preparation distinguishes strong candidates from those who rely solely on improvisation.",
+      "First Impression: First impressions in interviews significantly influence hiring decisions."
+    ],
+    roleplayTips: [
+      "I prepare thoroughly for interviews because preparation is what separates confident, capable answers from nervous improvisation.",
+      "I practice answering common interview questions so I can respond clearly and concisely under pressure.",
+      "Every interview is a learning experience—I debrief afterward to identify what I can improve for next time."
+    ]
+  },
+
+  "PD029": {
+    id: "PD029",
+    code: "PD:029",
+    name: "Write a follow-up letter after interviews",
+    definition: "Send a thank-you message post-interview.",
+    keyPoints: [
+      "Appreciation Expression: A follow-up letter expresses genuine appreciation for the interviewer's time.",
+      "Interest Reinforcement: Following up reinforces the candidate's interest in the position.",
+      "Professionalism Demonstration: Sending a follow-up demonstrates professional courtesy and follow-through.",
+      "Differentiation Opportunity: Most candidates don't follow up—doing so differentiates strong candidates.",
+      "Timing Importance: Timing matters—follow-up letters sent within 24 hours are most effective."
+    ],
+    roleplayTips: [
+      "I send follow-up letters within 24 hours of every interview because it demonstrates professional courtesy and genuine interest.",
+      "A thoughtful follow-up letter reinforces my qualifications and shows that I listened carefully during the interview.",
+      "Follow-up letters differentiate me from candidates who don't send them—it's a simple step with meaningful impact."
+    ]
+  },
+
+  "PD030": {
+    id: "PD030",
+    code: "PD:030",
+    name: "Write a letter of application",
+    definition: "Introduce qualifications to employers.",
+    keyPoints: [
+      "Clear Intent: A letter of application clearly states the position of interest and reason for applying.",
+      "Relevant Skills: Highlighting relevant skills and experience makes the case for the candidate's fit.",
+      "Professional Tone: A professional, confident tone throughout the letter reflects communication skills.",
+      "Customization Signal: Customizing the letter to the specific employer shows genuine interest.",
+      "Resume Supplement: The letter of application supplements and introduces the resume."
+    ],
+    roleplayTips: [
+      "I customize every letter of application to the specific employer and role because generic letters are ineffective.",
+      "My letter of application tells a compelling story about why I'm the right person for this specific role.",
+      "A strong letter of application opens the door for the resume to be read—it must make the employer want to know more."
+    ]
+  },
+
+  "PD031": {
+    id: "PD031",
+    code: "PD:031",
+    name: "Prepare a résumé",
+    definition: "Summarize skills, education, and experience.",
+    keyPoints: [
+      "Clear Layout: A clear, well-organized layout makes the resume easy to scan and navigate.",
+      "Relevant Details: Including relevant experience and skills tailored to the target role improves impact.",
+      "Accuracy Requirement: Accuracy in all resume content is essential—inaccuracies can disqualify candidates.",
+      "Tailoring Value: Tailoring the resume to each specific application significantly improves effectiveness.",
+      "Accomplishment Focus: Specific accomplishments are more compelling than general job duty descriptions."
+    ],
+    roleplayTips: [
+      "I tailor my resume to each application because a generic resume rarely stands out in a competitive applicant pool.",
+      "I emphasize accomplishments with specific numbers and outcomes rather than just listing job duties.",
+      "A well-prepared resume communicates not just what I've done but the value I've delivered in each role."
+    ]
+  },
+
   "PD037": {
     id: "PD037",
     code: "PD:037",
     name: "Use networking techniques",
     definition: "Build relationships to find job opportunities.",
     keyPoints: [
-      "Professional contacts: Professional contacts.",
-      "Referrals: Referrals.",
-      "Career growth: Career growth.",
-      "Career Impact: Developing this skill enhances professional effectiveness and career advancement opportunities.",
-      "Professional Standard: This behavior is expected of business professionals and directly affects success.",
+      "Professional Contacts: Building professional contacts is the foundation of effective networking.",
+      "Referral Generation: Networking generates referrals that open job opportunities unavailable through other channels.",
+      "Career Growth: Strong professional networks support career growth throughout a professional's career.",
+      "Hidden Market: Most positions are filled through networks before they are publicly posted.",
+      "Relationship Investment: Effective networking requires genuine relationship investment, not just transactional connections."
     ],
     roleplayTips: [
-      "\"Global issues are business issues—climate risk, geopolitical instability, and inequality all affect markets, supply chains, and the social environment in which we operate.\"",
-      "\"ESG isn't just ethics—it's risk management. Investors and customers increasingly use ESG performance to assess organizational resilience and trustworthiness.\"",
-      "\"Businesses that engage constructively with global challenges build the stakeholder trust and social license that provides competitive advantage over those that ignore or resist them.\"",
+      "I build my professional network consistently because most career opportunities come through relationships, not job boards.",
+      "Networking requires genuine relationship investment—I focus on how I can add value, not just on what I can gain.",
+      "Maintaining network relationships during times I'm not actively job searching makes the network much more valuable when I need it."
     ]
   },
-  "PD025": {
-    id: "PD025",
-    code: "PD:025",
-    name: "Maintain positive relationship with supervisor",
-    definition: "Build and sustain a productive, professional, and mutually respectful relationship with your direct supervisor or manager.",
-    keyPoints: [
-      "Communication: Regular, proactive communication about progress, challenges, and ideas keeps the supervisor informed and builds trust.",
-      "Expectation Clarity: Confirming priorities and success criteria at the outset of assignments prevents misaligned effort.",
-      "Reliability: Consistently delivering quality work on time is the most fundamental positive supervisor relationship investment.",
-      "Feedback Seeking: Proactively requesting feedback signals growth orientation and creates more frequent development conversations.",
-      "Adaptability: Adjusting to your supervisor's communication style, working style, and preferences demonstrates professional flexibility."
-    ],
-    roleplayTips: [
-      "\"I manage my supervisor relationship proactively—I check in regularly, flag potential issues early, and don't wait to be asked about my progress.\"",
-      "\"Starting new assignments by confirming priorities and success criteria prevents the frustrating experience of delivering excellent work that missed the point.\"",
-      "\"I adapt to my supervisor's communication preferences rather than expecting them to adapt to mine—that flexibility is a professional courtesy and a relationship investment.\""
-    ]
-  },
-  "PD026": {
-    id: "PD026",
-    code: "PD:026",
-    name: "Explain the importance of corporate governance",
-    definition: "Describe the system of rules, practices, and processes by which a company is directed and controlled to protect stakeholder interests and ensure accountability.",
-    keyPoints: [
-      "Governance Purpose: Corporate governance creates accountability structures that protect shareholders, employees, customers, and communities.",
-      "Board of Directors: The board provides oversight, strategic guidance, and accountability for executive management.",
-      "Executive Accountability: Governance structures ensure executives are accountable to the board and shareholders for their decisions.",
-      "Transparency: Disclosure requirements and audit processes ensure accurate financial reporting and operational transparency.",
-      "Failure Consequences: Governance failures—Enron, Wirecard—produce devastating losses for shareholders and employees."
-    ],
-    roleplayTips: [
-      "\"Corporate governance creates the accountability architecture that makes large organizations trustworthy—without it, executives have unchecked authority over others' money.\"",
-      "\"The board's independence from management is the cornerstone of effective governance—board members who rely on management for their positions can't provide objective oversight.\"",
-      "\"Governance failures are invariably discovered—transparent reporting and strong internal controls are far less costly than the aftermath of discovered fraud.\""
-    ]
-  },
-  "PD027": {
-    id: "PD027",
-    code: "PD:027",
-    name: "Discuss the nature of business law",
-    definition: "Describe the legal framework—contracts, torts, intellectual property, employment, and regulatory law—that governs business operations.",
-    keyPoints: [
-      "Contract Law: Binding agreements between parties require offer, acceptance, consideration, and capacity to be legally enforceable.",
-      "Tort Law: Civil wrongs that cause harm to others—negligence, product liability, defamation—create legal liability for businesses.",
-      "Business Entities: The legal form of a business (sole proprietorship, LLC, corporation) determines owner liability and tax treatment.",
-      "Intellectual Property: Patents, trademarks, copyrights, and trade secrets provide legal protection for business innovations.",
-      "Regulatory Compliance: Industry-specific regulations—securities, healthcare, financial services—impose legal obligations on covered businesses."
-    ],
-    roleplayTips: [
-      "\"Business law knowledge helps me identify when I need legal counsel—understanding the basic framework prevents the costly mistake of thinking legal issues are straightforward.\"",
-      "\"Contract literacy is a fundamental business skill—I can read and understand a contract before signing rather than accepting terms I haven't evaluated.\"",
-      "\"Business entity selection is one of the most important legal decisions an entrepreneur makes—liability protection and tax treatment have enormous long-term implications.\""
-    ]
-  },
-  "PD028": {
-    id: "PD028",
-    code: "PD:028",
-    name: "Discuss global issues in business",
-    definition: "Analyze current global challenges—climate change, inequality, geopolitical instability, pandemic risk—and how they shape business strategy and responsibility.",
-    keyPoints: [
-      "Climate Risk: Physical climate impacts and energy transition create material risks and strategic opportunities for businesses in every sector.",
-      "Global Inequality: Extreme economic inequality affects markets, political stability, and the social license to operate.",
-      "Geopolitical Instability: Trade conflicts, sanctions, and political risk require scenario planning and supply chain resilience.",
-      "Pandemic Preparedness: COVID-19 demonstrated the operational and financial vulnerability of poorly prepared organizations.",
-      "ESG Integration: Environmental, social, and governance factors are increasingly integrated into investor and customer decision-making."
-    ],
-    roleplayTips: [
-      "\"Global issues are business issues—climate risk, geopolitical instability, and inequality all affect markets, supply chains, and the social environment in which we operate.\"",
-      "\"ESG isn't just ethics—it's risk management. Investors and customers increasingly use ESG performance to assess organizational resilience and trustworthiness.\"",
-      "\"Businesses that engage constructively with global challenges build the stakeholder trust and social license that provides competitive advantage over those that ignore or resist them.\""
-    ]
-  },
-  "PD029": {
-    id: "PD029",
-    code: "PD:029",
-    name: "Determine opportunities for professional development",
-    definition: "Identify specific learning experiences, credentials, and growth opportunities that align with career goals and current skill gaps.",
-    keyPoints: [
-      "Gap Analysis: Comparing current capabilities to the requirements of target roles reveals the highest-priority development opportunities.",
-      "Opportunity Sources: Conferences, courses, certifications, stretch assignments, mentors, and professional associations all provide development opportunities.",
-      "Return on Development: Evaluating the career impact of available opportunities helps prioritize where to invest limited time.",
-      "Timing: Some development opportunities (certifications, graduate education) have optimal timing in a career—understanding windows matters.",
-      "Organizational Resources: Many employers offer development budgets, tuition assistance, and internal programs that represent underutilized opportunity."
-    ],
-    roleplayTips: [
-      "\"I approach development opportunity identification like investment portfolio construction—seeking the highest return opportunities relative to time and financial cost.\"",
-      "\"Internal stretch assignments are the highest-return development opportunities available in most organizations—they build skills while also increasing visibility and relationships.\"",
-      "\"I review available development opportunities annually in my development planning cycle—the landscape changes, and opportunities that didn't make sense last year may be perfect now.\""
-    ]
-  },
-  "PD030": {
-    id: "PD030",
-    code: "PD:030",
-    name: "Explain the importance of ongoing education and training",
-    definition: "Describe why continuous learning throughout a career is essential for maintaining employability, advancing professionally, and adapting to change.",
-    keyPoints: [
-      "Skills Obsolescence: Technical skills depreciate rapidly in knowledge-intensive fields—ongoing learning prevents capability obsolescence.",
-      "Career Longevity: Professionals who invest in continuous development remain competitive and valuable across longer career spans.",
-      "Adaptability: Regular learning builds the cognitive flexibility needed to adapt to new roles, technologies, and business contexts.",
-      "Competitive Differentiation: In fields where most professionals stop actively learning after initial qualification, continuous learners stand out.",
-      "Personal Satisfaction: Continuous learning produces intellectual engagement and mastery that contribute to professional fulfillment."
-    ],
-    roleplayTips: [
-      "\"The half-life of technical knowledge is shortening—what was cutting-edge five years ago may be standard or obsolete today. Ongoing education is professional survival.\"",
-      "\"Continuous learning is both a career protection strategy and a personal growth strategy—the two happen to align perfectly.\"",
-      "\"I view every professional development opportunity as compounding—skills acquired today make future learning faster and future contributions more valuable.\""
-    ]
-  },
-  "PD031": {
-    id: "PD031",
-    code: "PD:031",
-    name: "Conduct self-assessment",
-    definition: "Systematically evaluate your own knowledge, skills, values, and performance to identify strengths to leverage and weaknesses to address.",
-    keyPoints: [
-      "Assessment Frequency: Regular self-assessment—quarterly or after major experiences—builds an accurate, evolving self-picture.",
-      "Structured Methods: Performance reviews, 360 feedback, skills inventories, and personality assessments provide structured self-assessment frameworks.",
-      "Blind Spot Awareness: Self-assessment alone has inherent limitations—combining self-assessment with external feedback improves accuracy.",
-      "Honest Reflection: Effective self-assessment requires intellectual courage to acknowledge genuine weaknesses, not just comfortable ones.",
-      "Development Input: Self-assessment results should directly inform development planning—translating insight into action is the ultimate purpose."
-    ],
-    roleplayTips: [
-      "\"I conduct formal self-assessment quarterly—reviewing performance against goals, seeking external feedback, and adjusting my development plan accordingly.\"",
-      "\"My self-assessment is calibrated against external feedback—I know my own perspective is biased, so I deliberately seek perspectives that might challenge my self-view.\"",
-      "\"Self-assessment without action is just self-indulgence—I translate every meaningful insight into a specific development goal or behavioral commitment.\""
-    ]
-  },
+
   "PD032": {
     id: "PD032",
     code: "PD:032",
-    name: "Utilize internship experiences",
-    definition: "Extract maximum professional and career development value from supervised work experiences through deliberate learning, networking, and performance.",
+    name: "Describe techniques for obtaining work experience",
+    definition: "Explain ways to gain practical experience.",
     keyPoints: [
-      "Skill Application: Internships provide the context to apply classroom learning in real business settings—the application solidifies understanding.",
-      "Professional Network: Internship relationships with colleagues and supervisors often represent the first nodes of a professional network.",
-      "Career Testing: Internships enable low-risk career path testing—confirming or disconfirming interest and fit before committing.",
-      "Reference Building: Supervisors who observe strong internship performance become valuable professional references and advocates.",
-      "Full-Time Opportunity: Many internships serve as extended interviews—outstanding performance frequently leads to permanent employment offers."
+      "Internships: Internships provide supervised practical experience in real professional environments.",
+      "Volunteering: Volunteering offers practical experience while contributing to community needs.",
+      "Part-Time Work: Part-time work in related fields builds relevant experience and professional habits.",
+      "Classroom Learning Validation: Practical experience validates and applies classroom learning in real contexts.",
+      "Employability Building: Practical experience builds the employability that education alone cannot provide."
     ],
     roleplayTips: [
-      "\"I approach every internship as if it's a 90-day interview for the permanent role I want—the work ethic, professionalism, and curiosity I demonstrate create a lasting impression.\"",
-      "\"Beyond the work itself, I treat internships as network-building opportunities—every supervisor and colleague is a potential career advocate.\"",
-      "\"I ask for feedback proactively during internships rather than waiting until the end—mid-course corrections produce better performance and demonstrate growth orientation.\""
+      "I pursue internships and part-time work because practical experience makes classroom learning concrete and applicable.",
+      "Work experience signals to employers that I can apply knowledge, not just recall it in a test setting.",
+      "Every work experience, even volunteer work, builds skills and professional habits that strengthen future applications."
     ]
   },
+
   "PD033": {
     id: "PD033",
     code: "PD:033",
-    name: "Describe the nature of human resources management",
-    definition: "Explain the organizational function responsible for attracting, developing, managing, and retaining talent to support strategic business objectives.",
+    name: "Explain need for ongoing education",
+    definition: "Describe why continuous learning is important.",
     keyPoints: [
-      "HRM Definition: The function that manages the employee lifecycle from talent acquisition through development, retention, and separation.",
-      "Strategic Partner: Modern HR serves as a strategic business partner—aligning people strategy with organizational strategy.",
-      "Core Responsibilities: Recruitment, onboarding, performance management, compensation, training, and employee relations.",
-      "Legal Compliance: HR ensures organizational compliance with employment law across all people management activities.",
-      "Culture Steward: HR plays a central role in defining, communicating, and reinforcing organizational culture."
+      "Skill Updates: Ongoing education keeps skills current as technology and practices evolve.",
+      "Career Growth: Continuous learning drives career growth by expanding capabilities.",
+      "Market Competitiveness: Regular learning maintains competitiveness in a rapidly changing job market.",
+      "Technology Change: Accelerating technology change makes ongoing learning essential for all professionals.",
+      "Lifelong Learner Advantage: Lifelong learners consistently outperform those who stop developing after formal education."
     ],
     roleplayTips: [
-      "\"Understanding HR management from the employee perspective helps me work more effectively within organizational systems and advocate appropriately for my professional interests.\"",
-      "\"Performance management is an HR process that directly affects my career—understanding how evaluations work helps me manage my performance and visibility proactively.\"",
-      "\"HR's legal compliance role protects employees—knowing what HR is obligated to do and what rights I have makes me a more informed professional.\""
+      "I invest in ongoing education because the skills valued today may be obsolete tomorrow—continuous learning is essential.",
+      "My commitment to lifelong learning keeps me competitive and opens opportunities that stagnant professionals miss.",
+      "I treat professional development as an ongoing investment in my most valuable asset—my own capabilities."
+    ]
+  },
+
+  "PD034": {
+    id: "PD034",
+    code: "PD:034",
+    name: "Explain advancement patterns for jobs",
+    definition: "Describe typical career progression paths.",
+    keyPoints: [
+      "Promotion Pathways: Career advancement often follows defined promotion paths within organizations.",
+      "Skill Development: Progressive skill development is required to qualify for higher-level positions.",
+      "Experience Accumulation: Accumulated experience is a key factor in career advancement.",
+      "Demonstrated Competency: Advancement requires demonstrating competency in the current role.",
+      "Lateral Value: Lateral moves to different roles can build valuable skills that accelerate advancement."
+    ],
+    roleplayTips: [
+      "Understanding typical career advancement patterns helps me plan my development to qualify for the next level.",
+      "I look for both vertical and lateral advancement opportunities because each can build valuable capabilities.",
+      "Career advancement is not automatic—it requires demonstrating that I'm already performing at the level I want to reach."
+    ]
+  },
+
+  "PD035": {
+    id: "PD035",
+    code: "PD:035",
+    name: "Identify skills needed for career progression",
+    definition: "Recognize skills that support advancement.",
+    keyPoints: [
+      "Leadership Skills: Leadership skills are essential for advancement beyond individual contributor roles.",
+      "Communication Skills: Strong communication skills are required at all levels of career advancement.",
+      "Technical Skills: Technical skills relevant to the specific field are foundational for advancement.",
+      "Gap Limitation: Skill gaps limit advancement opportunities and must be addressed intentionally.",
+      "Development Acceleration: Targeted skill development accelerates career growth toward specific goals."
+    ],
+    roleplayTips: [
+      "I identify the skills required for my next career level so I can develop them intentionally rather than accidentally.",
+      "Understanding which skills matter most for advancement helps me prioritize my professional development investments.",
+      "Skill gaps are the primary barrier to career advancement—identifying and addressing them is how I create opportunity."
+    ]
+  },
+
+  "PD036": {
+    id: "PD036",
+    code: "PD:036",
+    name: "Utilize professional development resources",
+    definition: "Use tools that support career growth.",
+    keyPoints: [
+      "Mentorship: Mentors provide experienced guidance and perspective that accelerates professional development.",
+      "Professional Associations: Professional associations offer learning resources, networking, and credentialing.",
+      "Training Programs: Formal training programs build specific skills efficiently.",
+      "Underutilization Problem: Professional development resources are often available but underutilized.",
+      "Intentional Development: Intentional, targeted use of resources is more effective than passive learning."
+    ],
+    roleplayTips: [
+      "I actively use mentors and professional associations because they provide access to knowledge and networks I couldn't build alone.",
+      "Intentionally using professional development resources is how I make steady progress toward my career goals.",
+      "Many development resources are available and underutilized—I make it a priority to take advantage of what's accessible to me."
     ]
   },
 
