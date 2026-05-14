@@ -1,0 +1,410 @@
+[
+  {
+    "code": "EI:001",
+    "name": "EI:001 (PQ) – Describe the nature of emotional intelligence",
+    "description": "Understand and manage one’s emotions while recognizing emotions in others.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:016",
+    "name": "EI:016 (PQ) – Explain the concept of self-esteem",
+    "description": "Describe how individuals value and perceive themselves.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:017",
+    "name": "EI:017 (PQ) – Recognize and overcome personal biases and stereotypes Definition: Identify and reduce preconceived beliefs about others.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:002",
+    "name": "EI:002 (PQ) – Assess personal strengths and weaknesses Definition: Evaluate abilities and areas for improvement. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:126",
+    "name": "EI:126 (PQ) – Assess personal behavior and values",
+    "description": "Examine actions and beliefs to ensure alignment with goals and ethics.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:018",
+    "name": "EI:018 (PQ) – Identify desirable personality traits important to business Definition: Recognize characteristics that support professional success. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:023",
+    "name": "EI:023 (PQ) – Exhibit self-confidence Definition: Demonstrate belief in one’s abilities. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:020",
+    "name": "EI:020 (PQ) – Demonstrate interest and enthusiasm Definition: Show genuine engagement in tasks and roles. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:024",
+    "name": "EI:024 (PQ) – Demonstrate initiative",
+    "description": "Take proactive steps without being directed.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:022",
+    "name": "EI:022 (PQ) – Demonstrate honesty and integrity",
+    "description": "Act truthfully and consistently with moral principles.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:021",
+    "name": "EI:021 (PQ) – Demonstrate responsible behavior Definition: Act dependably and ethically in all situations. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:127",
+    "name": "EI:127 (PQ) – Demonstrate fairness Definition: Treat others impartially and justly. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:091",
+    "name": "EI:091 (PQ) – Assess risks of personal decisions Definition: Evaluate potential consequences before acting. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:004",
+    "name": "EI:004 (PQ) – Demonstrate ethical work habits",
+    "description": "Follow ethical standards in daily work behavior.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:075",
+    "name": "EI:075 (PQ) – Take responsibility for decisions and actions Definition: Accept accountability for outcomes.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:128",
+    "name": "EI:128 (CS) – Build trust in relationships",
+    "description": "Establish reliability and credibility with others.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:123",
+    "name": "EI:123 (CS) – Describe the nature of ethics",
+    "description": "Explain moral principles that guide behavior.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:124",
+    "name": "EI:124 (CS) – Explain reasons for ethical dilemmas Definition: Identify situations where ethical values conflict. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:125",
+    "name": "EI:125 (CS) – Recognize and respond to ethical dilemmas Definition: Identify ethical issues and take appropriate action. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:077",
+    "name": "EI:077 (CS) – Manage commitments in a timely manner Definition: Meet deadlines and obligations responsibly. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:092",
+    "name": "EI:092 (CS) – Develop tolerance for ambiguity Definition: Remain effective despite uncertainty. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:019",
+    "name": "EI:019 (PQ) – Exhibit a positive attitude",
+    "description": "Maintain optimism in challenging situations.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:025",
+    "name": "EI:025 (PQ) – Demonstrate self-control Definition: Regulate emotions and reactions. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:003",
+    "name": "EI:003 (PQ) – Explain the use of feedback for personal growth Definition: Use input from others to improve performance. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:026",
+    "name": "EI:026 (PQ) – Adjust to change",
+    "description": "Adapt behavior and mindset to new situations.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:029",
+    "name": "EI:029 (PQ) – Respect the privacy of others",
+    "description": "Honor personal boundaries and information.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:030",
+    "name": "EI:030 (PQ) – Show empathy for others Definition: Understand and share others’ feelings. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:103",
+    "name": "EI:103 (CS) – Maintain the confidentiality of others Definition: Protect sensitive information.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:033",
+    "name": "EI:033 (CS) – Exhibit cultural sensitivity",
+    "description": "Respect diverse backgrounds and perspectives.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:104",
+    "name": "EI:104 (SP) – Leverage personality types in business situations Definition: Use personality differences to improve collaboration. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:007",
+    "name": "EI:007 (PQ) – Explain the nature of effective communications Definition: Describe clear, respectful, and purposeful communication. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:038",
+    "name": "EI:038 (SP) – Explain ethical considerations in providing information Definition: Ensure honesty and accuracy when sharing information. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:129",
+    "name": "EI:129 (SP) – Foster open, honest communication Definition: Encourage transparency and trust. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:130",
+    "name": "EI:130 (SP) – Collaborate with others",
+    "description": "Work cooperatively toward shared goals.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:106",
+    "name": "EI:106 (SP) – Solicit feedback",
+    "description": "Request input to improve performance.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:107",
+    "name": "EI:107 (SP) – Use social media to solicit new ideas and solutions",
+    "description": "Use online platforms to gather input.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:108",
+    "name": "EI:108 (SP) – “Sell” ideas to others Definition: Present ideas persuasively. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:012",
+    "name": "EI:012 (SP) – Persuade others Definition: Influence opinions or actions. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:062",
+    "name": "EI:062 (SP) – Demonstrate negotiation skills Definition: Reach mutually beneficial agreements. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:008",
+    "name": "EI:008 (PQ) – Use appropriate assertiveness Definition: Express needs respectfully and confidently. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:015",
+    "name": "EI:015 (CS) – Use conflict-resolution skills Definition: Resolve disagreements constructively. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:109",
+    "name": "EI:109 (CS) – Explain the nature of office politics",
+    "description": "Describe informal power dynamics.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:095",
+    "name": "EI:095 (CS) – Overcome problems associated with office politics",
+    "description": "Navigate workplace dynamics effectively.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:028",
+    "name": "EI:028 (SP) – Explain the nature of stress management Definition: Describe techniques to manage stress.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:045",
+    "name": "EI:045 (CS) – Participate as a team member Definition: Contribute positively to team efforts. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:011",
+    "name": "EI:011 (SP) – Use consensus-building skills Definition: Reach group agreement collaboratively. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:059",
+    "name": "EI:059 (SP) – Motivate team members",
+    "description": "Encourage others to perform at their best.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:009",
+    "name": "EI:009 (CS) – Explain the concept of leadership Definition: Influence others to achieve goals. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:131",
+    "name": "EI:131 (CS) – Explain the nature of ethical leadership Definition: Lead using integrity and fairness.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:132",
+    "name": "EI:132 (CS) – Model ethical behavior Definition: Demonstrate ethics through actions. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:063",
+    "name": "EI:063 (CS) – Determine personal vision",
+    "description": "Define personal leadership goals.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:133",
+    "name": "EI:133 (CS) – Inspire others",
+    "description": "Motivate others toward success.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:006",
+    "name": "EI:006 (CS) – Demonstrate adaptability Definition: Adjust leadership style to situations. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:027",
+    "name": "EI:027 (CS) – Develop an achievement orientation Definition: Focus on accomplishing goals.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:134",
+    "name": "EI:134 (CS) – Challenge the status quo Definition: Question existing practices. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:005",
+    "name": "EI:005 (CS) – Lead change",
+    "description": "Guide others through transitions.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:060",
+    "name": "EI:060 (CS) – Enlist others in working toward a shared vision Definition: Unite people around common goals.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:041",
+    "name": "EI:041 (CS) – Coach others",
+    "description": "Support others’ development.",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:135",
+    "name": "EI:135 (SP) – Use power appropriately Definition: Apply authority responsibly. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:014",
+    "name": "EI:014 (SP) – Recognize/reward others for contributions Definition: Acknowledge performance and effort.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:036",
+    "name": "EI:036 (PQ) – Treat others with dignity and respect Definition: Show courtesy and professionalism. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:037",
+    "name": "EI:037 (CS) – Foster positive working relationships Definition: Build cooperative interactions.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:136",
+    "name": "EI:136 (CS) – Consider conflicting viewpoints Definition: Acknowledge differing opinions. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:137",
+    "name": "EI:137 (SP) – Assess long-term impact of actions on others Definition: Evaluate consequences of decisions.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:061",
+    "name": "EI:061 (SP) – Maintain collaborative partnerships Definition: Sustain cooperative relationships. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:034",
+    "name": "EI:034 (SP) – Explain impact of political relationships in an organization Definition: Describe influence of internal alliances.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:064",
+    "name": "EI:064 (SP) – Explain the nature of organizational culture Definition: Describe shared values and norms.",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  },
+  {
+    "code": "EI:112",
+    "name": "EI:112 (SP) – Interpret and adapt to a business’s culture Definition: Adjust behavior to fit organizational norms. Key Points:",
+    "description": "",
+    "cluster": "Emotional Intelligence"
+  }
+]
